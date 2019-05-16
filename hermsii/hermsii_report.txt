@@ -1,0 +1,43 @@
+# Assembly name:  ASM166000v1
+# Organism name:  Borrelia hermsii HS1 (spirochetes)
+# Infraspecific name:  strain=HS1
+# Isolate:  Browne Mountain
+# Taxid:          1867252
+# BioSample:      SAMN04481062
+# BioProject:     PRJNA311246
+# Submitter:      University of California Irvine
+# Date:           2016-4-22
+# Assembly type:  n/a
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: SMRT Analysis HGAP v. 2.1; CLC Assembly Cell v. 8.5
+# Genome coverage: 1000X
+# Sequencing technology: Illumina; IonTorrent; PacBio
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_001660005.1
+# RefSeq assembly accession: GCF_001660005.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_001660015.1	GCF_001660015.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP014349.1	=	NZ_CP014349.1	Primary Assembly	922500	na
+cp28	assembled-molecule	cp28	Plasmid	CP014351.1	=	NZ_CP014351.1	Primary Assembly	27881	na
+cp6.5	assembled-molecule	cp6.5	Plasmid	CP015335.1	=	NZ_CP015335.1	Primary Assembly	6540	na
+lpB58	assembled-molecule	lpB58	Plasmid	CP014792.1	=	NZ_CP014792.1	Primary Assembly	58207	na
+lpE27	assembled-molecule	lpE27	Plasmid	CP014871.1	=	NZ_CP014871.1	Primary Assembly	27074	na
+lpF27	assembled-molecule	lpF27	Plasmid	CP015336.1	=	NZ_CP015336.1	Primary Assembly	26961	na
+lpG27	assembled-molecule	lpG27	Plasmid	CP015334.1	=	NZ_CP015334.1	Primary Assembly	27366	na
+lpN31	assembled-molecule	lpN31	Plasmid	CP015331.1	=	NZ_CP015331.1	Primary Assembly	31123	na
+lpT28	assembled-molecule	lpT28	Plasmid	CP015332.1	=	NZ_CP015332.1	Primary Assembly	27618	na
+lpV47	assembled-molecule	lpV47	Plasmid	CP015333.1	=	NZ_CP015333.1	Primary Assembly	46648	na
+megaplasmid	assembled-molecule	megaplasmid	Plasmid	CP014350.1	=	NZ_CP014350.1	Primary Assembly	182863	na
+CP015337.1	unlocalized-scaffold	pR	Plasmid	CP015337.1	=	NZ_CP015337.1	Primary Assembly	5225	na

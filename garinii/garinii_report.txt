@@ -1,0 +1,45 @@
+# Assembly name:  ASM192254v1
+# Organism name:  Borreliella garinii (spirochetes)
+# Infraspecific name:  strain=CIP 103362
+# Isolate:  20047
+# Taxid:          29519
+# BioSample:      SAMN05941958
+# BioProject:     PRJNA350560
+# Submitter:      NIH/NIAID
+# Date:           2016-12-21
+# Assembly type:  n/a
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: SPAdes v. 3.7.1
+# Expected final version: yes
+# Genome coverage: 2000.0x
+# Sequencing technology: Illumina NextSeq 500
+# Relation to type material: assembly from type material
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_001922545.1
+# RefSeq assembly accession: GCF_001922545.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_001922555.1	GCF_001922555.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP018744.1	=	NZ_CP018744.1	Primary Assembly	905638	na
+cp26	assembled-molecule	cp26	Plasmid	CP018750.1	=	NZ_CP018750.1	Primary Assembly	27038	na
+cp32_1	assembled-molecule	cp32	Plasmid	CP018754.1	=	NZ_CP018754.1	Primary Assembly	2114	na
+cp32_2	assembled-molecule	cp32	Plasmid	CP018755.1	=	NZ_CP018755.1	Primary Assembly	1085	na
+lp28-7	assembled-molecule	lp28-7	Plasmid	CP018749.1	=	NZ_CP018749.1	Primary Assembly	27075	na
+p_lp54_linear	assembled-molecule	p_lp54_linear	Plasmid	CP018745.1	=	NZ_CP018745.1	Primary Assembly	57532	na
+unnamed1	assembled-molecule	unnamed1	Plasmid	CP018746.1	=	NZ_CP018746.1	Primary Assembly	37053	na
+unnamed2	assembled-molecule	unnamed2	Plasmid	CP018747.1	=	NZ_CP018747.1	Primary Assembly	27673	na
+unnamed3	assembled-molecule	unnamed3	Plasmid	CP018748.1	=	NZ_CP018748.1	Primary Assembly	27114	na
+unnamed4	assembled-molecule	unnamed4	Plasmid	CP018751.1	=	NZ_CP018751.1	Primary Assembly	20915	na
+unnamed5	assembled-molecule	unnamed5	Plasmid	CP018752.1	=	NZ_CP018752.1	Primary Assembly	20750	na
+unnamed6	assembled-molecule	unnamed6	Plasmid	CP018753.1	=	NZ_CP018753.1	Primary Assembly	2123	na

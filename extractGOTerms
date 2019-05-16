@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./getGOTerms "$1" | awk '{print $3}' | tr , '\n'  

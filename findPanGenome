@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#Given a list of folder names for organisms (e.g. burdorferi, garinii, etc.) as command line arguments, this script
+#finds genes in the union of the unique gene lists of those organisms.
+
+touch pan.txt
+touch temp.txt
+cat "$1""/""$1""_unique_gene_list.txt" > pan.txt
+for var in "$@"
+do
+	cat "$var""/""$var""_unique_gene_list.txt" >> currFile.txt
+done
+
+sort currFile.txt > temp.txt
+uniq temp.txt > pan.txt
+
+rm currFile.txt temp.txt

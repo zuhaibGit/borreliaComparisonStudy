@@ -1,0 +1,31 @@
+# Assembly name:  ASM44542v4
+# Organism name:  Borrelia miyamotoi LB-2001 (spirochetes)
+# Infraspecific name:  strain=LB-2001
+# Taxid:          1302858
+# BioSample:      SAMN02604147
+# BioProject:     PRJNA192621
+# Submitter:      University of California Irvine
+# Date:           2015-11-4
+# Assembly type:  n/a
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: CLC Assembly Cell v. 4.1 and 7.5
+# Sequencing technology: IonTorrent and Pacific Biosciences
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_000445425.4
+# RefSeq assembly accession: GCF_000445425.4
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000445435.4	GCF_000445435.4	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP006647.2	=	NC_022079.2	Primary Assembly	907293	na
+lpB	assembled-molecule	lpB	Plasmid	CP010328.2	=	NZ_CP010328.2	Primary Assembly	30673	na

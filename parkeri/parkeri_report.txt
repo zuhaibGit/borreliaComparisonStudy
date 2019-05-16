@@ -1,0 +1,31 @@
+# Assembly name:  ASM51214v2
+# Organism name:  Borrelia parkeri HR1 (spirochetes)
+# Infraspecific name:  strain=HR1
+# Taxid:          1435045
+# BioSample:      SAMN02641595
+# BioProject:     PRJNA231102
+# Submitter:      University of California Irvine
+# Date:           2014-1-7
+# Assembly type:  n/a
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: CLC Assembly Cell v. Version 6.1
+# Sequencing technology: Illumina
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_000512145.2
+# RefSeq assembly accession: GCF_000512145.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000512155.2	GCF_000512155.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP007022.1	=	NZ_CP007022.1	Primary Assembly	916945	na
+CP007036.1	unlocalized-scaffold	lp150	Plasmid	CP007036.1	=	NZ_CP007036.1	Primary Assembly	113739	na

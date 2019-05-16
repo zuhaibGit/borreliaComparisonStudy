@@ -1,0 +1,14 @@
+#!/bin/bash
+
+#Takes in a gene name, and the folder names of some subset of the organisms (e.g. burgdorderi, afzelii, etc)
+#and echos the name of the organism that the gene is first found in.
+#Example: ./findGeneIn "ackA" burgdorferi garinii
+
+for i in "${@:2}"
+do
+	fileName="$i""/""$i""_unique_gene_list.txt"
+	if grep -Fxq "$1" $fileName
+	then
+		echo "$i"
+	fi
+done

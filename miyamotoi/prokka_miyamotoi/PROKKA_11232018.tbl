@@ -1,0 +1,5080 @@
+>Feature NC_022079.2
+1088	72	CDS
+			EC_number	3.2.1.52
+			db_xref	COG:COG1472
+			gene	nagZ_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P40406
+			locus_tag	IELKNCAN_00001
+			product	Beta-hexosaminidase
+1790	1452	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00002
+			product	hypothetical protein
+3246	5036	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00003
+			product	hypothetical protein
+6146	5100	CDS
+			EC_number	6.1.1.2
+			db_xref	COG:COG0180
+			gene	trpS2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RVD6
+			locus_tag	IELKNCAN_00004
+			product	Tryptophan--tRNA ligase 2
+7230	6148	CDS
+			db_xref	COG:COG0628
+			gene	yhhT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AGM0
+			locus_tag	IELKNCAN_00005
+			product	Putative transport protein YhhT
+7981	7499	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00006
+			product	hypothetical protein
+8185	7997	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00007
+			product	hypothetical protein
+8331	9101	CDS
+			EC_number	2.7.7.85
+			db_xref	COG:COG1624
+			gene	cdaA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q45589
+			locus_tag	IELKNCAN_00008
+			product	Cyclic di-AMP synthase CdaA
+9105	10100	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00009
+			product	hypothetical protein
+10102	10479	CDS
+			EC_number	2.7.8.7
+			db_xref	COG:COG0736
+			gene	acpS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q81JG3
+			locus_tag	IELKNCAN_00010
+			product	Holo-[acyl-carrier-protein] synthase
+10483	11331	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00011
+			product	hypothetical protein
+11332	12069	CDS
+			EC_number	5.4.99.12
+			db_xref	COG:COG0101
+			gene	truA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07649
+			locus_tag	IELKNCAN_00012
+			product	tRNA pseudouridine synthase A
+12062	12625	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00013
+			product	hypothetical protein
+12618	14600	CDS
+			EC_number	3.6.4.-
+			gene	priA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00983
+			locus_tag	IELKNCAN_00014
+			product	primosomal protein N'
+15217	14597	CDS
+			EC_number	2.7.1.48
+			db_xref	COG:COG0572
+			gene	udk
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q59190
+			locus_tag	IELKNCAN_00015
+			product	Uridine kinase
+15521	15210	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00016
+			product	hypothetical protein
+15727	16692	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00017
+			product	hypothetical protein
+17669	16689	CDS
+			EC_number	5.4.99.23
+			db_xref	COG:COG0564
+			gene	rluD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P33643
+			locus_tag	IELKNCAN_00018
+			product	Ribosomal large subunit pseudouridine synthase D
+18140	17670	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00019
+			product	hypothetical protein
+19812	18130	CDS
+			EC_number	2.7.1.90
+			gene	pfp
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P70826
+			locus_tag	IELKNCAN_00020
+			product	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+20934	19885	CDS
+			EC_number	2.4.99.17
+			db_xref	COG:COG0809
+			gene	queA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9WZ44
+			locus_tag	IELKNCAN_00021
+			product	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+21949	20927	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG2255
+			gene	ruvB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O32055
+			locus_tag	IELKNCAN_00022
+			product	Holliday junction ATP-dependent DNA helicase RuvB
+22585	21995	CDS
+			EC_number	3.6.4.12
+			gene	ruvA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00031
+			locus_tag	IELKNCAN_00023
+			product	Holliday junction ATP-dependent DNA helicase RuvA
+23218	22739	CDS
+			EC_number	3.1.22.4
+			db_xref	COG:COG0817
+			gene	ruvC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A814
+			locus_tag	IELKNCAN_00024
+			product	Crossover junction endodeoxyribonuclease RuvC
+23982	23260	CDS
+			db_xref	COG:COG0217
+			gene	yebC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A8A0
+			locus_tag	IELKNCAN_00025
+			product	putative transcriptional regulatory protein YebC
+24889	23984	CDS
+			db_xref	COG:COG0190
+			gene	folD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q0PA35
+			locus_tag	IELKNCAN_00026
+			product	Bifunctional protein FolD protein
+25054	25689	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00027
+			product	hypothetical protein
+25696	26730	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00028
+			product	hypothetical protein
+27147	26716	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00029
+			product	hypothetical protein
+27772	27137	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00030
+			product	hypothetical protein
+28755	27775	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00031
+			product	hypothetical protein
+28989	30461	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00032
+			product	hypothetical protein
+30462	30914	CDS
+			db_xref	COG:COG0691
+			gene	smpB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O32230
+			locus_tag	IELKNCAN_00033
+			product	SsrA-binding protein
+31670	31104	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00034
+			product	hypothetical protein
+33712	31826	CDS
+			EC_number	5.99.1.3
+			gene	gyrA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01897
+			locus_tag	IELKNCAN_00035
+			product	DNA gyrase subunit A
+35508	33712	CDS
+			EC_number	5.99.1.3
+			db_xref	COG:COG0187
+			gene	gyrB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5SHZ4
+			locus_tag	IELKNCAN_00036
+			product	DNA gyrase subunit B
+36268	35495	CDS
+			EC_number	2.3.1.51
+			db_xref	COG:COG0204
+			gene	plsC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P26647
+			locus_tag	IELKNCAN_00037
+			product	1-acyl-sn-glycerol-3-phosphate acyltransferase
+37725	36274	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00038
+			product	hypothetical protein
+39299	37788	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00039
+			product	hypothetical protein
+39472	40314	CDS
+			EC_number	2.1.1.80
+			gene	cheR1_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O87131
+			locus_tag	IELKNCAN_00040
+			product	Chemotaxis protein methyltransferase 1
+41114	40443	CDS
+			db_xref	COG:COG0704
+			gene	phoU
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A3Y7
+			locus_tag	IELKNCAN_00041
+			product	Phosphate-specific transport system accessory protein PhoU 
+42148	41126	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00042
+			product	hypothetical protein
+42534	42145	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00043
+			product	hypothetical protein
+45015	42562	CDS
+			gene	smc_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01894
+			locus_tag	IELKNCAN_00044
+			product	Chromosome partition protein Smc
+45087	45632	CDS
+			EC_number	3.1.26.4
+			db_xref	COG:COG0164
+			gene	rnhB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31744
+			locus_tag	IELKNCAN_00045
+			product	Ribonuclease HII
+46002	45640	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00046
+			product	hypothetical protein
+46160	46232	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00047
+			product	tRNA-Gly(tcc)
+46628	46270	tmRNA
+			gene	ssrA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00048
+			product	transfer-messenger RNA, SsrA
+46770	47450	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00049
+			product	hypothetical protein
+47504	48196	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00050
+			product	hypothetical protein
+48839	48183	CDS
+			EC_number	2.1.1.185
+			gene	rlmB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01887
+			locus_tag	IELKNCAN_00051
+			product	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+48917	49588	CDS
+			EC_number	3.2.2.27
+			db_xref	COG:COG0692
+			gene	ung
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39615
+			locus_tag	IELKNCAN_00052
+			product	Uracil-DNA glycosylase
+49993	49643	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00053
+			product	hypothetical protein
+50769	50005	CDS
+			EC_number	5.3.1.1
+			db_xref	COG:COG0149
+			gene	tpiA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P27876
+			locus_tag	IELKNCAN_00054
+			product	Triosephosphate isomerase
+51949	50771	CDS
+			EC_number	2.7.2.3
+			db_xref	COG:COG0126
+			gene	pgk
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P40924
+			locus_tag	IELKNCAN_00055
+			product	Phosphoglycerate kinase
+52987	51980	CDS
+			EC_number	1.2.1.12
+			db_xref	COG:COG0057
+			gene	gap
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P46795
+			locus_tag	IELKNCAN_00056
+			product	Glyceraldehyde-3-phosphate dehydrogenase
+55046	53061	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00057
+			product	hypothetical protein
+55819	55043	CDS
+			db_xref	COG:COG4535
+			gene	corC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AE78
+			locus_tag	IELKNCAN_00058
+			product	Magnesium and cobalt efflux protein CorC
+56265	55819	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0319
+			gene	ybeY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O67367
+			locus_tag	IELKNCAN_00059
+			product	Endoribonuclease YbeY
+56709	56356	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00060
+			product	hypothetical protein
+56801	57526	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00061
+			product	hypothetical protein
+58725	57658	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00062
+			product	hypothetical protein
+59678	58749	CDS
+			EC_number	2.1.2.9
+			db_xref	COG:COG0223
+			gene	fmt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q83AA8
+			locus_tag	IELKNCAN_00063
+			product	Methionyl-tRNA formyltransferase
+60171	59695	CDS
+			EC_number	3.5.1.88
+			db_xref	COG:COG0242
+			gene	def
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9I7A8
+			locus_tag	IELKNCAN_00064
+			product	Peptide deformylase
+60900	60202	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00065
+			product	hypothetical protein
+62678	60897	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00066
+			product	hypothetical protein
+62817	63707	CDS
+			EC_number	3.1.3.74
+			db_xref	COG:COG0561
+			gene	yigL_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P27848
+			locus_tag	IELKNCAN_00067
+			product	Pyridoxal phosphate phosphatase YigL
+63721	64959	CDS
+			EC_number	3.4.11.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24828
+			locus_tag	IELKNCAN_00068
+			product	Aminopeptidase 2
+64976	65443	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00069
+			product	hypothetical protein
+65466	66935	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00070
+			product	hypothetical protein
+66935	69244	CDS
+			gene	rsxC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00461
+			locus_tag	IELKNCAN_00071
+			product	Electron transport complex subunit RsxC
+69241	69813	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00072
+			product	hypothetical protein
+69850	70887	CDS
+			gene	prfB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A6R4
+			locus_tag	IELKNCAN_00073
+			product	Peptide chain release factor 2
+70869	72278	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00074
+			product	hypothetical protein
+72329	73174	CDS
+			db_xref	COG:COG0552
+			gene	ftsY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P51835
+			locus_tag	IELKNCAN_00075
+			product	Signal recognition particle receptor FtsY
+73171	74007	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00076
+			product	hypothetical protein
+74217	75464	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00077
+			product	hypothetical protein
+75465	76145	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1136
+			gene	lolD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75957
+			locus_tag	IELKNCAN_00078
+			product	Lipoprotein-releasing system ATP-binding protein LolD
+76142	77395	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00079
+			product	hypothetical protein
+78708	77422	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00080
+			product	hypothetical protein
+79018	78701	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00081
+			product	hypothetical protein
+79212	80480	CDS
+			EC_number	2.8.1.7
+			gene	csd
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P99177
+			locus_tag	IELKNCAN_00082
+			product	putative cysteine desulfurase
+80640	81044	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00083
+			product	hypothetical protein
+81068	82597	CDS
+			db_xref	COG:COG0606
+			gene	comM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P45049
+			locus_tag	IELKNCAN_00084
+			product	Competence protein ComM
+83571	82621	CDS
+			EC_number	1.1.1.27
+			gene	ldhP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14561
+			locus_tag	IELKNCAN_00085
+			product	L-lactate dehydrogenase P
+85365	83698	CDS
+			EC_number	3.6.5.-
+			gene	lepA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P65272
+			locus_tag	IELKNCAN_00086
+			product	Elongation factor 4
+86536	85553	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00087
+			product	hypothetical protein
+87031	86597	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00088
+			product	hypothetical protein
+88875	87046	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00089
+			product	hypothetical protein
+89486	88890	CDS
+			gene	atpD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00271
+			locus_tag	IELKNCAN_00090
+			product	V-type ATP synthase subunit D
+90790	89489	CDS
+			gene	ntpB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q08637
+			locus_tag	IELKNCAN_00091
+			product	V-type sodium ATPase subunit B
+92530	90791	CDS
+			EC_number	3.6.3.15
+			gene	ntpA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q08636
+			locus_tag	IELKNCAN_00092
+			product	V-type sodium ATPase catalytic subunit A
+93086	92520	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00093
+			product	hypothetical protein
+93693	93088	CDS
+			gene	atpE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00311
+			locus_tag	IELKNCAN_00094
+			product	V-type proton ATPase subunit E
+94196	93801	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00095
+			product	hypothetical protein
+96533	94197	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG1193
+			gene	mutS2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X105
+			locus_tag	IELKNCAN_00096
+			product	Endonuclease MutS2
+97446	96505	CDS
+			EC_number	3.6.1.-
+			gene	rsgA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01820
+			locus_tag	IELKNCAN_00097
+			product	Putative ribosome biogenesis GTPase RsgA
+98207	97443	CDS
+			EC_number	5.1.1.3
+			gene	murI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00258
+			locus_tag	IELKNCAN_00098
+			product	Glutamate racemase
+98342	99727	CDS
+			EC_number	6.1.1.22
+			db_xref	COG:COG0017
+			gene	asnS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A8M0
+			locus_tag	IELKNCAN_00099
+			product	Asparagine--tRNA ligase
+99751	100302	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00100
+			product	hypothetical protein
+100895	100305	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00101
+			product	hypothetical protein
+102646	101195	CDS
+			EC_number	3.4.21.107
+			db_xref	COG:COG0265
+			gene	degQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39099
+			locus_tag	IELKNCAN_00102
+			product	Periplasmic pH-dependent serine endoprotease DegQ
+103456	102704	CDS
+			EC_number	3.4.11.18
+			db_xref	COG:COG0024
+			gene	map
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P19994
+			locus_tag	IELKNCAN_00103
+			product	Methionine aminopeptidase 1
+105116	103461	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00104
+			product	hypothetical protein
+105537	105103	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00105
+			product	hypothetical protein
+106572	105562	CDS
+			EC_number	5.2.1.8
+			db_xref	COG:COG0760
+			gene	prsA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24327
+			locus_tag	IELKNCAN_00106
+			product	Foldase protein PrsA
+107859	106666	CDS
+			EC_number	2.3.1.9
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A7L2
+			locus_tag	IELKNCAN_00107
+			product	putative acetyl-CoA acyltransferase
+108049	109407	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00108
+			product	hypothetical protein
+110845	109460	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0305
+			gene	dnaC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37469
+			locus_tag	IELKNCAN_00109
+			product	Replicative DNA helicase
+111357	110863	CDS
+			db_xref	COG:COG0359
+			gene	rplI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RY49
+			locus_tag	IELKNCAN_00110
+			product	50S ribosomal protein L9
+111661	111371	CDS
+			gene	rpsR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00270
+			locus_tag	IELKNCAN_00111
+			product	30S ribosomal protein S18
+112114	111674	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00984
+			locus_tag	IELKNCAN_00112
+			product	Single-stranded DNA-binding protein
+112527	112126	CDS
+			gene	rpsF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00360
+			locus_tag	IELKNCAN_00113
+			product	30S ribosomal protein S6
+114708	113023	CDS
+			EC_number	2.7.1.199
+			db_xref	COG:COG1263
+			gene	ptsG_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20166
+			locus_tag	IELKNCAN_00114
+			product	PTS system glucose-specific EIICBA component
+114958	115644	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P67153
+			locus_tag	IELKNCAN_00115
+			note	UPF0073 inner membrane protein YqfA
+			product	hypothetical protein
+116970	115684	CDS
+			EC_number	3.4.24.-
+			db_xref	COG:COG0750
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O67776
+			locus_tag	IELKNCAN_00116
+			product	Putative zinc metalloprotease
+117894	116989	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00117
+			product	hypothetical protein
+118534	117842	CDS
+			EC_number	2.5.1.31
+			gene	uppS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O82827
+			locus_tag	IELKNCAN_00118
+			product	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+119093	118539	CDS
+			db_xref	COG:COG0233
+			gene	frr
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q81WL1
+			locus_tag	IELKNCAN_00119
+			product	Ribosome-recycling factor
+119968	119129	CDS
+			db_xref	COG:COG0264
+			gene	tsf
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X5U9
+			locus_tag	IELKNCAN_00120
+			product	Elongation factor Ts
+120755	119991	CDS
+			db_xref	COG:COG0052
+			gene	rpsB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A0QVB8
+			locus_tag	IELKNCAN_00121
+			product	30S ribosomal protein S2
+120931	120791	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00122
+			product	hypothetical protein
+121352	121257	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00123
+			product	hypothetical protein
+121620	121342	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00124
+			product	hypothetical protein
+122428	121634	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00125
+			product	hypothetical protein
+123027	122425	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00126
+			product	hypothetical protein
+124681	123020	CDS
+			db_xref	COG:COG0539
+			gene	rpsA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q83E09
+			locus_tag	IELKNCAN_00127
+			product	30S ribosomal protein S1
+125351	124695	CDS
+			EC_number	2.7.4.25
+			db_xref	COG:COG0283
+			gene	cmk_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P38493
+			locus_tag	IELKNCAN_00128
+			product	Cytidylate kinase
+126090	125335	CDS
+			EC_number	5.4.99.22
+			db_xref	COG:COG1187
+			gene	rluB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P45104
+			locus_tag	IELKNCAN_00129
+			product	Ribosomal large subunit pseudouridine synthase B
+126874	126071	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00130
+			product	hypothetical protein
+127943	126852	CDS
+			db_xref	COG:COG0468
+			gene	recA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P16971
+			locus_tag	IELKNCAN_00131
+			product	Protein RecA
+130656	127954	CDS
+			gene	greA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00105
+			locus_tag	IELKNCAN_00132
+			product	Transcription elongation factor GreA
+131636	130692	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00133
+			product	hypothetical protein
+131817	132980	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00134
+			product	hypothetical protein
+134378	133008	CDS
+			EC_number	6.1.1.21
+			db_xref	COG:COG0124
+			gene	hisS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8YMC2
+			locus_tag	IELKNCAN_00135
+			product	Histidine--tRNA ligase
+134520	136397	CDS
+			db_xref	COG:COG0768
+			gene	spoVD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q03524
+			locus_tag	IELKNCAN_00136
+			product	Stage V sporulation protein D
+138294	136399	CDS
+			EC_number	6.2.1.3
+			db_xref	COG:COG1022
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O53521
+			locus_tag	IELKNCAN_00137
+			product	Long-chain-fatty-acid--CoA ligase FadD15
+138819	138526	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00138
+			product	hypothetical protein
+139082	138807	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00139
+			product	hypothetical protein
+139903	139493	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00140
+			product	hypothetical protein
+140344	140009	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00141
+			product	hypothetical protein
+141245	140661	CDS
+			gene	mdtB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:B7NCB1
+			locus_tag	IELKNCAN_00142
+			product	Multidrug resistance protein MdtB
+141538	141281	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00143
+			product	hypothetical protein
+142103	141807	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00144
+			product	hypothetical protein
+142428	142273	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00145
+			product	hypothetical protein
+143085	142786	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00146
+			product	hypothetical protein
+143462	143223	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00147
+			product	hypothetical protein
+143976	143545	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00148
+			product	hypothetical protein
+144379	144128	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00149
+			product	hypothetical protein
+145675	144779	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00150
+			product	hypothetical protein
+146615	145716	CDS
+			db_xref	COG:COG4176
+			gene	opuAB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P46921
+			locus_tag	IELKNCAN_00151
+			product	Glycine betaine transport system permease protein OpuAB
+147740	146622	CDS
+			db_xref	COG:COG4175
+			gene	proV
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P17328
+			locus_tag	IELKNCAN_00152
+			product	Glycine betaine/proline betaine transport system ATP-binding protein ProV
+148871	147867	CDS
+			db_xref	COG:COG1344
+			gene	fla
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11089
+			locus_tag	IELKNCAN_00153
+			product	Flagellar filament 41 kDa core protein
+150989	148989	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00154
+			product	hypothetical protein
+151167	152372	CDS
+			EC_number	3.5.1.25
+			db_xref	COG:COG1820
+			gene	nagA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34450
+			locus_tag	IELKNCAN_00155
+			product	N-acetylglucosamine-6-phosphate deacetylase
+152406	153209	CDS
+			EC_number	3.5.99.6
+			db_xref	COG:COG0363
+			gene	nagB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O30564
+			locus_tag	IELKNCAN_00156
+			product	Glucosamine-6-phosphate deaminase
+153915	153304	CDS
+			EC_number	1.15.1.1
+			db_xref	COG:COG0605
+			gene	sodA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P61503
+			locus_tag	IELKNCAN_00157
+			product	Superoxide dismutase [Mn]
+156625	153929	CDS
+			db_xref	COG:COG0653
+			gene	secA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P10408
+			locus_tag	IELKNCAN_00158
+			product	Protein translocase subunit SecA
+156689	157822	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00159
+			product	hypothetical protein
+157854	158267	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00160
+			product	hypothetical protein
+158271	158681	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00161
+			product	hypothetical protein
+158949	160049	CDS
+			EC_number	5.1.1.1
+			db_xref	COG:COG0787
+			gene	alr1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8RAK6
+			locus_tag	IELKNCAN_00162
+			product	Alanine racemase 1
+161636	160041	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00163
+			product	hypothetical protein
+161711	161878	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00164
+			product	hypothetical protein
+163639	161882	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00165
+			product	hypothetical protein
+164693	163716	CDS
+			db_xref	COG:COG0530
+			gene	yrbG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P45394
+			locus_tag	IELKNCAN_00166
+			product	Inner membrane protein YrbG
+166568	164718	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00167
+			product	hypothetical protein
+168111	166630	CDS
+			EC_number	2.4.1.25
+			db_xref	COG:COG1640
+			gene	malQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q59266
+			locus_tag	IELKNCAN_00168
+			product	4-alpha-glucanotransferase
+168271	168714	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00169
+			product	hypothetical protein
+168662	168985	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00170
+			product	hypothetical protein
+169103	169435	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00171
+			product	hypothetical protein
+169822	169439	CDS
+			gene	dksA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00926
+			locus_tag	IELKNCAN_00172
+			product	RNA polymerase-binding transcription factor DksA
+169990	170211	CDS
+			db_xref	COG:COG0361
+			gene	infA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20458
+			locus_tag	IELKNCAN_00173
+			product	Translation initiation factor IF-1
+172305	170260	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00174
+			product	hypothetical protein
+172841	172254	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00175
+			product	hypothetical protein
+173812	172823	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00176
+			product	hypothetical protein
+174810	173809	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00177
+			product	hypothetical protein
+175696	174797	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00178
+			product	hypothetical protein
+176577	175693	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00179
+			product	hypothetical protein
+177584	176592	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00180
+			product	hypothetical protein
+177834	177742	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00181
+			product	hypothetical protein
+179789	177924	CDS
+			gene	mnmG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P64230
+			locus_tag	IELKNCAN_00182
+			product	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+181190	179796	CDS
+			EC_number	3.6.-.-
+			db_xref	COG:COG0486
+			gene	mnmE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8KAS1
+			locus_tag	IELKNCAN_00183
+			product	tRNA modification GTPase MnmE
+181412	181906	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00184
+			product	hypothetical protein
+181925	183808	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00185
+			product	hypothetical protein
+183812	185083	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00186
+			product	hypothetical protein
+185087	185479	CDS
+			db_xref	COG:COG1699
+			gene	fliW
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A4ISV0
+			locus_tag	IELKNCAN_00187
+			product	Flagellar assembly factor FliW
+185482	185730	CDS
+			gene	csrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00167
+			locus_tag	IELKNCAN_00188
+			product	Carbon storage regulator
+186380	185715	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00189
+			product	hypothetical protein
+186790	186383	CDS
+			db_xref	COG:COG0802
+			gene	tsaE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O05515
+			locus_tag	IELKNCAN_00190
+			product	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+187086	186787	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00191
+			product	hypothetical protein
+187599	187252	CDS
+			db_xref	COG:COG0292
+			gene	rplT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RSW7
+			locus_tag	IELKNCAN_00192
+			product	50S ribosomal protein L20
+187814	187617	CDS
+			db_xref	COG:COG0291
+			gene	rpmI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A7Q1
+			locus_tag	IELKNCAN_00193
+			product	50S ribosomal protein L35
+188393	187833	CDS
+			db_xref	COG:COG0290
+			gene	infC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P48516
+			locus_tag	IELKNCAN_00194
+			product	Translation initiation factor IF-3
+188569	189231	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00195
+			product	hypothetical protein
+189231	189815	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00196
+			product	hypothetical protein
+190938	190126	CDS
+			EC_number	3.1.1.96
+			gene	dtd3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P73335
+			locus_tag	IELKNCAN_00197
+			product	D-aminoacyl-tRNA deacylase
+192086	190935	CDS
+			gene	lapB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00994
+			locus_tag	IELKNCAN_00198
+			product	Lipopolysaccharide assembly protein B
+192385	193458	CDS
+			db_xref	COG:COG0216
+			gene	prfA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A7I0
+			locus_tag	IELKNCAN_00199
+			product	Peptide chain release factor RF1
+193467	194300	CDS
+			EC_number	2.1.1.297
+			db_xref	COG:COG2890
+			gene	prmC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ACC1
+			locus_tag	IELKNCAN_00200
+			product	Release factor glutamine methyltransferase
+194284	196287	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00201
+			product	hypothetical protein
+196277	198517	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00202
+			product	hypothetical protein
+199611	198520	CDS
+			EC_number	6.3.2.4
+			db_xref	COG:COG1181
+			gene	ddlA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A1F0
+			locus_tag	IELKNCAN_00203
+			product	D-alanine--D-alanine ligase A
+201142	199616	CDS
+			EC_number	6.3.2.13
+			db_xref	COG:COG0769
+			gene	murE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q819Q0
+			locus_tag	IELKNCAN_00204
+			product	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+201293	201365	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00205
+			product	tRNA-Cys(gca)
+201456	202703	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WFP1
+			locus_tag	IELKNCAN_00206
+			note	UPF0053 protein Rv2366c
+			product	hypothetical protein
+202845	203777	CDS
+			db_xref	COG:COG0330
+			gene	hflK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABC7
+			locus_tag	IELKNCAN_00207
+			product	Modulator of FtsH protease HflK
+203778	204749	CDS
+			db_xref	COG:COG0330
+			gene	hflC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABC3
+			locus_tag	IELKNCAN_00208
+			product	Modulator of FtsH protease HflC
+205085	205157	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00209
+			product	tRNA-Phe(gaa)
+205358	206902	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00210
+			product	hypothetical protein
+207456	206911	CDS
+			EC_number	2.1.1.171
+			db_xref	COG:COG0742
+			gene	rsmD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADX9
+			locus_tag	IELKNCAN_00211
+			product	Ribosomal RNA small subunit methyltransferase D
+207545	208375	CDS
+			EC_number	2.7.7.9
+			db_xref	COG:COG1210
+			gene	gtaB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2G1T6
+			locus_tag	IELKNCAN_00212
+			product	UTP--glucose-1-phosphate uridylyltransferase
+208376	210073	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00213
+			product	hypothetical protein
+210123	211775	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00214
+			product	hypothetical protein
+211768	214104	CDS
+			EC_number	3.4.-.-
+			gene	bepA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00997
+			locus_tag	IELKNCAN_00215
+			product	Beta-barrel assembly-enhancing protease
+214097	215935	CDS
+			gene	mutL
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P65492
+			locus_tag	IELKNCAN_00216
+			product	DNA mismatch repair protein MutL
+215956	216996	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00217
+			product	hypothetical protein
+217088	217161	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00218
+			product	tRNA-Met(cat)
+217817	217164	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00219
+			product	hypothetical protein
+218376	217798	CDS
+			db_xref	COG:COG0231
+			gene	efp
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A6N4
+			locus_tag	IELKNCAN_00220
+			product	Elongation factor P
+218496	219347	CDS
+			db_xref	COG:COG0226
+			gene	pstS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51233
+			locus_tag	IELKNCAN_00221
+			product	Phosphate-binding protein PstS
+219429	220337	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00222
+			product	hypothetical protein
+220334	221875	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00223
+			product	hypothetical protein
+221876	222640	CDS
+			EC_number	3.6.3.27
+			db_xref	COG:COG1117
+			gene	pstB3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A2V9
+			locus_tag	IELKNCAN_00224
+			product	Phosphate import ATP-binding protein PstB 3
+223463	222642	CDS
+			db_xref	COG:COG0428
+			gene	zupT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A8H3
+			locus_tag	IELKNCAN_00225
+			product	Zinc transporter ZupT
+225274	223493	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00226
+			product	hypothetical protein
+226491	225274	CDS
+			db_xref	COG:COG1536
+			gene	fliG_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9WY63
+			locus_tag	IELKNCAN_00227
+			product	Flagellar motor switch protein FliG
+227179	226478	CDS
+			EC_number	3.1.1.31
+			db_xref	COG:COG0363
+			gene	pgl
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X0N8
+			locus_tag	IELKNCAN_00228
+			product	6-phosphogluconolactonase
+227804	227616	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00229
+			product	hypothetical protein
+229779	228502	CDS
+			EC_number	6.1.1.11
+			db_xref	COG:COG0172
+			gene	serS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A0R638
+			locus_tag	IELKNCAN_00230
+			product	Serine--tRNA ligase
+229926	230657	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00231
+			product	hypothetical protein
+230654	233572	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00232
+			product	hypothetical protein
+233842	233594	CDS
+			db_xref	COG:COG0254
+			gene	rpmE2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q88Z52
+			locus_tag	IELKNCAN_00233
+			product	50S ribosomal protein L31 type B
+235444	233900	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1158
+			gene	rho
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG30
+			locus_tag	IELKNCAN_00234
+			product	Transcription termination factor Rho
+235954	235547	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00235
+			product	hypothetical protein
+236287	235961	CDS
+			db_xref	COG:COG0776
+			gene	hup
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q57267
+			locus_tag	IELKNCAN_00236
+			product	DNA-binding protein HU
+236556	236302	CDS
+			db_xref	COG:COG0268
+			gene	rpsT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P80380
+			locus_tag	IELKNCAN_00237
+			product	30S ribosomal protein S20
+237474	236626	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00238
+			product	hypothetical protein
+238573	237467	CDS
+			db_xref	COG:COG0012
+			gene	ychF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37518
+			locus_tag	IELKNCAN_00239
+			product	Ribosome-binding ATPase YchF
+240664	238598	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00240
+			product	hypothetical protein
+240763	242331	CDS
+			EC_number	2.3.1.-
+			gene	lnt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01148
+			locus_tag	IELKNCAN_00241
+			product	Apolipoprotein N-acyltransferase
+243044	242274	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00242
+			product	hypothetical protein
+243704	243102	CDS
+			EC_number	2.7.1.113
+			db_xref	COG:COG1428
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q74HC2
+			locus_tag	IELKNCAN_00243
+			product	Deoxyguanosine kinase
+243929	244231	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00244
+			product	hypothetical protein
+244526	245308	CDS
+			db_xref	COG:COG0580
+			gene	pduF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37451
+			locus_tag	IELKNCAN_00245
+			product	Propanediol diffusion facilitator
+245379	246869	CDS
+			EC_number	2.7.1.30
+			db_xref	COG:COG0554
+			gene	glpK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P18157
+			locus_tag	IELKNCAN_00246
+			product	Glycerol kinase
+246985	248340	CDS
+			db_xref	COG:COG2271
+			gene	glpT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08194
+			locus_tag	IELKNCAN_00247
+			product	Glycerol-3-phosphate transporter
+248426	249430	CDS
+			EC_number	3.1.4.46
+			db_xref	COG:COG0584
+			gene	glpQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09394
+			locus_tag	IELKNCAN_00248
+			product	Glycerophosphodiester phosphodiesterase, periplasmic
+249467	251032	CDS
+			EC_number	1.1.5.3
+			gene	glpD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A5V7
+			locus_tag	IELKNCAN_00249
+			product	Aerobic glycerol-3-phosphate dehydrogenase
+251650	251156	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00250
+			product	hypothetical protein
+252200	251640	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00251
+			product	hypothetical protein
+253229	252201	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00252
+			product	hypothetical protein
+253388	253987	CDS
+			EC_number	3.6.1.66
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P99094
+			locus_tag	IELKNCAN_00253
+			product	dITP/XTP pyrophosphatase
+254124	255893	CDS
+			EC_number	3.4.24.-
+			gene	pepF1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54124
+			locus_tag	IELKNCAN_00254
+			product	Oligoendopeptidase F, plasmid
+255908	256612	CDS
+			EC_number	2.7.8.24
+			db_xref	COG:COG1183
+			gene	pcs
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51265
+			locus_tag	IELKNCAN_00255
+			product	Phosphatidylcholine synthase
+256624	257232	CDS
+			db_xref	COG:COG0586
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51266
+			locus_tag	IELKNCAN_00256
+			product	Inner membrane protein
+257256	257339	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00257
+			product	tRNA-Leu(gag)
+257476	260004	CDS
+			EC_number	6.1.1.4
+			gene	leuS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:B8ZKS5
+			locus_tag	IELKNCAN_00258
+			product	Leucine--tRNA ligase
+260015	262294	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00259
+			product	hypothetical protein
+264771	262351	CDS
+			EC_number	3.4.21.53
+			db_xref	COG:COG0466
+			gene	lon1_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37945
+			locus_tag	IELKNCAN_00260
+			product	Lon protease 1
+264866	265552	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00261
+			product	hypothetical protein
+265575	267683	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00262
+			product	hypothetical protein
+267689	268624	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00263
+			product	hypothetical protein
+268645	268854	CDS
+			gene	rpsU
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00358
+			locus_tag	IELKNCAN_00264
+			product	30S ribosomal protein S21
+271247	268905	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00265
+			product	hypothetical protein
+272054	271260	CDS
+			EC_number	3.6.1.27
+			db_xref	COG:COG1968
+			gene	uppP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P60932
+			locus_tag	IELKNCAN_00266
+			product	Undecaprenyl-diphosphatase
+274214	272070	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00267
+			product	hypothetical protein
+275337	274192	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00268
+			product	hypothetical protein
+275504	276886	CDS
+			gene	lapB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00994
+			locus_tag	IELKNCAN_00269
+			product	Lipopolysaccharide assembly protein B
+278146	276890	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00270
+			product	hypothetical protein
+278204	278716	CDS
+			EC_number	3.4.21.89
+			db_xref	COG:COG0681
+			gene	spsB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5HHB9
+			locus_tag	IELKNCAN_00271
+			product	Signal peptidase IB
+280238	278781	CDS
+			db_xref	COG:COG0443
+			gene	dnaK_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5KWZ7
+			locus_tag	IELKNCAN_00272
+			product	Chaperone protein DnaK
+280735	280238	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00273
+			product	hypothetical protein
+281070	280756	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00274
+			product	hypothetical protein
+283013	281109	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00275
+			product	hypothetical protein
+283522	283016	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00276
+			product	hypothetical protein
+284417	283530	CDS
+			db_xref	COG:COG0455
+			gene	ylxH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P40742
+			locus_tag	IELKNCAN_00277
+			product	Flagellum site-determining protein YlxH
+285595	284429	CDS
+			db_xref	COG:COG1419
+			gene	flhF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q01960
+			locus_tag	IELKNCAN_00278
+			product	Flagellar biosynthesis protein FlhF
+287690	285600	CDS
+			db_xref	COG:COG1298
+			gene	flhA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P35620
+			locus_tag	IELKNCAN_00279
+			product	Flagellar biosynthesis protein FlhA
+288821	287706	CDS
+			db_xref	COG:COG1377
+			gene	flhB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P40727
+			locus_tag	IELKNCAN_00280
+			product	Flagellar biosynthetic protein FlhB
+289606	288818	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00281
+			product	hypothetical protein
+289873	289610	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00282
+			product	hypothetical protein
+290647	289883	CDS
+			db_xref	COG:COG1338
+			gene	fliP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54700
+			locus_tag	IELKNCAN_00283
+			product	Flagellar biosynthetic protein FliP
+291295	290657	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00284
+			product	hypothetical protein
+291632	291288	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00285
+			product	hypothetical protein
+292731	291673	CDS
+			db_xref	COG:COG1868
+			gene	fliM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P23453
+			locus_tag	IELKNCAN_00286
+			product	Flagellar motor switch protein FliM
+293283	292750	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00287
+			product	hypothetical protein
+294110	293325	CDS
+			db_xref	COG:COG1360
+			gene	motB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P56427
+			locus_tag	IELKNCAN_00288
+			product	Motility protein B
+294895	294110	CDS
+			db_xref	COG:COG1291
+			gene	pomA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O06873
+			locus_tag	IELKNCAN_00289
+			product	Chemotaxis protein PomA
+295113	294892	CDS
+			db_xref	COG:COG1582
+			gene	swrD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:C0H412
+			locus_tag	IELKNCAN_00290
+			product	Swarming motility protein SwrD
+296458	295130	CDS
+			db_xref	COG:COG1749
+			gene	flgE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A1J1
+			locus_tag	IELKNCAN_00291
+			product	Flagellar hook protein FlgE
+296888	296463	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00292
+			product	hypothetical protein
+298075	296903	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00293
+			product	hypothetical protein
+298693	298079	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00294
+			product	hypothetical protein
+299117	298686	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00295
+			product	hypothetical protein
+300421	299114	CDS
+			EC_number	3.6.3.14
+			db_xref	COG:COG1157
+			gene	fliI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P26465
+			locus_tag	IELKNCAN_00296
+			product	Flagellum-specific ATP synthase
+301358	300438	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00297
+			product	hypothetical protein
+302407	301373	CDS
+			db_xref	COG:COG1536
+			gene	fliG_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9WY63
+			locus_tag	IELKNCAN_00298
+			product	Flagellar motor switch protein FliG
+304128	302416	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00299
+			product	hypothetical protein
+304471	304142	CDS
+			gene	fliE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00724
+			locus_tag	IELKNCAN_00300
+			product	Flagellar hook-basal body complex protein FliE
+304947	304489	CDS
+			db_xref	COG:COG1558
+			gene	flgC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A1I7
+			locus_tag	IELKNCAN_00301
+			product	Flagellar basal-body rod protein FlgC
+305377	304970	CDS
+			db_xref	COG:COG1815
+			gene	flgB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24500
+			locus_tag	IELKNCAN_00302
+			product	Flagellar basal body rod protein FlgB
+306763	305411	CDS
+			db_xref	COG:COG1220
+			gene	clpY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39778
+			locus_tag	IELKNCAN_00303
+			product	ATP-dependent protease ATPase subunit ClpY
+307305	306763	CDS
+			EC_number	3.4.25.2
+			db_xref	COG:COG5405
+			gene	hslV
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9WYZ1
+			locus_tag	IELKNCAN_00304
+			product	ATP-dependent protease subunit HslV
+308258	307302	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00305
+			product	hypothetical protein
+308954	308265	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00306
+			product	hypothetical protein
+310175	308955	CDS
+			db_xref	COG:COG0206
+			gene	ftsZ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P17865
+			locus_tag	IELKNCAN_00307
+			product	Cell division protein FtsZ
+311413	310172	CDS
+			db_xref	COG:COG0849
+			gene	ftsA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABH0
+			locus_tag	IELKNCAN_00308
+			product	Cell division protein FtsA
+312156	311413	CDS
+			gene	ftsQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00911
+			locus_tag	IELKNCAN_00309
+			product	Cell division protein FtsQ
+313291	312197	CDS
+			EC_number	2.4.1.129
+			db_xref	COG:COG0772
+			gene	ftsW_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABG4
+			locus_tag	IELKNCAN_00310
+			product	putative peptidoglycan glycosyltransferase FtsW
+314363	313308	CDS
+			EC_number	2.7.8.13
+			db_xref	COG:COG0472
+			gene	mraY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A6W3
+			locus_tag	IELKNCAN_00311
+			product	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+315775	314381	CDS
+			EC_number	6.3.2.10
+			db_xref	COG:COG0770
+			gene	murF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11880
+			locus_tag	IELKNCAN_00312
+			product	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+316079	315798	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00313
+			product	hypothetical protein
+316968	316072	CDS
+			EC_number	2.1.1.199
+			db_xref	COG:COG0275
+			gene	rsmH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9WZX6
+			locus_tag	IELKNCAN_00314
+			product	Ribosomal RNA small subunit methyltransferase H
+317791	316961	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00315
+			product	hypothetical protein
+318861	317797	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00316
+			product	hypothetical protein
+319645	318887	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00317
+			product	hypothetical protein
+321326	319662	CDS
+			db_xref	COG:COG0497
+			gene	recN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9WXF2
+			locus_tag	IELKNCAN_00318
+			product	DNA repair protein RecN
+322208	321369	CDS
+			EC_number	2.7.1.23
+			gene	nadK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00361
+			locus_tag	IELKNCAN_00319
+			product	NAD kinase
+322728	322201	CDS
+			db_xref	COG:COG0835
+			gene	cheW_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A964
+			locus_tag	IELKNCAN_00320
+			product	Chemotaxis protein CheW
+323343	322750	CDS
+			EC_number	2.1.1.166
+			db_xref	COG:COG0293
+			gene	rlmE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0C0R7
+			locus_tag	IELKNCAN_00321
+			product	Ribosomal RNA large subunit methyltransferase E
+323395	324441	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00322
+			product	hypothetical protein
+324438	325118	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00323
+			product	hypothetical protein
+325911	325105	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00324
+			product	hypothetical protein
+326847	325912	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00325
+			product	hypothetical protein
+328301	326844	CDS
+			EC_number	3.6.3.17
+			db_xref	COG:COG1129
+			gene	mglA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AAG8
+			locus_tag	IELKNCAN_00326
+			product	Galactose/methyl galactoside import ATP-binding protein MglA
+329345	328308	CDS
+			db_xref	COG:COG1744
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q56328
+			locus_tag	IELKNCAN_00327
+			product	Membrane lipoprotein TpN38(b)
+330787	329696	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00328
+			product	hypothetical protein
+331303	332424	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00329
+			product	hypothetical protein
+332506	332862	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00330
+			product	hypothetical protein
+334014	332899	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00331
+			product	hypothetical protein
+336920	334080	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00332
+			product	hypothetical protein
+337829	336936	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00333
+			product	hypothetical protein
+338008	339597	CDS
+			db_xref	COG:COG4166
+			gene	oppA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24141
+			locus_tag	IELKNCAN_00334
+			product	Oligopeptide-binding protein OppA
+339987	341567	CDS
+			db_xref	COG:COG4166
+			gene	oppA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06202
+			locus_tag	IELKNCAN_00335
+			product	Periplasmic oligopeptide-binding protein
+342144	343064	CDS
+			db_xref	COG:COG0601
+			gene	oppB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08005
+			locus_tag	IELKNCAN_00336
+			product	Oligopeptide transport system permease protein OppB
+343074	344117	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00337
+			product	hypothetical protein
+344128	344991	CDS
+			db_xref	COG:COG0444
+			gene	oppD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24136
+			locus_tag	IELKNCAN_00338
+			product	Oligopeptide transport ATP-binding protein OppD
+345002	345982	CDS
+			db_xref	COG:COG4608
+			gene	oppF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24137
+			locus_tag	IELKNCAN_00339
+			product	Oligopeptide transport ATP-binding protein OppF
+346943	346137	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00340
+			product	hypothetical protein
+347019	348314	CDS
+			EC_number	4.2.1.11
+			gene	eno
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:E6ER18
+			locus_tag	IELKNCAN_00341
+			product	Enolase
+348786	348376	CDS
+			db_xref	COG:COG0103
+			gene	rpsI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q6N650
+			locus_tag	IELKNCAN_00342
+			product	30S ribosomal protein S9
+349249	348800	CDS
+			db_xref	COG:COG0102
+			gene	rplM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P70974
+			locus_tag	IELKNCAN_00343
+			product	50S ribosomal protein L13
+350123	349317	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00344
+			product	hypothetical protein
+351573	350116	CDS
+			EC_number	6.3.5.-
+			db_xref	COG:COG0064
+			gene	gatB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X100
+			locus_tag	IELKNCAN_00345
+			product	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+353007	351574	CDS
+			EC_number	6.3.5.7
+			db_xref	COG:COG0154
+			gene	gatA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O66610
+			locus_tag	IELKNCAN_00346
+			product	Glutamyl-tRNA(Gln) amidotransferase subunit A
+353299	353024	CDS
+			EC_number	6.3.5.-
+			gene	gatC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00122
+			locus_tag	IELKNCAN_00347
+			product	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+355405	353309	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0210
+			gene	pcrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q53727
+			locus_tag	IELKNCAN_00348
+			product	ATP-dependent DNA helicase PcrA
+356604	355405	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00349
+			product	hypothetical protein
+357278	356616	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00350
+			product	hypothetical protein
+357434	358834	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00351
+			product	hypothetical protein
+358934	360367	CDS
+			EC_number	2.7.1.40
+			gene	pyk
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q02499
+			locus_tag	IELKNCAN_00352
+			product	Pyruvate kinase
+360914	360711	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00353
+			product	hypothetical protein
+361426	361148	CDS
+			db_xref	COG:COG0227
+			gene	rpmB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q6NCH9
+			locus_tag	IELKNCAN_00354
+			product	50S ribosomal protein L28
+362996	361437	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00355
+			product	hypothetical protein
+363112	364227	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00356
+			product	hypothetical protein
+366024	364231	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00357
+			product	hypothetical protein
+366981	366040	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00358
+			product	hypothetical protein
+367494	367009	CDS
+			db_xref	COG:COG1329
+			gene	carD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A0R561
+			locus_tag	IELKNCAN_00359
+			product	RNA polymerase-binding transcription factor CarD
+368134	367541	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00360
+			product	hypothetical protein
+368855	368127	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00361
+			product	hypothetical protein
+370286	368859	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00362
+			product	hypothetical protein
+370352	370783	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00363
+			product	hypothetical protein
+370788	371921	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_02040
+			locus_tag	IELKNCAN_00364
+			product	Iron-sulfur cluster carrier protein
+371934	372893	CDS
+			EC_number	2.4.99.-
+			db_xref	COG:COG0682
+			gene	lgt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P60955
+			locus_tag	IELKNCAN_00365
+			product	Prolipoprotein diacylglyceryl transferase
+372945	374942	CDS
+			EC_number	3.1.4.52
+			gene	pdeA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51338
+			locus_tag	IELKNCAN_00366
+			product	Cyclic di-GMP phosphodiesterase PdeA
+375158	376540	CDS
+			EC_number	3.4.11.-
+			db_xref	COG:COG1362
+			gene	apeA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0C925
+			locus_tag	IELKNCAN_00367
+			product	putative M18 family aminopeptidase 1
+376537	376803	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00368
+			product	hypothetical protein
+377872	376820	CDS
+			EC_number	1.1.1.94
+			gene	gpsA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P64191
+			locus_tag	IELKNCAN_00369
+			product	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+380184	377896	CDS
+			db_xref	COG:COG0542
+			gene	clpA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABH9
+			locus_tag	IELKNCAN_00370
+			product	ATP-dependent Clp protease ATP-binding subunit ClpA
+381415	380195	CDS
+			EC_number	6.1.1.1
+			gene	tyrS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A6QHR2
+			locus_tag	IELKNCAN_00371
+			product	Tyrosine--tRNA ligase
+382749	381412	CDS
+			EC_number	6.1.1.14
+			gene	glyQS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P99129
+			locus_tag	IELKNCAN_00372
+			product	Glycine--tRNA ligase
+384253	382778	CDS
+			EC_number	6.1.1.17
+			db_xref	COG:COG0008
+			gene	gltX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51345
+			locus_tag	IELKNCAN_00373
+			product	Glutamate--tRNA ligase
+385047	384250	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00374
+			product	hypothetical protein
+385177	386316	CDS
+			EC_number	3.1.4.-
+			db_xref	COG:COG2206
+			gene	PdeB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O50161
+			locus_tag	IELKNCAN_00375
+			product	Cyclic di-GMP phosphodiesterase PdeB
+386332	387045	CDS
+			EC_number	3.2.2.9
+			db_xref	COG:COG0775
+			gene	mtnN_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A6T4W3
+			locus_tag	IELKNCAN_00376
+			product	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+387059	388231	CDS
+			EC_number	2.5.1.6
+			gene	metK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P66767
+			locus_tag	IELKNCAN_00377
+			product	S-adenosylmethionine synthase
+388224	388697	CDS
+			EC_number	4.4.1.21
+			db_xref	COG:COG1854
+			gene	luxS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RRU8
+			locus_tag	IELKNCAN_00378
+			product	S-ribosylhomocysteine lyase
+389338	388919	CDS
+			db_xref	COG:COG0537
+			gene	hit
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O07513
+			locus_tag	IELKNCAN_00379
+			product	Protein hit
+390782	389382	CDS
+			db_xref	COG:COG2239
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5SMG8
+			locus_tag	IELKNCAN_00380
+			product	Magnesium transporter MgtE
+392220	390796	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00381
+			product	hypothetical protein
+393484	392468	CDS
+			db_xref	COG:COG1744
+			gene	tmpC_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P29724
+			locus_tag	IELKNCAN_00382
+			product	Membrane lipoprotein TmpC
+394861	393827	CDS
+			db_xref	COG:COG1744
+			gene	tmpC_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P29724
+			locus_tag	IELKNCAN_00383
+			product	Membrane lipoprotein TmpC
+395904	394882	CDS
+			db_xref	COG:COG1744
+			gene	tmpC_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P29724
+			locus_tag	IELKNCAN_00384
+			product	Membrane lipoprotein TmpC
+396457	395981	CDS
+			db_xref	COG:COG0049
+			gene	rpsG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P38526
+			locus_tag	IELKNCAN_00385
+			product	30S ribosomal protein S7
+396846	396472	CDS
+			db_xref	COG:COG0048
+			gene	rpsL
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A7S3
+			locus_tag	IELKNCAN_00386
+			product	30S ribosomal protein S12
+401044	396911	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG0086
+			gene	rpoC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q727C6
+			locus_tag	IELKNCAN_00387
+			product	DNA-directed RNA polymerase subunit beta'
+404526	401059	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG0085
+			gene	rpoB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WGY9
+			locus_tag	IELKNCAN_00388
+			product	DNA-directed RNA polymerase subunit beta
+404984	404613	CDS
+			gene	rplL
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:E6MUA0
+			locus_tag	IELKNCAN_00389
+			product	50S ribosomal protein L7/L12
+405552	405064	CDS
+			gene	rplJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P99155
+			locus_tag	IELKNCAN_00390
+			product	50S ribosomal protein L10
+406237	405563	CDS
+			gene	rplA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q99W68
+			locus_tag	IELKNCAN_00391
+			product	50S ribosomal protein L1
+406680	406237	CDS
+			db_xref	COG:COG0080
+			gene	rplK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P62442
+			locus_tag	IELKNCAN_00392
+			product	50S ribosomal protein L11
+407291	406737	CDS
+			db_xref	COG:COG0250
+			gene	nusG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AFG1
+			locus_tag	IELKNCAN_00393
+			product	Transcription termination/antitermination protein NusG
+407471	407301	CDS
+			gene	secE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00422
+			locus_tag	IELKNCAN_00394
+			product	Protein translocase subunit SecE
+407575	407500	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00395
+			product	tRNA-Trp(cca)
+407766	407587	CDS
+			gene	rpmG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00294
+			locus_tag	IELKNCAN_00396
+			product	50S ribosomal protein L33
+407864	407792	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00397
+			product	tRNA-Thr(ggt)
+408807	407953	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00398
+			product	hypothetical protein
+409883	408819	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00399
+			product	hypothetical protein
+409916	411229	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00400
+			product	hypothetical protein
+411235	411891	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00401
+			product	hypothetical protein
+412238	413428	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00402
+			product	hypothetical protein
+414919	413453	CDS
+			EC_number	6.1.1.15
+			db_xref	COG:COG0442
+			gene	proS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51363
+			locus_tag	IELKNCAN_00403
+			product	Proline--tRNA ligase
+415287	416351	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00404
+			product	hypothetical protein
+416362	417099	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00405
+			product	hypothetical protein
+417363	417130	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00406
+			product	hypothetical protein
+417796	417584	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00407
+			product	hypothetical protein
+418529	418266	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00408
+			product	hypothetical protein
+418680	418519	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00409
+			product	hypothetical protein
+418983	418822	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00410
+			product	hypothetical protein
+419363	419043	CDS
+			db_xref	COG:COG1299
+			gene	manP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31645
+			locus_tag	IELKNCAN_00411
+			product	PTS system mannose-specific EIIBCA component
+420524	420916	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00412
+			product	hypothetical protein
+420970	421401	CDS
+			EC_number	3.1.30.-
+			gene	nucA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P38446
+			locus_tag	IELKNCAN_00413
+			product	Nuclease
+421401	422165	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00414
+			product	hypothetical protein
+422765	422283	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00415
+			product	hypothetical protein
+423304	422957	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00416
+			product	hypothetical protein
+423631	423464	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00417
+			product	hypothetical protein
+423944	424807	CDS
+			EC_number	2.1.1.80
+			gene	cheR1_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O87131
+			locus_tag	IELKNCAN_00418
+			product	Chemotaxis protein methyltransferase 1
+424841	426001	CDS
+			EC_number	3.1.1.61
+			db_xref	COG:COG2201
+			gene	cheB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07330
+			locus_tag	IELKNCAN_00419
+			product	Chemotaxis response regulator protein-glutamate methylesterase
+426025	427233	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00420
+			product	hypothetical protein
+427273	427905	CDS
+			EC_number	2.7.4.3
+			gene	adk
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P27142
+			locus_tag	IELKNCAN_00421
+			product	Adenylate kinase
+427980	429029	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00422
+			product	hypothetical protein
+429958	429026	CDS
+			EC_number	3.1.1.61
+			gene	cheB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00099
+			locus_tag	IELKNCAN_00423
+			product	Chemotaxis response regulator protein-glutamate methylesterase
+434400	429955	CDS
+			EC_number	2.7.13.3
+			gene	rcsC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00979
+			locus_tag	IELKNCAN_00424
+			product	Sensor histidine kinase RcsC
+434537	434448	rRNA
+			locus_tag	IELKNCAN_00425
+			note	aligned only 75 percent of the 5S ribosomal RNA
+			product	5S ribosomal RNA (partial)
+			score	5.3e-08
+438742	437906	CDS
+			EC_number	3.1.3.74
+			db_xref	COG:COG0561
+			gene	yigL_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P27848
+			locus_tag	IELKNCAN_00426
+			product	Pyridoxal phosphate phosphatase YigL
+438881	439405	CDS
+			EC_number	2.4.2.8
+			db_xref	COG:COG0634
+			gene	hpt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A9M2
+			locus_tag	IELKNCAN_00427
+			product	Hypoxanthine phosphoribosyltransferase
+439415	440698	CDS
+			EC_number	6.3.4.4
+			db_xref	COG:COG0104
+			gene	purA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P65887
+			locus_tag	IELKNCAN_00428
+			product	Adenylosuccinate synthetase
+440683	442086	CDS
+			EC_number	4.3.2.2
+			db_xref	COG:COG0015
+			gene	purB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X0I0
+			locus_tag	IELKNCAN_00429
+			product	Adenylosuccinate lyase
+442625	442083	CDS
+			EC_number	3.2.2.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00527
+			locus_tag	IELKNCAN_00430
+			product	Putative 3-methyladenine DNA glycosylase
+442807	442880	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00431
+			product	tRNA-Ile(gat)
+443256	443180	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00432
+			product	tRNA-Ala(tgc)
+444857	443325	rRNA
+			locus_tag	IELKNCAN_00433
+			product	16S ribosomal RNA
+			score	0
+446410	445004	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1066
+			gene	radA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37572
+			locus_tag	IELKNCAN_00434
+			product	DNA repair protein RadA
+447484	446810	CDS
+			EC_number	2.1.1.198
+			db_xref	COG:COG0313
+			gene	rsmI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P67087
+			locus_tag	IELKNCAN_00435
+			product	Ribosomal RNA small subunit methyltransferase I
+447743	448063	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00436
+			product	hypothetical protein
+448460	448071	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00437
+			product	hypothetical protein
+448581	449156	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00438
+			product	hypothetical protein
+449310	449708	CDS
+			EC_number	3.6.-.-
+			db_xref	COG:COG1192
+			gene	soj_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37522
+			locus_tag	IELKNCAN_00439
+			product	Sporulation initiation inhibitor protein Soj
+450357	450626	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00440
+			product	hypothetical protein
+451548	450766	CDS
+			db_xref	COG:COG1475
+			gene	spo0J
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P26497
+			locus_tag	IELKNCAN_00441
+			product	Stage 0 sporulation protein J
+454113	451681	CDS
+			EC_number	5.99.1.3
+			db_xref	COG:COG0188
+			gene	gyrA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51396
+			locus_tag	IELKNCAN_00442
+			product	DNA gyrase subunit A
+456029	454125	CDS
+			EC_number	5.99.1.3
+			db_xref	COG:COG0187
+			gene	gyrB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O08399
+			locus_tag	IELKNCAN_00443
+			product	DNA gyrase subunit B
+456299	457753	CDS
+			db_xref	COG:COG0593
+			gene	dnaA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X9D5
+			locus_tag	IELKNCAN_00444
+			product	Chromosomal replication initiator protein DnaA
+457995	459155	CDS
+			gene	dnaN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:B8GXP6
+			locus_tag	IELKNCAN_00445
+			product	Beta sliding clamp
+459174	460247	CDS
+			db_xref	COG:COG1195
+			gene	recF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RVE0
+			locus_tag	IELKNCAN_00446
+			product	DNA replication and repair protein RecF
+460228	460527	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00447
+			product	hypothetical protein
+460619	460774	CDS
+			db_xref	COG:COG0230
+			gene	rpmH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RSH2
+			locus_tag	IELKNCAN_00448
+			product	50S ribosomal protein L34
+460755	461099	CDS
+			EC_number	3.1.26.5
+			gene	rnpA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00227
+			locus_tag	IELKNCAN_00449
+			product	Ribonuclease P protein component
+461096	462733	CDS
+			gene	yidC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01810
+			locus_tag	IELKNCAN_00450
+			product	Membrane protein insertase YidC
+462730	463452	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00451
+			product	hypothetical protein
+463611	464669	CDS
+			EC_number	5.1.3.7
+			gene	wbgU
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7BJX9
+			locus_tag	IELKNCAN_00452
+			product	UDP-N-acetylglucosamine 4-epimerase
+464811	465890	CDS
+			EC_number	4.1.2.13
+			db_xref	COG:COG0191
+			gene	fba
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51401
+			locus_tag	IELKNCAN_00453
+			product	Fructose-bisphosphate aldolase
+466173	466577	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00454
+			product	hypothetical protein
+468371	466614	CDS
+			EC_number	6.1.1.12
+			gene	aspS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P67015
+			locus_tag	IELKNCAN_00455
+			product	Aspartate--tRNA ligase
+470496	468376	CDS
+			gene	kefB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01412
+			locus_tag	IELKNCAN_00456
+			product	Glutathione-regulated potassium-efflux system protein KefB
+470777	470493	CDS
+			gene	ptsH_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F166
+			locus_tag	IELKNCAN_00457
+			product	Phosphocarrier protein HPr
+471087	470758	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00458
+			product	hypothetical protein
+472339	471062	CDS
+			db_xref	COG:COG1508
+			gene	rpoN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A171
+			locus_tag	IELKNCAN_00459
+			product	RNA polymerase sigma-54 factor
+472875	472342	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00460
+			product	hypothetical protein
+473454	472888	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00461
+			product	hypothetical protein
+473626	474492	CDS
+			db_xref	COG:COG0668
+			gene	mscS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0C0S1
+			locus_tag	IELKNCAN_00462
+			product	Small-conductance mechanosensitive channel
+475640	474489	CDS
+			EC_number	2.4.1.337
+			db_xref	COG:COG0438
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8CWR6
+			locus_tag	IELKNCAN_00463
+			product	Alpha-monoglucosyldiacylglycerol synthase
+475699	476682	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00464
+			product	hypothetical protein
+478575	476776	CDS
+			db_xref	COG:COG0322
+			gene	uvrC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5KWH6
+			locus_tag	IELKNCAN_00465
+			product	UvrABC system protein C
+478691	480208	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00466
+			product	hypothetical protein
+480201	481508	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00467
+			product	hypothetical protein
+481584	481673	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00468
+			product	tRNA-Ser(gct)
+481749	481833	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00469
+			product	tRNA-Ser(tga)
+482568	481879	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00470
+			product	hypothetical protein
+482662	482737	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00471
+			product	tRNA-Arg(gcg)
+482752	482839	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00472
+			product	tRNA-Ser(gga)
+483102	484757	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00473
+			product	hypothetical protein
+484761	485060	CDS
+			db_xref	COG:COG0718
+			gene	ebfC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51418
+			locus_tag	IELKNCAN_00474
+			product	Nucleoid-associated protein EbfC
+485064	485648	CDS
+			db_xref	COG:COG0353
+			gene	recR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8RDI4
+			locus_tag	IELKNCAN_00475
+			product	Recombination protein RecR
+485798	486307	CDS
+			EC_number	2.7.4.6
+			db_xref	COG:COG0105
+			gene	ndk
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51419
+			locus_tag	IELKNCAN_00476
+			product	Nucleoside diphosphate kinase
+486270	487136	CDS
+			EC_number	2.1.1.72
+			gene	dpnM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04043
+			locus_tag	IELKNCAN_00477
+			product	Modification methylase DpnIIA
+487367	487903	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00478
+			product	hypothetical protein
+487900	488574	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00479
+			product	hypothetical protein
+488546	489367	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1137
+			gene	lptB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P45073
+			locus_tag	IELKNCAN_00480
+			product	Lipopolysaccharide export system ATP-binding protein LptB
+489364	490053	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00481
+			product	hypothetical protein
+490055	490801	CDS
+			db_xref	COG:COG0327
+			gene	ybgI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AFP6
+			locus_tag	IELKNCAN_00482
+			product	GTP cyclohydrolase 1 type 2 
+490811	491323	CDS
+			EC_number	3.4.23.36
+			db_xref	COG:COG0597
+			gene	lspA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WK99
+			locus_tag	IELKNCAN_00483
+			product	Lipoprotein signal peptidase
+491320	491547	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00484
+			product	hypothetical protein
+491562	492380	CDS
+			EC_number	3.1.4.16
+			db_xref	COG:COG1692
+			gene	ymdB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31775
+			locus_tag	IELKNCAN_00485
+			product	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+492404	493726	CDS
+			EC_number	2.5.1.7
+			db_xref	COG:COG0766
+			gene	murA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HVW7
+			locus_tag	IELKNCAN_00486
+			product	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+493986	495329	CDS
+			db_xref	COG:COG0534
+			gene	norM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O82855
+			locus_tag	IELKNCAN_00487
+			product	Multidrug resistance protein NorM
+495821	495432	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00488
+			product	hypothetical protein
+496456	497640	CDS
+			db_xref	COG:COG0050
+			gene	tufA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q83ES6
+			locus_tag	IELKNCAN_00489
+			product	Elongation factor Tu
+497688	497999	CDS
+			db_xref	COG:COG0051
+			gene	rpsJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q6N4T6
+			locus_tag	IELKNCAN_00490
+			product	30S ribosomal protein S10
+498036	498665	CDS
+			db_xref	COG:COG0087
+			gene	rplC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P42920
+			locus_tag	IELKNCAN_00491
+			product	50S ribosomal protein L3
+498667	499296	CDS
+			db_xref	COG:COG0088
+			gene	rplD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2FW07
+			locus_tag	IELKNCAN_00492
+			product	50S ribosomal protein L4
+499327	499623	CDS
+			db_xref	COG:COG0089
+			gene	rplW
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADZ0
+			locus_tag	IELKNCAN_00493
+			product	50S ribosomal protein L23
+499646	500479	CDS
+			gene	rplB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04257
+			locus_tag	IELKNCAN_00494
+			product	50S ribosomal protein L2
+500489	500767	CDS
+			db_xref	COG:COG0185
+			gene	rpsS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2FW10
+			locus_tag	IELKNCAN_00495
+			product	30S ribosomal protein S19
+500773	501135	CDS
+			db_xref	COG:COG0091
+			gene	rplV
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72I09
+			locus_tag	IELKNCAN_00496
+			product	50S ribosomal protein L22
+501139	501915	CDS
+			db_xref	COG:COG0092
+			gene	rpsC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A7V3
+			locus_tag	IELKNCAN_00497
+			product	30S ribosomal protein S3
+501989	502405	CDS
+			db_xref	COG:COG0197
+			gene	rplP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2FW13
+			locus_tag	IELKNCAN_00498
+			product	50S ribosomal protein L16
+502409	502609	CDS
+			gene	rpmC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04457
+			locus_tag	IELKNCAN_00499
+			product	50S ribosomal protein L29
+502615	502869	CDS
+			db_xref	COG:COG0186
+			gene	rpsQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A0QSE0
+			locus_tag	IELKNCAN_00500
+			product	30S ribosomal protein S17
+502901	503269	CDS
+			db_xref	COG:COG0093
+			gene	rplN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O83229
+			locus_tag	IELKNCAN_00501
+			product	50S ribosomal protein L14
+503281	503586	CDS
+			gene	rplX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04455
+			locus_tag	IELKNCAN_00502
+			product	50S ribosomal protein L24
+503590	504138	CDS
+			gene	rplE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08895
+			locus_tag	IELKNCAN_00503
+			product	50S ribosomal protein L5
+504154	504339	CDS
+			db_xref	COG:COG0199
+			gene	rpsN1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P12878
+			locus_tag	IELKNCAN_00504
+			product	30S ribosomal protein S14
+504349	504747	CDS
+			db_xref	COG:COG0096
+			gene	rpsH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P62668
+			locus_tag	IELKNCAN_00505
+			product	30S ribosomal protein S8
+504768	505310	CDS
+			gene	rplF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P02391
+			locus_tag	IELKNCAN_00506
+			product	50S ribosomal protein L6
+505328	505687	CDS
+			db_xref	COG:COG0256
+			gene	rplR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P46899
+			locus_tag	IELKNCAN_00507
+			product	50S ribosomal protein L18
+505706	506200	CDS
+			db_xref	COG:COG0098
+			gene	rpsE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P21467
+			locus_tag	IELKNCAN_00508
+			product	30S ribosomal protein S5
+506204	506518	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00509
+			product	hypothetical protein
+506511	506948	CDS
+			db_xref	COG:COG0200
+			gene	rplO
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A0F8
+			locus_tag	IELKNCAN_00510
+			product	50S ribosomal protein L15
+506961	508265	CDS
+			db_xref	COG:COG0201
+			gene	secY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O66491
+			locus_tag	IELKNCAN_00511
+			product	Protein translocase subunit SecY
+508398	508775	CDS
+			db_xref	COG:COG0099
+			gene	rpsM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P62655
+			locus_tag	IELKNCAN_00512
+			product	30S ribosomal protein S13
+508807	509196	CDS
+			db_xref	COG:COG0100
+			gene	rpsK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2FW31
+			locus_tag	IELKNCAN_00513
+			product	30S ribosomal protein S11
+509212	510243	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG0202
+			gene	rpoA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20429
+			locus_tag	IELKNCAN_00514
+			product	DNA-directed RNA polymerase subunit alpha
+510260	510622	CDS
+			db_xref	COG:COG0203
+			gene	rplQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WHD3
+			locus_tag	IELKNCAN_00515
+			product	50S ribosomal protein L17
+510705	512246	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG1418
+			gene	rny
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31774
+			locus_tag	IELKNCAN_00516
+			product	Ribonuclease Y
+512236	513027	CDS
+			EC_number	3.1.4.16
+			db_xref	COG:COG1692
+			gene	ymdB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31775
+			locus_tag	IELKNCAN_00517
+			product	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+513038	513799	CDS
+			db_xref	COG:COG1189
+			gene	tlyA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q06803
+			locus_tag	IELKNCAN_00518
+			product	Hemolysin A
+514554	513796	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00519
+			product	hypothetical protein
+514641	515939	CDS
+			db_xref	COG:COG1160
+			gene	der
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P50743
+			locus_tag	IELKNCAN_00520
+			product	GTPase Der
+515957	517210	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00521
+			product	hypothetical protein
+517216	517902	CDS
+			EC_number	3.6.1.1
+			gene	ppaX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01250
+			locus_tag	IELKNCAN_00522
+			product	Pyrophosphatase PpaX
+517921	524907	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00523
+			product	hypothetical protein
+524922	526478	CDS
+			EC_number	6.1.1.20
+			gene	pheS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00282
+			locus_tag	IELKNCAN_00524
+			product	Phenylalanine--tRNA ligase alpha subunit
+526471	528165	CDS
+			EC_number	6.1.1.20
+			gene	pheT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00284
+			locus_tag	IELKNCAN_00525
+			product	Phenylalanine--tRNA ligase beta subunit
+528241	529218	CDS
+			EC_number	1.8.1.9
+			db_xref	COG:COG0492
+			gene	trxB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52215
+			locus_tag	IELKNCAN_00526
+			product	Thioredoxin reductase
+529980	529246	CDS
+			EC_number	2.1.1.185
+			gene	rlmB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01887
+			locus_tag	IELKNCAN_00527
+			product	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+531083	529983	CDS
+			db_xref	COG:COG0484
+			gene	dnaJ_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28616
+			locus_tag	IELKNCAN_00528
+			product	Chaperone protein DnaJ
+532981	531083	CDS
+			db_xref	COG:COG0443
+			gene	dnaK_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0C922
+			locus_tag	IELKNCAN_00529
+			product	Chaperone protein DnaK
+533566	533018	CDS
+			db_xref	COG:COG0576
+			gene	grpE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5KWZ6
+			locus_tag	IELKNCAN_00530
+			product	Protein GrpE
+533826	534308	CDS
+			EC_number	1.11.1.22
+			gene	gpx1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P74250
+			locus_tag	IELKNCAN_00531
+			product	Hydroperoxy fatty acid reductase gpx1
+534334	535899	CDS
+			EC_number	6.3.5.1
+			db_xref	COG:COG0171
+			gene	nadE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q03638
+			locus_tag	IELKNCAN_00532
+			product	Glutamine-dependent NAD(+) synthetase
+536534	536079	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00533
+			product	hypothetical protein
+536650	538461	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00534
+			product	hypothetical protein
+538454	539239	CDS
+			EC_number	2.7.1.33
+			db_xref	COG:COG1521
+			gene	coaX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37564
+			locus_tag	IELKNCAN_00535
+			product	Type III pantothenate kinase
+540183	539377	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00536
+			product	hypothetical protein
+540781	540170	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00537
+			product	hypothetical protein
+542069	540783	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00538
+			product	hypothetical protein
+542449	543207	CDS
+			EC_number	3.1.4.55
+			db_xref	COG:COG1235
+			gene	phnP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P16692
+			locus_tag	IELKNCAN_00539
+			product	Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase
+543228	543986	CDS
+			EC_number	3.1.11.2
+			db_xref	COG:COG0708
+			gene	exoA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37454
+			locus_tag	IELKNCAN_00540
+			product	Exodeoxyribonuclease
+544001	544753	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00541
+			product	hypothetical protein
+544750	547569	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00542
+			product	hypothetical protein
+549057	547585	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00543
+			product	hypothetical protein
+549167	549094	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00544
+			product	tRNA-Glu(ttc)
+549246	549174	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00545
+			product	tRNA-Lys(ttt)
+549415	549342	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00546
+			product	tRNA-Lys(ctt)
+550105	549467	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00547
+			product	hypothetical protein
+550479	550102	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00548
+			product	hypothetical protein
+551213	550518	CDS
+			db_xref	COG:COG0670
+			gene	ybhL
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AAC4
+			locus_tag	IELKNCAN_00549
+			product	Inner membrane protein YbhL
+553303	551225	CDS
+			db_xref	COG:COG0480
+			gene	fusA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72I01
+			locus_tag	IELKNCAN_00550
+			product	Elongation factor G
+553776	554003	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00551
+			product	hypothetical protein
+554163	555281	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00552
+			product	hypothetical protein
+555362	555892	CDS
+			EC_number	3.4.-.-
+			gene	bepA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00997
+			locus_tag	IELKNCAN_00553
+			product	Beta-barrel assembly-enhancing protease
+556021	556623	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00554
+			product	hypothetical protein
+556815	558035	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00555
+			product	hypothetical protein
+558040	559404	CDS
+			EC_number	2.7.1.51
+			gene	fucK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00986
+			locus_tag	IELKNCAN_00556
+			product	L-fuculokinase
+560100	559387	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00557
+			product	hypothetical protein
+560696	560100	CDS
+			EC_number	2.7.1.24
+			db_xref	COG:COG0237
+			gene	coaE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X1A7
+			locus_tag	IELKNCAN_00558
+			product	Dephospho-CoA kinase
+563443	560675	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0258
+			gene	polA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00582
+			locus_tag	IELKNCAN_00559
+			product	DNA polymerase I
+563835	563440	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00560
+			product	hypothetical protein
+564244	563825	CDS
+			gene	fliS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0DPD3
+			locus_tag	IELKNCAN_00561
+			product	Flagellar secretion chaperone FliS
+564635	564255	CDS
+			db_xref	COG:COG0784
+			gene	cheY_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24072
+			locus_tag	IELKNCAN_00562
+			product	Chemotaxis protein CheY
+564841	566970	CDS
+			EC_number	6.5.1.2
+			db_xref	COG:COG0272
+			gene	ligA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P49421
+			locus_tag	IELKNCAN_00563
+			product	DNA ligase
+569195	566973	CDS
+			gene	smc_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01894
+			locus_tag	IELKNCAN_00564
+			product	Chromosome partition protein Smc
+569521	571380	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00565
+			product	hypothetical protein
+571367	571828	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00566
+			product	hypothetical protein
+571825	572688	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00567
+			product	hypothetical protein
+572851	573111	CDS
+			db_xref	COG:COG1925
+			gene	ptsH_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AA04
+			locus_tag	IELKNCAN_00568
+			product	Phosphocarrier protein HPr
+573132	574853	CDS
+			EC_number	2.7.3.9
+			db_xref	COG:COG1080
+			gene	ptsI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08839
+			locus_tag	IELKNCAN_00569
+			product	Phosphoenolpyruvate-protein phosphotransferase
+574857	575426	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00570
+			product	hypothetical protein
+577305	575458	CDS
+			db_xref	COG:COG0326
+			gene	htpG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P22359
+			locus_tag	IELKNCAN_00571
+			product	Chaperone protein HtpG
+577423	578817	CDS
+			EC_number	1.1.1.44
+			db_xref	COG:COG0362
+			gene	gndA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P80859
+			locus_tag	IELKNCAN_00572
+			product	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+579376	578837	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00573
+			product	hypothetical protein
+580068	579550	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00574
+			product	hypothetical protein
+580696	581232	CDS
+			db_xref	COG:COG0835
+			gene	cheW_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A964
+			locus_tag	IELKNCAN_00575
+			product	Chemotaxis protein CheW
+581251	581562	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00576
+			product	hypothetical protein
+581586	583718	CDS
+			EC_number	2.7.13.3
+			db_xref	COG:COG0643
+			gene	cheA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q52880
+			locus_tag	IELKNCAN_00577
+			product	Chemotaxis protein CheA
+583776	584927	CDS
+			EC_number	3.1.1.61
+			gene	cheB_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00099
+			locus_tag	IELKNCAN_00578
+			product	Chemotaxis response regulator protein-glutamate methylesterase
+584927	586699	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00579
+			product	hypothetical protein
+586736	587110	CDS
+			db_xref	COG:COG0784
+			gene	cheY_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AE67
+			locus_tag	IELKNCAN_00580
+			product	Chemotaxis protein CheY
+587257	588489	CDS
+			EC_number	3.4.13.-
+			db_xref	COG:COG0624
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5HF23
+			locus_tag	IELKNCAN_00581
+			product	Putative dipeptidase
+588707	588622	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00582
+			product	tRNA-Leu(caa)
+589403	588714	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00583
+			product	hypothetical protein
+590412	590528	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00584
+			product	hypothetical protein
+590532	591164	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00585
+			product	hypothetical protein
+591327	592937	CDS
+			EC_number	6.3.4.2
+			gene	pyrG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P99072
+			locus_tag	IELKNCAN_00586
+			product	CTP synthase
+593204	596653	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0587
+			gene	dnaE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9XDH5
+			locus_tag	IELKNCAN_00587
+			product	DNA polymerase III subunit alpha
+596665	597237	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00588
+			product	hypothetical protein
+597247	599310	CDS
+			EC_number	3.6.4.12
+			gene	recG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P64325
+			locus_tag	IELKNCAN_00589
+			product	ATP-dependent DNA helicase RecG
+600114	599317	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00590
+			product	hypothetical protein
+600221	601567	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00591
+			product	hypothetical protein
+601791	603146	CDS
+			EC_number	6.3.2.9
+			db_xref	COG:COG0771
+			gene	murD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q97RU8
+			locus_tag	IELKNCAN_00592
+			product	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+604192	603143	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00593
+			product	hypothetical protein
+606393	604213	CDS
+			EC_number	6.1.1.10
+			db_xref	COG:COG0073
+			gene	metG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00959
+			locus_tag	IELKNCAN_00594
+			product	Methionine--tRNA ligase
+606546	607592	CDS
+			EC_number	2.3.1.8
+			db_xref	COG:COG0280
+			gene	pta
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39646
+			locus_tag	IELKNCAN_00595
+			product	Phosphate acetyltransferase
+608399	607563	CDS
+			EC_number	2.1.1.182
+			db_xref	COG:COG0030
+			gene	rsmA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q63X76
+			locus_tag	IELKNCAN_00596
+			product	Ribosomal RNA small subunit methyltransferase A
+609703	608438	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00597
+			product	hypothetical protein
+609839	610552	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00598
+			product	hypothetical protein
+610567	612489	CDS
+			EC_number	6.2.1.3
+			db_xref	COG:COG1022
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O53521
+			locus_tag	IELKNCAN_00599
+			product	Long-chain-fatty-acid--CoA ligase FadD15
+614306	612546	CDS
+			EC_number	6.1.1.19
+			db_xref	COG:COG0018
+			gene	argS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q54869
+			locus_tag	IELKNCAN_00600
+			product	Arginine--tRNA ligase
+614889	614299	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00601
+			product	hypothetical protein
+617121	614905	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00602
+			product	hypothetical protein
+617303	619504	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00603
+			product	hypothetical protein
+620423	619506	CDS
+			EC_number	1.3.1.98
+			db_xref	COG:COG0812
+			gene	murB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8Y776
+			locus_tag	IELKNCAN_00604
+			product	UDP-N-acetylenolpyruvoylglucosamine reductase
+620608	622062	CDS
+			EC_number	6.1.1.16
+			db_xref	COG:COG0215
+			gene	cysS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51545
+			locus_tag	IELKNCAN_00605
+			product	Cysteine--tRNA ligase
+622066	623628	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00606
+			product	hypothetical protein
+623615	624871	CDS
+			EC_number	2.1.2.1
+			db_xref	COG:COG0112
+			gene	glyA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5SI56
+			locus_tag	IELKNCAN_00607
+			product	Serine hydroxymethyltransferase
+624998	625648	CDS
+			gene	dnaJ_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01152
+			locus_tag	IELKNCAN_00608
+			product	Chaperone protein DnaJ
+627556	625748	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00609
+			product	hypothetical protein
+629257	627752	CDS
+			db_xref	COG:COG1620
+			gene	glcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q46839
+			locus_tag	IELKNCAN_00610
+			product	Glycolate permease GlcA
+629326	630354	CDS
+			EC_number	3.4.16.4
+			db_xref	COG:COG1686
+			gene	dacA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P44466
+			locus_tag	IELKNCAN_00611
+			product	D-alanyl-D-alanine carboxypeptidase DacA
+630535	631026	CDS
+			EC_number	3.5.1.44
+			db_xref	COG:COG1871
+			gene	cheD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X005
+			locus_tag	IELKNCAN_00612
+			product	Chemoreceptor glutamine deamidase CheD
+631292	632716	CDS
+			EC_number	3.4.13.18
+			db_xref	COG:COG2195
+			gene	pepD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P15288
+			locus_tag	IELKNCAN_00613
+			product	Cytosol non-specific dipeptidase
+632822	632896	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00614
+			product	tRNA-His(gtg)
+632913	632988	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00615
+			product	tRNA-Arg(tcg)
+633044	633126	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00616
+			product	tRNA-Leu(tag)
+633132	633203	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00617
+			product	tRNA-Gly(gcc)
+633253	634599	CDS
+			EC_number	5.2.1.8
+			db_xref	COG:COG0544
+			gene	tig
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P80698
+			locus_tag	IELKNCAN_00618
+			product	Trigger factor
+634599	635198	CDS
+			EC_number	3.4.21.92
+			db_xref	COG:COG0740
+			gene	clpP_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P56156
+			locus_tag	IELKNCAN_00619
+			product	ATP-dependent Clp protease proteolytic subunit
+635221	636513	CDS
+			gene	clpX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P63790
+			locus_tag	IELKNCAN_00620
+			product	ATP-dependent Clp protease ATP-binding subunit ClpX
+636488	638896	CDS
+			EC_number	3.4.21.53
+			db_xref	COG:COG0466
+			gene	lon1_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37945
+			locus_tag	IELKNCAN_00621
+			product	Lon protease 1
+638933	639079	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00622
+			product	hypothetical protein
+639846	639773	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00623
+			product	tRNA-Met(cat)
+641188	639902	CDS
+			gene	zitB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00552
+			locus_tag	IELKNCAN_00624
+			product	Zinc transporter ZitB
+641940	641485	CDS
+			EC_number	3.5.4.5
+			db_xref	COG:COG0295
+			gene	cdd
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P19079
+			locus_tag	IELKNCAN_00625
+			product	Cytidine deaminase
+642074	643033	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0618
+			gene	nrnA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5SM25
+			locus_tag	IELKNCAN_00626
+			product	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+644678	643023	CDS
+			EC_number	3.2.1.52
+			gene	nagZ_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00364
+			locus_tag	IELKNCAN_00627
+			product	Beta-hexosaminidase
+645008	645081	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00628
+			product	tRNA-Met(cat)
+645098	645643	CDS
+			EC_number	3.1.2.-
+			db_xref	COG:COG0693
+			gene	yajL
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q46948
+			locus_tag	IELKNCAN_00629
+			product	Protein/nucleic acid deglycase 3
+646902	645697	CDS
+			EC_number	2.7.2.1
+			db_xref	COG:COG0282
+			gene	ackA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37877
+			locus_tag	IELKNCAN_00630
+			product	Acetate kinase
+650294	646908	CDS
+			EC_number	3.6.4.-
+			gene	mfd
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A7B2
+			locus_tag	IELKNCAN_00631
+			product	Transcription-repair-coupling factor
+650391	651350	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00632
+			product	hypothetical protein
+651310	653376	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00633
+			product	hypothetical protein
+653436	653508	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00634
+			product	tRNA-Asn(gtt)
+654059	653514	CDS
+			EC_number	3.1.26.8
+			db_xref	COG:COG1658
+			gene	rnmV
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37547
+			locus_tag	IELKNCAN_00635
+			product	Ribonuclease M5
+655318	654050	CDS
+			EC_number	3.4.11.-
+			db_xref	COG:COG1362
+			gene	apeB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HYZ3
+			locus_tag	IELKNCAN_00636
+			product	putative M18 family aminopeptidase 2
+655406	656131	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00637
+			product	hypothetical protein
+658011	656164	CDS
+			db_xref	COG:COG1299
+			gene	fruA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P71012
+			locus_tag	IELKNCAN_00638
+			product	PTS system fructose-specific EIIABC component
+658125	659033	CDS
+			EC_number	2.7.1.144
+			db_xref	COG:COG1105
+			gene	lacC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q833W9
+			locus_tag	IELKNCAN_00639
+			product	Tagatose-6-phosphate kinase
+659310	659235	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00640
+			product	tRNA-Asp(gtc)
+661183	659345	CDS
+			EC_number	3.1.11.5
+			gene	recD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01487
+			locus_tag	IELKNCAN_00641
+			product	RecBCD enzyme subunit RecD
+664645	661193	CDS
+			EC_number	3.1.11.5
+			db_xref	COG:COG1074
+			gene	recB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08394
+			locus_tag	IELKNCAN_00642
+			product	RecBCD enzyme subunit RecB
+667867	664655	CDS
+			EC_number	3.1.11.5
+			gene	recC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01486
+			locus_tag	IELKNCAN_00643
+			product	RecBCD enzyme subunit RecC
+669317	667872	CDS
+			EC_number	6.3.4.21
+			gene	pncB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00570
+			locus_tag	IELKNCAN_00644
+			product	Nicotinate phosphoribosyltransferase
+669485	670918	CDS
+			EC_number	1.1.1.49
+			db_xref	COG:COG0364
+			gene	zwf
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54547
+			locus_tag	IELKNCAN_00645
+			product	Glucose-6-phosphate 1-dehydrogenase
+671207	671629	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00646
+			product	hypothetical protein
+671715	673064	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00647
+			product	hypothetical protein
+674229	673117	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00648
+			product	hypothetical protein
+674978	674187	CDS
+			gene	ydcV
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AFR9
+			locus_tag	IELKNCAN_00649
+			product	Inner membrane ABC transporter permease protein YdcV
+675792	674980	CDS
+			db_xref	COG:COG1176
+			gene	potB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AFK4
+			locus_tag	IELKNCAN_00650
+			product	Spermidine/putrescine transport system permease protein PotB
+676841	675798	CDS
+			EC_number	3.6.3.31
+			gene	potA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A679
+			locus_tag	IELKNCAN_00651
+			product	Spermidine/putrescine import ATP-binding protein PotA
+677775	676924	CDS
+			db_xref	COG:COG1161
+			gene	rbgA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31743
+			locus_tag	IELKNCAN_00652
+			product	Ribosome biogenesis GTPase A
+678339	679031	CDS
+			EC_number	5.1.3.9
+			gene	nanE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P65517
+			locus_tag	IELKNCAN_00653
+			product	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+679085	680629	CDS
+			EC_number	2.7.1.199
+			db_xref	COG:COG1263
+			gene	ptsG_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20166
+			locus_tag	IELKNCAN_00654
+			product	PTS system glucose-specific EIICBA component
+681657	680674	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00655
+			product	hypothetical protein
+682190	681654	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00656
+			product	hypothetical protein
+683973	682282	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00657
+			product	hypothetical protein
+684172	685809	CDS
+			db_xref	COG:COG0459
+			gene	groL
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P23033
+			locus_tag	IELKNCAN_00658
+			product	60 kDa chaperonin
+685870	686166	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00659
+			product	hypothetical protein
+686182	686508	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00660
+			product	hypothetical protein
+686613	688373	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00661
+			product	hypothetical protein
+688357	689256	CDS
+			db_xref	COG:COG0341
+			gene	secF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:E9RGS4
+			locus_tag	IELKNCAN_00662
+			product	Protein translocase subunit SecF
+689280	690434	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00663
+			product	hypothetical protein
+691279	690440	CDS
+			db_xref	COG:COG2214
+			gene	cbpA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P36659
+			locus_tag	IELKNCAN_00664
+			product	Curved DNA-binding protein
+691400	691807	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00665
+			product	hypothetical protein
+691832	692119	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00666
+			product	hypothetical protein
+692307	692549	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00667
+			product	hypothetical protein
+693222	692536	CDS
+			EC_number	5.3.1.6
+			gene	rpiA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7MHL9
+			locus_tag	IELKNCAN_00668
+			product	Ribose-5-phosphate isomerase A
+693452	694198	CDS
+			EC_number	5.4.2.11
+			db_xref	COG:COG0588
+			gene	gpmA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51602
+			locus_tag	IELKNCAN_00669
+			product	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+695851	694286	CDS
+			EC_number	6.1.1.6
+			db_xref	COG:COG1384
+			gene	lysS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51603
+			locus_tag	IELKNCAN_00670
+			product	Lysine--tRNA ligase
+696810	695938	CDS
+			db_xref	COG:COG1159
+			gene	era
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5SM23
+			locus_tag	IELKNCAN_00671
+			product	GTPase Era
+696897	697253	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00672
+			product	hypothetical protein
+697266	697670	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00673
+			product	hypothetical protein
+697698	698111	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00674
+			product	hypothetical protein
+698738	698112	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00675
+			product	hypothetical protein
+698806	699765	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00676
+			product	hypothetical protein
+699734	700753	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00677
+			product	hypothetical protein
+700743	701282	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00678
+			product	hypothetical protein
+701370	702413	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00679
+			product	hypothetical protein
+702490	705057	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00680
+			product	hypothetical protein
+705062	706444	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00681
+			product	hypothetical protein
+706456	706941	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00682
+			product	hypothetical protein
+706993	707433	CDS
+			db_xref	COG:COG0784
+			gene	cheY_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24072
+			locus_tag	IELKNCAN_00683
+			product	Chemotaxis protein CheY
+707964	707443	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00684
+			product	hypothetical protein
+709007	707961	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00685
+			product	hypothetical protein
+709864	709001	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00686
+			product	hypothetical protein
+710523	709861	CDS
+			EC_number	3.1.3.-
+			db_xref	COG:COG0546
+			gene	mupP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HZ62
+			locus_tag	IELKNCAN_00687
+			product	N-acetylmuramic acid 6-phosphate phosphatase
+710744	712330	CDS
+			EC_number	3.6.3.17
+			db_xref	COG:COG1129
+			gene	xylG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37388
+			locus_tag	IELKNCAN_00688
+			product	Xylose import ATP-binding protein XylG
+712331	713461	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00689
+			product	hypothetical protein
+713455	714381	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00690
+			product	hypothetical protein
+714534	716768	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00691
+			product	hypothetical protein
+716798	718699	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00692
+			product	hypothetical protein
+719817	718753	CDS
+			EC_number	2.8.1.13
+			gene	mnmA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q99TM8
+			locus_tag	IELKNCAN_00693
+			product	tRNA-specific 2-thiouridylase MnmA
+719922	721145	CDS
+			EC_number	2.3.3.10
+			db_xref	COG:COG3425
+			gene	mvaS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9FD71
+			locus_tag	IELKNCAN_00694
+			product	Hydroxymethylglutaryl-CoA synthase
+721129	722193	CDS
+			EC_number	5.3.3.2
+			gene	fni
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P99172
+			locus_tag	IELKNCAN_00695
+			product	Isopentenyl-diphosphate delta-isomerase
+722159	723433	CDS
+			EC_number	1.1.1.88
+			gene	mvaA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P13702
+			locus_tag	IELKNCAN_00696
+			product	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+723435	724373	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00697
+			product	hypothetical protein
+724364	725317	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00698
+			product	hypothetical protein
+725308	726201	CDS
+			EC_number	2.7.1.6
+			gene	galK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00246
+			locus_tag	IELKNCAN_00699
+			product	Galactokinase
+726321	726248	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00700
+			product	tRNA-Val(tac)
+726817	726374	CDS
+			db_xref	COG:COG2340
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51632
+			locus_tag	IELKNCAN_00701
+			product	putative protein
+726899	727624	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00702
+			product	hypothetical protein
+727738	729747	CDS
+			db_xref	COG:COG0480
+			gene	fusA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72I01
+			locus_tag	IELKNCAN_00703
+			product	Elongation factor G
+730194	731402	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00704
+			product	hypothetical protein
+731463	732815	CDS
+			db_xref	COG:COG0541
+			gene	ffh
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37105
+			locus_tag	IELKNCAN_00705
+			product	Signal recognition particle protein
+732812	733057	CDS
+			db_xref	COG:COG0228
+			gene	rpsP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P66444
+			locus_tag	IELKNCAN_00706
+			product	30S ribosomal protein S16
+733057	733305	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WFM7
+			locus_tag	IELKNCAN_00707
+			note	UPF0109 protein Rv2908c
+			product	hypothetical protein
+733309	733809	CDS
+			db_xref	COG:COG0806
+			gene	rimM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P44568
+			locus_tag	IELKNCAN_00708
+			product	Ribosome maturation factor RimM
+733806	734525	CDS
+			EC_number	2.1.1.228
+			db_xref	COG:COG0336
+			gene	trmD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P43912
+			locus_tag	IELKNCAN_00709
+			product	tRNA (guanine-N(1)-)-methyltransferase
+734503	734865	CDS
+			db_xref	COG:COG0335
+			gene	rplS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A2RLS5
+			locus_tag	IELKNCAN_00710
+			product	50S ribosomal protein L19
+734843	735676	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00711
+			product	hypothetical protein
+735673	735933	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00712
+			product	hypothetical protein
+736133	736672	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00713
+			product	hypothetical protein
+736675	737172	CDS
+			EC_number	2.7.7.3
+			db_xref	COG:COG0669
+			gene	coaD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34797
+			locus_tag	IELKNCAN_00714
+			product	Phosphopantetheine adenylyltransferase
+737223	737405	CDS
+			gene	rpmF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P66210
+			locus_tag	IELKNCAN_00715
+			product	50S ribosomal protein L32
+737428	737670	CDS
+			db_xref	COG:COG0236
+			gene	acpP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O51647
+			locus_tag	IELKNCAN_00716
+			product	Acyl carrier protein
+737670	738401	CDS
+			EC_number	3.1.26.3
+			db_xref	COG:COG0571
+			gene	rnc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X0I6
+			locus_tag	IELKNCAN_00717
+			product	Ribonuclease 3
+739596	738373	CDS
+			EC_number	2.7.7.72
+			gene	cca
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01263
+			locus_tag	IELKNCAN_00718
+			product	CCA-adding enzyme
+739718	741487	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00719
+			product	hypothetical protein
+741494	741817	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00720
+			product	hypothetical protein
+741889	741964	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00721
+			product	tRNA-Thr(tgt)
+741974	742054	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00722
+			product	tRNA-Tyr(gta)
+742294	743328	CDS
+			EC_number	4.2.2.-
+			gene	mltG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A0A0H2ZLQ1
+			locus_tag	IELKNCAN_00723
+			product	Endolytic murein transglycosylase
+743335	745107	CDS
+			EC_number	2.7.7.-
+			gene	dnaG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00974
+			locus_tag	IELKNCAN_00724
+			product	DNA primase
+745100	746992	CDS
+			gene	rpoD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00963
+			locus_tag	IELKNCAN_00725
+			product	RNA polymerase sigma factor RpoD
+747005	747763	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00726
+			product	hypothetical protein
+748155	749120	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00727
+			product	hypothetical protein
+749133	750182	CDS
+			db_xref	COG:COG1077
+			gene	mreB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A9X4
+			locus_tag	IELKNCAN_00728
+			product	Rod shape-determining protein MreB
+750185	751030	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00729
+			product	hypothetical protein
+751027	751509	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00730
+			product	hypothetical protein
+751511	753313	CDS
+			EC_number	3.4.16.4
+			db_xref	COG:COG0768
+			gene	mrdA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AD65
+			locus_tag	IELKNCAN_00731
+			product	Peptidoglycan D,D-transpeptidase MrdA
+753322	754644	CDS
+			gene	ftsW_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00913
+			locus_tag	IELKNCAN_00732
+			product	Putative lipid II flippase FtsW
+754816	756570	CDS
+			EC_number	6.1.1.3
+			db_xref	COG:COG0441
+			gene	thrS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WFT5
+			locus_tag	IELKNCAN_00733
+			product	Threonine--tRNA ligase
+756572	757195	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00734
+			product	hypothetical protein
+757185	758630	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00735
+			product	hypothetical protein
+759131	758607	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00736
+			product	hypothetical protein
+759166	760539	CDS
+			db_xref	COG:COG0168
+			gene	ktrB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O32081
+			locus_tag	IELKNCAN_00737
+			product	Ktr system potassium uptake protein B
+760546	761328	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00738
+			product	hypothetical protein
+761342	762313	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_02040
+			locus_tag	IELKNCAN_00739
+			product	Iron-sulfur cluster carrier protein
+762352	763713	CDS
+			EC_number	2.7.1.11
+			gene	pfkA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8VU09
+			locus_tag	IELKNCAN_00740
+			product	ATP-dependent 6-phosphofructokinase
+765064	763733	CDS
+			EC_number	1.11.1.1
+			db_xref	COG:COG0446
+			gene	npr
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37062
+			locus_tag	IELKNCAN_00741
+			product	NADH peroxidase
+766461	765073	CDS
+			db_xref	COG:COG1823
+			gene	tcyP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54596
+			locus_tag	IELKNCAN_00742
+			product	L-cystine uptake protein TcyP
+768118	766532	CDS
+			EC_number	5.3.1.9
+			db_xref	COG:COG0166
+			gene	pgi
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5NFC4
+			locus_tag	IELKNCAN_00743
+			product	Glucose-6-phosphate isomerase
+768536	768147	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00744
+			product	hypothetical protein
+771256	768590	CDS
+			EC_number	2.4.2.-
+			gene	mtgA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00766
+			locus_tag	IELKNCAN_00745
+			product	Monofunctional biosynthetic peptidoglycan transglycosylase
+771708	772493	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q73R77
+			locus_tag	IELKNCAN_00746
+			product	Cyclic di-GMP binding protein
+772501	773589	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00747
+			product	hypothetical protein
+774617	773616	CDS
+			EC_number	2.7.7.87
+			db_xref	COG:COG0009
+			gene	ywlC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39153
+			locus_tag	IELKNCAN_00748
+			product	Threonylcarbamoyl-AMP synthase
+774744	775529	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00749
+			product	hypothetical protein
+777582	775519	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG1199
+			gene	dinG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WMR5
+			locus_tag	IELKNCAN_00750
+			product	putative ATP-dependent helicase DinG 
+778240	779235	CDS
+			EC_number	1.3.1.-
+			gene	dus
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P67717
+			locus_tag	IELKNCAN_00751
+			product	putative tRNA-dihydrouridine synthase
+779235	781919	CDS
+			EC_number	6.1.1.9
+			gene	valS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11931
+			locus_tag	IELKNCAN_00752
+			product	Valine--tRNA ligase
+782714	782040	CDS
+			db_xref	COG:COG0665
+			gene	mnmC_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8XCQ7
+			locus_tag	IELKNCAN_00753
+			product	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+783181	782909	CDS
+			db_xref	COG:COG0234
+			gene	groS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24301
+			locus_tag	IELKNCAN_00754
+			product	10 kDa chaperonin
+783324	784955	CDS
+			db_xref	COG:COG0488
+			gene	ybiT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A9U3
+			locus_tag	IELKNCAN_00755
+			product	putative ABC transporter ATP-binding protein YbiT
+784962	786665	CDS
+			gene	bamB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00923
+			locus_tag	IELKNCAN_00756
+			product	Outer membrane protein assembly factor BamB
+786793	788811	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00757
+			product	hypothetical protein
+788974	788900	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00758
+			product	tRNA-Pro(tgg)
+789057	788984	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00759
+			product	tRNA-Arg(tct)
+789141	789776	CDS
+			EC_number	4.2.99.18
+			db_xref	COG:COG0177
+			gene	nth
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WQ11
+			locus_tag	IELKNCAN_00760
+			product	Endonuclease III
+790648	789785	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00761
+			product	hypothetical protein
+791541	790645	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00762
+			product	hypothetical protein
+792074	791631	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00763
+			product	hypothetical protein
+792187	793752	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00764
+			product	hypothetical protein
+793808	794305	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00765
+			product	hypothetical protein
+795263	794262	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00766
+			product	hypothetical protein
+796777	795278	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00767
+			product	hypothetical protein
+797519	796785	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00768
+			product	hypothetical protein
+798442	797516	CDS
+			EC_number	3.6.3.33
+			gene	btuD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01005
+			locus_tag	IELKNCAN_00769
+			product	Vitamin B12 import ATP-binding protein BtuD
+799423	798461	CDS
+			EC_number	3.1.26.11
+			db_xref	COG:COG1234
+			gene	rnz
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54548
+			locus_tag	IELKNCAN_00770
+			product	Ribonuclease Z
+800815	799754	CDS
+			EC_number	1.5.-.-
+			gene	mnmC_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01102
+			locus_tag	IELKNCAN_00771
+			product	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+801791	802384	CDS
+			EC_number	3.4.21.92
+			db_xref	COG:COG0740
+			gene	clpP_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A6G7
+			locus_tag	IELKNCAN_00772
+			product	ATP-dependent Clp protease proteolytic subunit
+802326	803078	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00773
+			product	hypothetical protein
+803137	803222	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00774
+			product	tRNA-Leu(taa)
+804090	803236	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00775
+			product	hypothetical protein
+804453	804124	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00776
+			product	hypothetical protein
+804565	805452	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00777
+			product	hypothetical protein
+807052	805697	CDS
+			db_xref	COG:COG2204
+			gene	atoC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q06065
+			locus_tag	IELKNCAN_00778
+			product	Regulatory protein AtoC
+808205	807045	CDS
+			EC_number	2.7.13.3
+			db_xref	COG:COG2202
+			gene	kinE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31661
+			locus_tag	IELKNCAN_00779
+			product	Sporulation kinase E
+809248	808205	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00780
+			product	hypothetical protein
+809751	809263	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00781
+			product	hypothetical protein
+810829	809741	CDS
+			EC_number	2.4.1.227
+			gene	murG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P65482
+			locus_tag	IELKNCAN_00782
+			product	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+811858	811079	CDS
+			EC_number	2.7.1.35
+			gene	pdxY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01639
+			locus_tag	IELKNCAN_00783
+			product	Pyridoxamine kinase
+812871	811855	CDS
+			EC_number	2.3.1.234
+			db_xref	COG:COG0533
+			gene	tsaD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O05518
+			locus_tag	IELKNCAN_00784
+			product	tRNA N6-adenosine threonylcarbamoyltransferase
+813763	812840	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00785
+			product	hypothetical protein
+814612	813809	CDS
+			db_xref	COG:COG0568
+			gene	sigA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A0J0
+			locus_tag	IELKNCAN_00786
+			product	RNA polymerase sigma factor SigA
+815066	814722	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00787
+			product	hypothetical protein
+816064	815069	CDS
+			gene	flgI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00416
+			locus_tag	IELKNCAN_00788
+			product	Flagellar P-ring protein
+816930	816265	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00789
+			product	hypothetical protein
+817724	816930	CDS
+			db_xref	COG:COG4786
+			gene	flgG_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A1J3
+			locus_tag	IELKNCAN_00790
+			product	Flagellar basal-body rod protein FlgG
+818648	817737	CDS
+			db_xref	COG:COG4786
+			gene	flgG_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A1J3
+			locus_tag	IELKNCAN_00791
+			product	Flagellar basal-body rod protein FlgG
+818831	819364	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00792
+			product	hypothetical protein
+819397	819927	CDS
+			EC_number	2.4.2.7
+			db_xref	COG:COG0503
+			gene	apt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:B0K969
+			locus_tag	IELKNCAN_00793
+			product	Adenine phosphoribosyltransferase
+820039	820365	CDS
+			db_xref	COG:COG0261
+			gene	rplU
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG48
+			locus_tag	IELKNCAN_00794
+			product	50S ribosomal protein L21
+820365	820697	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00795
+			product	hypothetical protein
+820684	820929	CDS
+			db_xref	COG:COG0211
+			gene	rpmA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A0R150
+			locus_tag	IELKNCAN_00796
+			product	50S ribosomal protein L27
+820955	821941	CDS
+			EC_number	3.6.5.-
+			db_xref	COG:COG0536
+			gene	obg
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5SHE9
+			locus_tag	IELKNCAN_00797
+			product	GTPase Obg
+821999	822571	CDS
+			EC_number	2.7.7.18
+			db_xref	COG:COG1057
+			gene	nadD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54455
+			locus_tag	IELKNCAN_00798
+			product	Nicotinate-nucleotide adenylyltransferase
+822572	823756	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00799
+			product	hypothetical protein
+824174	824464	CDS
+			gene	spoVG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A7B5
+			locus_tag	IELKNCAN_00800
+			product	Putative septation protein SpoVG
+824527	824600	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	IELKNCAN_00801
+			product	tRNA-Gln(ttg)
+824623	825174	CDS
+			gene	rplY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q02G03
+			locus_tag	IELKNCAN_00802
+			product	50S ribosomal protein L25
+825181	825747	CDS
+			EC_number	3.1.1.29
+			db_xref	COG:COG0193
+			gene	pth
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q6YP15
+			locus_tag	IELKNCAN_00803
+			product	Peptidyl-tRNA hydrolase
+825747	827063	CDS
+			EC_number	6.3.4.19
+			gene	tilS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01161
+			locus_tag	IELKNCAN_00804
+			product	tRNA(Ile)-lysidine synthase
+827060	828967	CDS
+			EC_number	3.4.24.-
+			db_xref	COG:COG0465
+			gene	ftsH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AAI3
+			locus_tag	IELKNCAN_00805
+			product	ATP-dependent zinc metalloprotease FtsH
+829157	829399	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00806
+			product	hypothetical protein
+829407	829496	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00807
+			product	hypothetical protein
+829886	830248	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00808
+			product	hypothetical protein
+830321	831961	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00809
+			product	hypothetical protein
+831988	833094	CDS
+			EC_number	2.7.1.21
+			gene	tdk
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00124
+			locus_tag	IELKNCAN_00810
+			product	Thymidine kinase
+833718	833101	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00811
+			product	hypothetical protein
+834361	833750	CDS
+			EC_number	2.7.4.9
+			gene	tmk
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00165
+			locus_tag	IELKNCAN_00812
+			product	Thymidylate kinase
+834424	838812	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00813
+			product	hypothetical protein
+838833	841292	CDS
+			db_xref	COG:COG4775
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O83346
+			locus_tag	IELKNCAN_00814
+			product	Putative outer membrane protein assembly factor
+841337	841855	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00815
+			product	hypothetical protein
+842184	844766	CDS
+			gene	mutS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5F5J4
+			locus_tag	IELKNCAN_00816
+			product	DNA mismatch repair protein MutS
+844780	845385	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00817
+			product	hypothetical protein
+845814	845939	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00818
+			product	hypothetical protein
+845953	847395	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00819
+			product	hypothetical protein
+847400	849859	CDS
+			gene	lepA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00071
+			locus_tag	IELKNCAN_00820
+			product	Elongation factor 4
+849884	850246	CDS
+			gene	rbfA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00003
+			locus_tag	IELKNCAN_00821
+			product	Ribosome-binding factor A
+850253	851098	CDS
+			EC_number	5.4.99.25
+			gene	truB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01080
+			locus_tag	IELKNCAN_00822
+			product	tRNA pseudouridine synthase B
+851372	851638	CDS
+			gene	rpsO
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P05766
+			locus_tag	IELKNCAN_00823
+			product	30S ribosomal protein S15
+851622	853805	CDS
+			EC_number	2.7.7.8
+			db_xref	COG:COG1185
+			gene	pnp
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q83D87
+			locus_tag	IELKNCAN_00824
+			product	Polyribonucleotide nucleotidyltransferase
+853873	855318	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00825
+			product	hypothetical protein
+855293	856582	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00826
+			product	hypothetical protein
+856579	857646	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00827
+			product	hypothetical protein
+857665	858792	CDS
+			EC_number	2.4.2.29
+			gene	tgt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P66905
+			locus_tag	IELKNCAN_00828
+			product	Queuine tRNA-ribosyltransferase
+858785	860308	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00829
+			product	hypothetical protein
+860305	861720	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00830
+			product	hypothetical protein
+862889	861714	CDS
+			db_xref	COG:COG0452
+			gene	coaBC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABQ0
+			locus_tag	IELKNCAN_00831
+			product	Coenzyme A biosynthesis bifunctional protein CoaBC
+863170	864558	CDS
+			db_xref	COG:COG4145
+			gene	panF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P16256
+			locus_tag	IELKNCAN_00832
+			product	Sodium/pantothenate symporter
+864563	865531	CDS
+			EC_number	5.4.99.24
+			db_xref	COG:COG0564
+			gene	rluC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AA39
+			locus_tag	IELKNCAN_00833
+			product	Ribosomal large subunit pseudouridine synthase C
+865509	866456	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00834
+			product	hypothetical protein
+866446	867852	CDS
+			EC_number	6.3.2.8
+			db_xref	COG:COG0773
+			gene	murC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HW02
+			locus_tag	IELKNCAN_00835
+			product	UDP-N-acetylmuramate--L-alanine ligase
+867864	868730	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P23839
+			locus_tag	IELKNCAN_00836
+			note	UPF0701 protein YicC
+			product	hypothetical protein
+868727	869272	CDS
+			EC_number	2.7.4.25
+			gene	cmk_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00239
+			locus_tag	IELKNCAN_00837
+			product	Cytidylate kinase
+869292	869489	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00838
+			product	hypothetical protein
+869443	870378	CDS
+			EC_number	2.5.1.75
+			db_xref	COG:COG0324
+			gene	miaA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9KAC3
+			locus_tag	IELKNCAN_00839
+			product	tRNA dimethylallyltransferase
+870783	870547	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00840
+			product	hypothetical protein
+870984	871538	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00841
+			product	hypothetical protein
+872319	871531	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00842
+			product	hypothetical protein
+872824	872312	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00843
+			product	hypothetical protein
+874341	872914	CDS
+			db_xref	COG:COG1263
+			gene	nagE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09323
+			locus_tag	IELKNCAN_00844
+			product	PTS system N-acetylglucosamine-specific EIICBA component
+876949	874463	CDS
+			EC_number	3.6.4.13
+			gene	dbpA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00965
+			locus_tag	IELKNCAN_00845
+			product	ATP-dependent RNA helicase DbpA
+879490	876953	CDS
+			EC_number	5.99.1.2
+			db_xref	COG:COG0550
+			gene	topA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A0R5D9
+			locus_tag	IELKNCAN_00846
+			product	DNA topoisomerase 1
+879579	880799	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00847
+			product	hypothetical protein
+880786	883635	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00848
+			product	hypothetical protein
+883818	883952	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00849
+			product	hypothetical protein
+884334	884966	CDS
+			db_xref	COG:COG3142
+			gene	cutC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q830V2
+			locus_tag	IELKNCAN_00850
+			product	Copper homeostasis protein CutC
+885869	885015	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00851
+			product	hypothetical protein
+889012	886001	CDS
+			EC_number	6.1.1.5
+			gene	ileS2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8L1B1
+			locus_tag	IELKNCAN_00852
+			product	Isoleucine--tRNA ligase 2
+891153	888997	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00853
+			product	hypothetical protein
+892957	891248	CDS
+			EC_number	5.4.2.2
+			gene	pgcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P18159
+			locus_tag	IELKNCAN_00854
+			product	Phosphoglucomutase
+893086	895050	CDS
+			gene	uvrB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P56981
+			locus_tag	IELKNCAN_00855
+			product	UvrABC system protein B
+895078	897918	CDS
+			gene	uvrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P63383
+			locus_tag	IELKNCAN_00856
+			product	UvrABC system protein A
+897873	901289	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00857
+			product	hypothetical protein
+902053	901460	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00858
+			product	hypothetical protein
+902566	903795	CDS
+			EC_number	3.5.3.6
+			db_xref	COG:COG2235
+			gene	arcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A8AYL1
+			locus_tag	IELKNCAN_00859
+			product	Arginine deiminase
+903817	904800	CDS
+			EC_number	2.1.3.3
+			gene	argF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P99073
+			locus_tag	IELKNCAN_00860
+			product	Ornithine carbamoyltransferase
+904852	906258	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00861
+			product	hypothetical protein
+906275	907204	CDS
+			EC_number	2.7.2.2
+			db_xref	COG:COG0549
+			gene	arcC1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A2X7
+			locus_tag	IELKNCAN_00862
+			product	Carbamate kinase 1
+>Feature NZ_CP010328.2
+132	557	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00863
+			product	hypothetical protein
+901	1668	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00864
+			product	hypothetical protein
+3827	2370	CDS
+			EC_number	1.1.1.205
+			db_xref	COG:COG0516
+			gene	guaB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P21879
+			locus_tag	IELKNCAN_00865
+			product	Inosine-5'-monophosphate dehydrogenase
+5371	3848	CDS
+			EC_number	6.3.5.2
+			db_xref	COG:COG0518
+			gene	guaA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04079
+			locus_tag	IELKNCAN_00866
+			product	GMP synthase [glutamine-hydrolyzing]
+6408	5605	CDS
+			EC_number	3.2.2.9
+			db_xref	COG:COG0775
+			gene	mtnN_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A6T4W3
+			locus_tag	IELKNCAN_00867
+			product	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+6800	8446	CDS
+			EC_number	3.5.4.2
+			db_xref	COG:COG1001
+			gene	ade
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72EX7
+			locus_tag	IELKNCAN_00868
+			product	Adenine deaminase
+10724	9369	CDS
+			db_xref	COG:COG2252
+			gene	adeP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P31466
+			locus_tag	IELKNCAN_00869
+			product	Adenine permease AdeP
+11271	10822	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00870
+			product	hypothetical protein
+11814	11308	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00871
+			product	hypothetical protein
+11861	12553	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00872
+			product	hypothetical protein
+13131	12562	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00873
+			product	hypothetical protein
+13228	14475	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00874
+			product	hypothetical protein
+15493	17106	CDS
+			EC_number	2.7.1.199
+			db_xref	COG:COG1263
+			gene	ptsG_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20166
+			locus_tag	IELKNCAN_00875
+			product	PTS system glucose-specific EIICBA component
+17916	17473	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00876
+			product	hypothetical protein
+19362	18013	CDS
+			EC_number	3.1.22.-
+			gene	resT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O50979
+			locus_tag	IELKNCAN_00877
+			product	Telomere resolvase ResT
+19763	20488	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00878
+			product	hypothetical protein
+20499	20705	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00879
+			product	hypothetical protein
+20712	21278	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00880
+			product	hypothetical protein
+21254	22015	CDS
+			EC_number	3.6.-.-
+			db_xref	COG:COG1192
+			gene	soj_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37522
+			locus_tag	IELKNCAN_00881
+			product	Sporulation initiation inhibitor protein Soj
+22068	22622	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00882
+			product	hypothetical protein
+23624	23109	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00883
+			product	hypothetical protein
+24232	24897	CDS
+			gene	ospC_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q07337
+			locus_tag	IELKNCAN_00884
+			product	Outer surface protein C
+25171	26199	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P21875
+			locus_tag	IELKNCAN_00885
+			product	Variable large protein 21
+26392	27021	CDS
+			gene	ospC_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q08137
+			locus_tag	IELKNCAN_00886
+			product	Outer surface protein C
+27487	27834	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00887
+			product	hypothetical protein
+27849	28010	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00888
+			product	hypothetical protein
+28013	28255	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00889
+			product	hypothetical protein
+28445	29482	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IELKNCAN_00890
+			product	hypothetical protein

@@ -1,0 +1,891 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+IELKNCAN_00001	CDS	1017	nagZ_1	3.2.1.52	COG1472	Beta-hexosaminidase
+IELKNCAN_00002	CDS	339				hypothetical protein
+IELKNCAN_00003	CDS	1791				hypothetical protein
+IELKNCAN_00004	CDS	1047	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+IELKNCAN_00005	CDS	1083	yhhT		COG0628	Putative transport protein YhhT
+IELKNCAN_00006	CDS	483				hypothetical protein
+IELKNCAN_00007	CDS	189				hypothetical protein
+IELKNCAN_00008	CDS	771	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+IELKNCAN_00009	CDS	996				hypothetical protein
+IELKNCAN_00010	CDS	378	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+IELKNCAN_00011	CDS	849				hypothetical protein
+IELKNCAN_00012	CDS	738	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+IELKNCAN_00013	CDS	564				hypothetical protein
+IELKNCAN_00014	CDS	1983	priA	3.6.4.-		primosomal protein N'
+IELKNCAN_00015	CDS	621	udk	2.7.1.48	COG0572	Uridine kinase
+IELKNCAN_00016	CDS	312				hypothetical protein
+IELKNCAN_00017	CDS	966				hypothetical protein
+IELKNCAN_00018	CDS	981	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+IELKNCAN_00019	CDS	471				hypothetical protein
+IELKNCAN_00020	CDS	1683	pfp	2.7.1.90		Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+IELKNCAN_00021	CDS	1050	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+IELKNCAN_00022	CDS	1023	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+IELKNCAN_00023	CDS	591	ruvA	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvA
+IELKNCAN_00024	CDS	480	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+IELKNCAN_00025	CDS	723	yebC		COG0217	putative transcriptional regulatory protein YebC
+IELKNCAN_00026	CDS	906	folD		COG0190	Bifunctional protein FolD protein
+IELKNCAN_00027	CDS	636				hypothetical protein
+IELKNCAN_00028	CDS	1035				hypothetical protein
+IELKNCAN_00029	CDS	432				hypothetical protein
+IELKNCAN_00030	CDS	636				hypothetical protein
+IELKNCAN_00031	CDS	981				hypothetical protein
+IELKNCAN_00032	CDS	1473				hypothetical protein
+IELKNCAN_00033	CDS	453	smpB		COG0691	SsrA-binding protein
+IELKNCAN_00034	CDS	567				hypothetical protein
+IELKNCAN_00035	CDS	1887	gyrA_1	5.99.1.3		DNA gyrase subunit A
+IELKNCAN_00036	CDS	1797	gyrB_1	5.99.1.3	COG0187	DNA gyrase subunit B
+IELKNCAN_00037	CDS	774	plsC	2.3.1.51	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+IELKNCAN_00038	CDS	1452				hypothetical protein
+IELKNCAN_00039	CDS	1512				hypothetical protein
+IELKNCAN_00040	CDS	843	cheR1_1	2.1.1.80		Chemotaxis protein methyltransferase 1
+IELKNCAN_00041	CDS	672	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+IELKNCAN_00042	CDS	1023				hypothetical protein
+IELKNCAN_00043	CDS	390				hypothetical protein
+IELKNCAN_00044	CDS	2454	smc_1			Chromosome partition protein Smc
+IELKNCAN_00045	CDS	546	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+IELKNCAN_00046	CDS	363				hypothetical protein
+IELKNCAN_00047	tRNA	73				tRNA-Gly(tcc)
+IELKNCAN_00048	tmRNA	359	ssrA			transfer-messenger RNA, SsrA
+IELKNCAN_00049	CDS	681				hypothetical protein
+IELKNCAN_00050	CDS	693				hypothetical protein
+IELKNCAN_00051	CDS	657	rlmB_1	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+IELKNCAN_00052	CDS	672	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+IELKNCAN_00053	CDS	351				hypothetical protein
+IELKNCAN_00054	CDS	765	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+IELKNCAN_00055	CDS	1179	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+IELKNCAN_00056	CDS	1008	gap	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase
+IELKNCAN_00057	CDS	1986				hypothetical protein
+IELKNCAN_00058	CDS	777	corC		COG4535	Magnesium and cobalt efflux protein CorC
+IELKNCAN_00059	CDS	447	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+IELKNCAN_00060	CDS	354				hypothetical protein
+IELKNCAN_00061	CDS	726				hypothetical protein
+IELKNCAN_00062	CDS	1068				hypothetical protein
+IELKNCAN_00063	CDS	930	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+IELKNCAN_00064	CDS	477	def	3.5.1.88	COG0242	Peptide deformylase
+IELKNCAN_00065	CDS	699				hypothetical protein
+IELKNCAN_00066	CDS	1782				hypothetical protein
+IELKNCAN_00067	CDS	891	yigL_1	3.1.3.74	COG0561	Pyridoxal phosphate phosphatase YigL
+IELKNCAN_00068	CDS	1239		3.4.11.-		Aminopeptidase 2
+IELKNCAN_00069	CDS	468				hypothetical protein
+IELKNCAN_00070	CDS	1470				hypothetical protein
+IELKNCAN_00071	CDS	2310	rsxC			Electron transport complex subunit RsxC
+IELKNCAN_00072	CDS	573				hypothetical protein
+IELKNCAN_00073	CDS	1038	prfB			Peptide chain release factor 2
+IELKNCAN_00074	CDS	1410				hypothetical protein
+IELKNCAN_00075	CDS	846	ftsY		COG0552	Signal recognition particle receptor FtsY
+IELKNCAN_00076	CDS	837				hypothetical protein
+IELKNCAN_00077	CDS	1248				hypothetical protein
+IELKNCAN_00078	CDS	681	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+IELKNCAN_00079	CDS	1254				hypothetical protein
+IELKNCAN_00080	CDS	1287				hypothetical protein
+IELKNCAN_00081	CDS	318				hypothetical protein
+IELKNCAN_00082	CDS	1269	csd	2.8.1.7		putative cysteine desulfurase
+IELKNCAN_00083	CDS	405				hypothetical protein
+IELKNCAN_00084	CDS	1530	comM		COG0606	Competence protein ComM
+IELKNCAN_00085	CDS	951	ldhP	1.1.1.27		L-lactate dehydrogenase P
+IELKNCAN_00086	CDS	1668	lepA_1	3.6.5.-		Elongation factor 4
+IELKNCAN_00087	CDS	984				hypothetical protein
+IELKNCAN_00088	CDS	435				hypothetical protein
+IELKNCAN_00089	CDS	1830				hypothetical protein
+IELKNCAN_00090	CDS	597	atpD			V-type ATP synthase subunit D
+IELKNCAN_00091	CDS	1302	ntpB			V-type sodium ATPase subunit B
+IELKNCAN_00092	CDS	1740	ntpA	3.6.3.15		V-type sodium ATPase catalytic subunit A
+IELKNCAN_00093	CDS	567				hypothetical protein
+IELKNCAN_00094	CDS	606	atpE			V-type proton ATPase subunit E
+IELKNCAN_00095	CDS	396				hypothetical protein
+IELKNCAN_00096	CDS	2337	mutS2	3.1.-.-	COG1193	Endonuclease MutS2
+IELKNCAN_00097	CDS	942	rsgA	3.6.1.-		Putative ribosome biogenesis GTPase RsgA
+IELKNCAN_00098	CDS	765	murI	5.1.1.3		Glutamate racemase
+IELKNCAN_00099	CDS	1386	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+IELKNCAN_00100	CDS	552				hypothetical protein
+IELKNCAN_00101	CDS	591				hypothetical protein
+IELKNCAN_00102	CDS	1452	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+IELKNCAN_00103	CDS	753	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+IELKNCAN_00104	CDS	1656				hypothetical protein
+IELKNCAN_00105	CDS	435				hypothetical protein
+IELKNCAN_00106	CDS	1011	prsA	5.2.1.8	COG0760	Foldase protein PrsA
+IELKNCAN_00107	CDS	1194		2.3.1.9		putative acetyl-CoA acyltransferase
+IELKNCAN_00108	CDS	1359				hypothetical protein
+IELKNCAN_00109	CDS	1386	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+IELKNCAN_00110	CDS	495	rplI		COG0359	50S ribosomal protein L9
+IELKNCAN_00111	CDS	291	rpsR			30S ribosomal protein S18
+IELKNCAN_00112	CDS	441				Single-stranded DNA-binding protein
+IELKNCAN_00113	CDS	402	rpsF			30S ribosomal protein S6
+IELKNCAN_00114	CDS	1686	ptsG_1	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+IELKNCAN_00115	CDS	687				hypothetical protein
+IELKNCAN_00116	CDS	1287		3.4.24.-	COG0750	Putative zinc metalloprotease
+IELKNCAN_00117	CDS	906				hypothetical protein
+IELKNCAN_00118	CDS	693	uppS	2.5.1.31		Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+IELKNCAN_00119	CDS	555	frr		COG0233	Ribosome-recycling factor
+IELKNCAN_00120	CDS	840	tsf		COG0264	Elongation factor Ts
+IELKNCAN_00121	CDS	765	rpsB		COG0052	30S ribosomal protein S2
+IELKNCAN_00122	CDS	141				hypothetical protein
+IELKNCAN_00123	CDS	96				hypothetical protein
+IELKNCAN_00124	CDS	279				hypothetical protein
+IELKNCAN_00125	CDS	795				hypothetical protein
+IELKNCAN_00126	CDS	603				hypothetical protein
+IELKNCAN_00127	CDS	1662	rpsA		COG0539	30S ribosomal protein S1
+IELKNCAN_00128	CDS	657	cmk_1	2.7.4.25	COG0283	Cytidylate kinase
+IELKNCAN_00129	CDS	756	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+IELKNCAN_00130	CDS	804				hypothetical protein
+IELKNCAN_00131	CDS	1092	recA		COG0468	Protein RecA
+IELKNCAN_00132	CDS	2703	greA			Transcription elongation factor GreA
+IELKNCAN_00133	CDS	945				hypothetical protein
+IELKNCAN_00134	CDS	1164				hypothetical protein
+IELKNCAN_00135	CDS	1371	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+IELKNCAN_00136	CDS	1878	spoVD		COG0768	Stage V sporulation protein D
+IELKNCAN_00137	CDS	1896		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+IELKNCAN_00138	CDS	294				hypothetical protein
+IELKNCAN_00139	CDS	276				hypothetical protein
+IELKNCAN_00140	CDS	411				hypothetical protein
+IELKNCAN_00141	CDS	336				hypothetical protein
+IELKNCAN_00142	CDS	585	mdtB			Multidrug resistance protein MdtB
+IELKNCAN_00143	CDS	258				hypothetical protein
+IELKNCAN_00144	CDS	297				hypothetical protein
+IELKNCAN_00145	CDS	156				hypothetical protein
+IELKNCAN_00146	CDS	300				hypothetical protein
+IELKNCAN_00147	CDS	240				hypothetical protein
+IELKNCAN_00148	CDS	432				hypothetical protein
+IELKNCAN_00149	CDS	252				hypothetical protein
+IELKNCAN_00150	CDS	897				hypothetical protein
+IELKNCAN_00151	CDS	900	opuAB		COG4176	Glycine betaine transport system permease protein OpuAB
+IELKNCAN_00152	CDS	1119	proV		COG4175	Glycine betaine/proline betaine transport system ATP-binding protein ProV
+IELKNCAN_00153	CDS	1005	fla		COG1344	Flagellar filament 41 kDa core protein
+IELKNCAN_00154	CDS	2001				hypothetical protein
+IELKNCAN_00155	CDS	1206	nagA	3.5.1.25	COG1820	N-acetylglucosamine-6-phosphate deacetylase
+IELKNCAN_00156	CDS	804	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+IELKNCAN_00157	CDS	612	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+IELKNCAN_00158	CDS	2697	secA		COG0653	Protein translocase subunit SecA
+IELKNCAN_00159	CDS	1134				hypothetical protein
+IELKNCAN_00160	CDS	414				hypothetical protein
+IELKNCAN_00161	CDS	411				hypothetical protein
+IELKNCAN_00162	CDS	1101	alr1	5.1.1.1	COG0787	Alanine racemase 1
+IELKNCAN_00163	CDS	1596				hypothetical protein
+IELKNCAN_00164	CDS	168				hypothetical protein
+IELKNCAN_00165	CDS	1758				hypothetical protein
+IELKNCAN_00166	CDS	978	yrbG		COG0530	Inner membrane protein YrbG
+IELKNCAN_00167	CDS	1851				hypothetical protein
+IELKNCAN_00168	CDS	1482	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+IELKNCAN_00169	CDS	444				hypothetical protein
+IELKNCAN_00170	CDS	324				hypothetical protein
+IELKNCAN_00171	CDS	333				hypothetical protein
+IELKNCAN_00172	CDS	384	dksA			RNA polymerase-binding transcription factor DksA
+IELKNCAN_00173	CDS	222	infA		COG0361	Translation initiation factor IF-1
+IELKNCAN_00174	CDS	2046				hypothetical protein
+IELKNCAN_00175	CDS	588				hypothetical protein
+IELKNCAN_00176	CDS	990				hypothetical protein
+IELKNCAN_00177	CDS	1002				hypothetical protein
+IELKNCAN_00178	CDS	900				hypothetical protein
+IELKNCAN_00179	CDS	885				hypothetical protein
+IELKNCAN_00180	CDS	993				hypothetical protein
+IELKNCAN_00181	CDS	93				hypothetical protein
+IELKNCAN_00182	CDS	1866	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+IELKNCAN_00183	CDS	1395	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+IELKNCAN_00184	CDS	495				hypothetical protein
+IELKNCAN_00185	CDS	1884				hypothetical protein
+IELKNCAN_00186	CDS	1272				hypothetical protein
+IELKNCAN_00187	CDS	393	fliW		COG1699	Flagellar assembly factor FliW
+IELKNCAN_00188	CDS	249	csrA			Carbon storage regulator
+IELKNCAN_00189	CDS	666				hypothetical protein
+IELKNCAN_00190	CDS	408	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+IELKNCAN_00191	CDS	300				hypothetical protein
+IELKNCAN_00192	CDS	348	rplT		COG0292	50S ribosomal protein L20
+IELKNCAN_00193	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+IELKNCAN_00194	CDS	561	infC		COG0290	Translation initiation factor IF-3
+IELKNCAN_00195	CDS	663				hypothetical protein
+IELKNCAN_00196	CDS	585				hypothetical protein
+IELKNCAN_00197	CDS	813	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+IELKNCAN_00198	CDS	1152	lapB_1			Lipopolysaccharide assembly protein B
+IELKNCAN_00199	CDS	1074	prfA		COG0216	Peptide chain release factor RF1
+IELKNCAN_00200	CDS	834	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+IELKNCAN_00201	CDS	2004				hypothetical protein
+IELKNCAN_00202	CDS	2241				hypothetical protein
+IELKNCAN_00203	CDS	1092	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+IELKNCAN_00204	CDS	1527	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+IELKNCAN_00205	tRNA	73				tRNA-Cys(gca)
+IELKNCAN_00206	CDS	1248				hypothetical protein
+IELKNCAN_00207	CDS	933	hflK		COG0330	Modulator of FtsH protease HflK
+IELKNCAN_00208	CDS	972	hflC		COG0330	Modulator of FtsH protease HflC
+IELKNCAN_00209	tRNA	73				tRNA-Phe(gaa)
+IELKNCAN_00210	CDS	1545				hypothetical protein
+IELKNCAN_00211	CDS	546	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+IELKNCAN_00212	CDS	831	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+IELKNCAN_00213	CDS	1698				hypothetical protein
+IELKNCAN_00214	CDS	1653				hypothetical protein
+IELKNCAN_00215	CDS	2337	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+IELKNCAN_00216	CDS	1839	mutL			DNA mismatch repair protein MutL
+IELKNCAN_00217	CDS	1041				hypothetical protein
+IELKNCAN_00218	tRNA	74				tRNA-Met(cat)
+IELKNCAN_00219	CDS	654				hypothetical protein
+IELKNCAN_00220	CDS	579	efp		COG0231	Elongation factor P
+IELKNCAN_00221	CDS	852	pstS		COG0226	Phosphate-binding protein PstS
+IELKNCAN_00222	CDS	909				hypothetical protein
+IELKNCAN_00223	CDS	1542				hypothetical protein
+IELKNCAN_00224	CDS	765	pstB3	3.6.3.27	COG1117	Phosphate import ATP-binding protein PstB 3
+IELKNCAN_00225	CDS	822	zupT		COG0428	Zinc transporter ZupT
+IELKNCAN_00226	CDS	1782				hypothetical protein
+IELKNCAN_00227	CDS	1218	fliG_1		COG1536	Flagellar motor switch protein FliG
+IELKNCAN_00228	CDS	702	pgl	3.1.1.31	COG0363	6-phosphogluconolactonase
+IELKNCAN_00229	CDS	189				hypothetical protein
+IELKNCAN_00230	CDS	1278	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+IELKNCAN_00231	CDS	732				hypothetical protein
+IELKNCAN_00232	CDS	2919				hypothetical protein
+IELKNCAN_00233	CDS	249	rpmE2		COG0254	50S ribosomal protein L31 type B
+IELKNCAN_00234	CDS	1545	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+IELKNCAN_00235	CDS	408				hypothetical protein
+IELKNCAN_00236	CDS	327	hup		COG0776	DNA-binding protein HU
+IELKNCAN_00237	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+IELKNCAN_00238	CDS	849				hypothetical protein
+IELKNCAN_00239	CDS	1107	ychF		COG0012	Ribosome-binding ATPase YchF
+IELKNCAN_00240	CDS	2067				hypothetical protein
+IELKNCAN_00241	CDS	1569	lnt	2.3.1.-		Apolipoprotein N-acyltransferase
+IELKNCAN_00242	CDS	771				hypothetical protein
+IELKNCAN_00243	CDS	603		2.7.1.113	COG1428	Deoxyguanosine kinase
+IELKNCAN_00244	CDS	303				hypothetical protein
+IELKNCAN_00245	CDS	783	pduF		COG0580	Propanediol diffusion facilitator
+IELKNCAN_00246	CDS	1491	glpK	2.7.1.30	COG0554	Glycerol kinase
+IELKNCAN_00247	CDS	1356	glpT		COG2271	Glycerol-3-phosphate transporter
+IELKNCAN_00248	CDS	1005	glpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase, periplasmic
+IELKNCAN_00249	CDS	1566	glpD	1.1.5.3		Aerobic glycerol-3-phosphate dehydrogenase
+IELKNCAN_00250	CDS	495				hypothetical protein
+IELKNCAN_00251	CDS	561				hypothetical protein
+IELKNCAN_00252	CDS	1029				hypothetical protein
+IELKNCAN_00253	CDS	600		3.6.1.66		dITP/XTP pyrophosphatase
+IELKNCAN_00254	CDS	1770	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+IELKNCAN_00255	CDS	705	pcs	2.7.8.24	COG1183	Phosphatidylcholine synthase
+IELKNCAN_00256	CDS	609			COG0586	Inner membrane protein
+IELKNCAN_00257	tRNA	84				tRNA-Leu(gag)
+IELKNCAN_00258	CDS	2529	leuS	6.1.1.4		Leucine--tRNA ligase
+IELKNCAN_00259	CDS	2280				hypothetical protein
+IELKNCAN_00260	CDS	2421	lon1_1	3.4.21.53	COG0466	Lon protease 1
+IELKNCAN_00261	CDS	687				hypothetical protein
+IELKNCAN_00262	CDS	2109				hypothetical protein
+IELKNCAN_00263	CDS	936				hypothetical protein
+IELKNCAN_00264	CDS	210	rpsU			30S ribosomal protein S21
+IELKNCAN_00265	CDS	2343				hypothetical protein
+IELKNCAN_00266	CDS	795	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+IELKNCAN_00267	CDS	2145				hypothetical protein
+IELKNCAN_00268	CDS	1146				hypothetical protein
+IELKNCAN_00269	CDS	1383	lapB_2			Lipopolysaccharide assembly protein B
+IELKNCAN_00270	CDS	1257				hypothetical protein
+IELKNCAN_00271	CDS	513	spsB	3.4.21.89	COG0681	Signal peptidase IB
+IELKNCAN_00272	CDS	1458	dnaK_1		COG0443	Chaperone protein DnaK
+IELKNCAN_00273	CDS	498				hypothetical protein
+IELKNCAN_00274	CDS	315				hypothetical protein
+IELKNCAN_00275	CDS	1905				hypothetical protein
+IELKNCAN_00276	CDS	507				hypothetical protein
+IELKNCAN_00277	CDS	888	ylxH		COG0455	Flagellum site-determining protein YlxH
+IELKNCAN_00278	CDS	1167	flhF		COG1419	Flagellar biosynthesis protein FlhF
+IELKNCAN_00279	CDS	2091	flhA		COG1298	Flagellar biosynthesis protein FlhA
+IELKNCAN_00280	CDS	1116	flhB		COG1377	Flagellar biosynthetic protein FlhB
+IELKNCAN_00281	CDS	789				hypothetical protein
+IELKNCAN_00282	CDS	264				hypothetical protein
+IELKNCAN_00283	CDS	765	fliP		COG1338	Flagellar biosynthetic protein FliP
+IELKNCAN_00284	CDS	639				hypothetical protein
+IELKNCAN_00285	CDS	345				hypothetical protein
+IELKNCAN_00286	CDS	1059	fliM		COG1868	Flagellar motor switch protein FliM
+IELKNCAN_00287	CDS	534				hypothetical protein
+IELKNCAN_00288	CDS	786	motB		COG1360	Motility protein B
+IELKNCAN_00289	CDS	786	pomA		COG1291	Chemotaxis protein PomA
+IELKNCAN_00290	CDS	222	swrD		COG1582	Swarming motility protein SwrD
+IELKNCAN_00291	CDS	1329	flgE		COG1749	Flagellar hook protein FlgE
+IELKNCAN_00292	CDS	426				hypothetical protein
+IELKNCAN_00293	CDS	1173				hypothetical protein
+IELKNCAN_00294	CDS	615				hypothetical protein
+IELKNCAN_00295	CDS	432				hypothetical protein
+IELKNCAN_00296	CDS	1308	fliI	3.6.3.14	COG1157	Flagellum-specific ATP synthase
+IELKNCAN_00297	CDS	921				hypothetical protein
+IELKNCAN_00298	CDS	1035	fliG_2		COG1536	Flagellar motor switch protein FliG
+IELKNCAN_00299	CDS	1713				hypothetical protein
+IELKNCAN_00300	CDS	330	fliE			Flagellar hook-basal body complex protein FliE
+IELKNCAN_00301	CDS	459	flgC		COG1558	Flagellar basal-body rod protein FlgC
+IELKNCAN_00302	CDS	408	flgB		COG1815	Flagellar basal body rod protein FlgB
+IELKNCAN_00303	CDS	1353	clpY		COG1220	ATP-dependent protease ATPase subunit ClpY
+IELKNCAN_00304	CDS	543	hslV	3.4.25.2	COG5405	ATP-dependent protease subunit HslV
+IELKNCAN_00305	CDS	957				hypothetical protein
+IELKNCAN_00306	CDS	690				hypothetical protein
+IELKNCAN_00307	CDS	1221	ftsZ		COG0206	Cell division protein FtsZ
+IELKNCAN_00308	CDS	1242	ftsA		COG0849	Cell division protein FtsA
+IELKNCAN_00309	CDS	744	ftsQ			Cell division protein FtsQ
+IELKNCAN_00310	CDS	1095	ftsW_1	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+IELKNCAN_00311	CDS	1056	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+IELKNCAN_00312	CDS	1395	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+IELKNCAN_00313	CDS	282				hypothetical protein
+IELKNCAN_00314	CDS	897	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+IELKNCAN_00315	CDS	831				hypothetical protein
+IELKNCAN_00316	CDS	1065				hypothetical protein
+IELKNCAN_00317	CDS	759				hypothetical protein
+IELKNCAN_00318	CDS	1665	recN		COG0497	DNA repair protein RecN
+IELKNCAN_00319	CDS	840	nadK	2.7.1.23		NAD kinase
+IELKNCAN_00320	CDS	528	cheW_1		COG0835	Chemotaxis protein CheW
+IELKNCAN_00321	CDS	594	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+IELKNCAN_00322	CDS	1047				hypothetical protein
+IELKNCAN_00323	CDS	681				hypothetical protein
+IELKNCAN_00324	CDS	807				hypothetical protein
+IELKNCAN_00325	CDS	936				hypothetical protein
+IELKNCAN_00326	CDS	1458	mglA	3.6.3.17	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+IELKNCAN_00327	CDS	1038			COG1744	Membrane lipoprotein TpN38(b)
+IELKNCAN_00328	CDS	1092				hypothetical protein
+IELKNCAN_00329	CDS	1122				hypothetical protein
+IELKNCAN_00330	CDS	357				hypothetical protein
+IELKNCAN_00331	CDS	1116				hypothetical protein
+IELKNCAN_00332	CDS	2841				hypothetical protein
+IELKNCAN_00333	CDS	894				hypothetical protein
+IELKNCAN_00334	CDS	1590	oppA_1		COG4166	Oligopeptide-binding protein OppA
+IELKNCAN_00335	CDS	1581	oppA_2		COG4166	Periplasmic oligopeptide-binding protein
+IELKNCAN_00336	CDS	921	oppB		COG0601	Oligopeptide transport system permease protein OppB
+IELKNCAN_00337	CDS	1044				hypothetical protein
+IELKNCAN_00338	CDS	864	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+IELKNCAN_00339	CDS	981	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+IELKNCAN_00340	CDS	807				hypothetical protein
+IELKNCAN_00341	CDS	1296	eno	4.2.1.11		Enolase
+IELKNCAN_00342	CDS	411	rpsI		COG0103	30S ribosomal protein S9
+IELKNCAN_00343	CDS	450	rplM		COG0102	50S ribosomal protein L13
+IELKNCAN_00344	CDS	807				hypothetical protein
+IELKNCAN_00345	CDS	1458	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+IELKNCAN_00346	CDS	1434	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+IELKNCAN_00347	CDS	276	gatC	6.3.5.-		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+IELKNCAN_00348	CDS	2097	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+IELKNCAN_00349	CDS	1200				hypothetical protein
+IELKNCAN_00350	CDS	663				hypothetical protein
+IELKNCAN_00351	CDS	1401				hypothetical protein
+IELKNCAN_00352	CDS	1434	pyk	2.7.1.40		Pyruvate kinase
+IELKNCAN_00353	CDS	204				hypothetical protein
+IELKNCAN_00354	CDS	279	rpmB		COG0227	50S ribosomal protein L28
+IELKNCAN_00355	CDS	1560				hypothetical protein
+IELKNCAN_00356	CDS	1116				hypothetical protein
+IELKNCAN_00357	CDS	1794				hypothetical protein
+IELKNCAN_00358	CDS	942				hypothetical protein
+IELKNCAN_00359	CDS	486	carD		COG1329	RNA polymerase-binding transcription factor CarD
+IELKNCAN_00360	CDS	594				hypothetical protein
+IELKNCAN_00361	CDS	729				hypothetical protein
+IELKNCAN_00362	CDS	1428				hypothetical protein
+IELKNCAN_00363	CDS	432				hypothetical protein
+IELKNCAN_00364	CDS	1134				Iron-sulfur cluster carrier protein
+IELKNCAN_00365	CDS	960	lgt	2.4.99.-	COG0682	Prolipoprotein diacylglyceryl transferase
+IELKNCAN_00366	CDS	1998	pdeA	3.1.4.52		Cyclic di-GMP phosphodiesterase PdeA
+IELKNCAN_00367	CDS	1383	apeA	3.4.11.-	COG1362	putative M18 family aminopeptidase 1
+IELKNCAN_00368	CDS	267				hypothetical protein
+IELKNCAN_00369	CDS	1053	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+IELKNCAN_00370	CDS	2289	clpA		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpA
+IELKNCAN_00371	CDS	1221	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+IELKNCAN_00372	CDS	1338	glyQS	6.1.1.14		Glycine--tRNA ligase
+IELKNCAN_00373	CDS	1476	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+IELKNCAN_00374	CDS	798				hypothetical protein
+IELKNCAN_00375	CDS	1140	PdeB	3.1.4.-	COG2206	Cyclic di-GMP phosphodiesterase PdeB
+IELKNCAN_00376	CDS	714	mtnN_1	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+IELKNCAN_00377	CDS	1173	metK	2.5.1.6		S-adenosylmethionine synthase
+IELKNCAN_00378	CDS	474	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+IELKNCAN_00379	CDS	420	hit		COG0537	Protein hit
+IELKNCAN_00380	CDS	1401			COG2239	Magnesium transporter MgtE
+IELKNCAN_00381	CDS	1425				hypothetical protein
+IELKNCAN_00382	CDS	1017	tmpC_1		COG1744	Membrane lipoprotein TmpC
+IELKNCAN_00383	CDS	1035	tmpC_2		COG1744	Membrane lipoprotein TmpC
+IELKNCAN_00384	CDS	1023	tmpC_3		COG1744	Membrane lipoprotein TmpC
+IELKNCAN_00385	CDS	477	rpsG		COG0049	30S ribosomal protein S7
+IELKNCAN_00386	CDS	375	rpsL		COG0048	30S ribosomal protein S12
+IELKNCAN_00387	CDS	4134	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+IELKNCAN_00388	CDS	3468	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+IELKNCAN_00389	CDS	372	rplL			50S ribosomal protein L7/L12
+IELKNCAN_00390	CDS	489	rplJ			50S ribosomal protein L10
+IELKNCAN_00391	CDS	675	rplA			50S ribosomal protein L1
+IELKNCAN_00392	CDS	444	rplK		COG0080	50S ribosomal protein L11
+IELKNCAN_00393	CDS	555	nusG		COG0250	Transcription termination/antitermination protein NusG
+IELKNCAN_00394	CDS	171	secE			Protein translocase subunit SecE
+IELKNCAN_00395	tRNA	76				tRNA-Trp(cca)
+IELKNCAN_00396	CDS	180	rpmG			50S ribosomal protein L33
+IELKNCAN_00397	tRNA	73				tRNA-Thr(ggt)
+IELKNCAN_00398	CDS	855				hypothetical protein
+IELKNCAN_00399	CDS	1065				hypothetical protein
+IELKNCAN_00400	CDS	1314				hypothetical protein
+IELKNCAN_00401	CDS	657				hypothetical protein
+IELKNCAN_00402	CDS	1191				hypothetical protein
+IELKNCAN_00403	CDS	1467	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+IELKNCAN_00404	CDS	1065				hypothetical protein
+IELKNCAN_00405	CDS	738				hypothetical protein
+IELKNCAN_00406	CDS	234				hypothetical protein
+IELKNCAN_00407	CDS	213				hypothetical protein
+IELKNCAN_00408	CDS	264				hypothetical protein
+IELKNCAN_00409	CDS	162				hypothetical protein
+IELKNCAN_00410	CDS	162				hypothetical protein
+IELKNCAN_00411	CDS	321	manP		COG1299	PTS system mannose-specific EIIBCA component
+IELKNCAN_00412	CDS	393				hypothetical protein
+IELKNCAN_00413	CDS	432	nucA	3.1.30.-		Nuclease
+IELKNCAN_00414	CDS	765				hypothetical protein
+IELKNCAN_00415	CDS	483				hypothetical protein
+IELKNCAN_00416	CDS	348				hypothetical protein
+IELKNCAN_00417	CDS	168				hypothetical protein
+IELKNCAN_00418	CDS	864	cheR1_2	2.1.1.80		Chemotaxis protein methyltransferase 1
+IELKNCAN_00419	CDS	1161	cheB_1	3.1.1.61	COG2201	Chemotaxis response regulator protein-glutamate methylesterase
+IELKNCAN_00420	CDS	1209				hypothetical protein
+IELKNCAN_00421	CDS	633	adk	2.7.4.3		Adenylate kinase
+IELKNCAN_00422	CDS	1050				hypothetical protein
+IELKNCAN_00423	CDS	933	cheB_2	3.1.1.61		Chemotaxis response regulator protein-glutamate methylesterase
+IELKNCAN_00424	CDS	4446	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+IELKNCAN_00425	rRNA	90				5S ribosomal RNA (partial)
+IELKNCAN_00426	CDS	837	yigL_2	3.1.3.74	COG0561	Pyridoxal phosphate phosphatase YigL
+IELKNCAN_00427	CDS	525	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+IELKNCAN_00428	CDS	1284	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+IELKNCAN_00429	CDS	1404	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+IELKNCAN_00430	CDS	543		3.2.2.-		Putative 3-methyladenine DNA glycosylase
+IELKNCAN_00431	tRNA	74				tRNA-Ile(gat)
+IELKNCAN_00432	tRNA	77				tRNA-Ala(tgc)
+IELKNCAN_00433	rRNA	1533				16S ribosomal RNA
+IELKNCAN_00434	CDS	1407	radA	3.6.4.-	COG1066	DNA repair protein RadA
+IELKNCAN_00435	CDS	675	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+IELKNCAN_00436	CDS	321				hypothetical protein
+IELKNCAN_00437	CDS	390				hypothetical protein
+IELKNCAN_00438	CDS	576				hypothetical protein
+IELKNCAN_00439	CDS	399	soj_1	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+IELKNCAN_00440	CDS	270				hypothetical protein
+IELKNCAN_00441	CDS	783	spo0J		COG1475	Stage 0 sporulation protein J
+IELKNCAN_00442	CDS	2433	gyrA_2	5.99.1.3	COG0188	DNA gyrase subunit A
+IELKNCAN_00443	CDS	1905	gyrB_2	5.99.1.3	COG0187	DNA gyrase subunit B
+IELKNCAN_00444	CDS	1455	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+IELKNCAN_00445	CDS	1161	dnaN			Beta sliding clamp
+IELKNCAN_00446	CDS	1074	recF		COG1195	DNA replication and repair protein RecF
+IELKNCAN_00447	CDS	300				hypothetical protein
+IELKNCAN_00448	CDS	156	rpmH		COG0230	50S ribosomal protein L34
+IELKNCAN_00449	CDS	345	rnpA	3.1.26.5		Ribonuclease P protein component
+IELKNCAN_00450	CDS	1638	yidC			Membrane protein insertase YidC
+IELKNCAN_00451	CDS	723				hypothetical protein
+IELKNCAN_00452	CDS	1059	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+IELKNCAN_00453	CDS	1080	fba	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+IELKNCAN_00454	CDS	405				hypothetical protein
+IELKNCAN_00455	CDS	1758	aspS	6.1.1.12		Aspartate--tRNA ligase
+IELKNCAN_00456	CDS	2121	kefB			Glutathione-regulated potassium-efflux system protein KefB
+IELKNCAN_00457	CDS	285	ptsH_1			Phosphocarrier protein HPr
+IELKNCAN_00458	CDS	330				hypothetical protein
+IELKNCAN_00459	CDS	1278	rpoN		COG1508	RNA polymerase sigma-54 factor
+IELKNCAN_00460	CDS	534				hypothetical protein
+IELKNCAN_00461	CDS	567				hypothetical protein
+IELKNCAN_00462	CDS	867	mscS		COG0668	Small-conductance mechanosensitive channel
+IELKNCAN_00463	CDS	1152		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+IELKNCAN_00464	CDS	984				hypothetical protein
+IELKNCAN_00465	CDS	1800	uvrC		COG0322	UvrABC system protein C
+IELKNCAN_00466	CDS	1518				hypothetical protein
+IELKNCAN_00467	CDS	1308				hypothetical protein
+IELKNCAN_00468	tRNA	90				tRNA-Ser(gct)
+IELKNCAN_00469	tRNA	85				tRNA-Ser(tga)
+IELKNCAN_00470	CDS	690				hypothetical protein
+IELKNCAN_00471	tRNA	76				tRNA-Arg(gcg)
+IELKNCAN_00472	tRNA	88				tRNA-Ser(gga)
+IELKNCAN_00473	CDS	1656				hypothetical protein
+IELKNCAN_00474	CDS	300	ebfC		COG0718	Nucleoid-associated protein EbfC
+IELKNCAN_00475	CDS	585	recR		COG0353	Recombination protein RecR
+IELKNCAN_00476	CDS	510	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+IELKNCAN_00477	CDS	867	dpnM	2.1.1.72		Modification methylase DpnIIA
+IELKNCAN_00478	CDS	537				hypothetical protein
+IELKNCAN_00479	CDS	675				hypothetical protein
+IELKNCAN_00480	CDS	822	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+IELKNCAN_00481	CDS	690				hypothetical protein
+IELKNCAN_00482	CDS	747	ybgI		COG0327	GTP cyclohydrolase 1 type 2 
+IELKNCAN_00483	CDS	513	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+IELKNCAN_00484	CDS	228				hypothetical protein
+IELKNCAN_00485	CDS	819	ymdB_1	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+IELKNCAN_00486	CDS	1323	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+IELKNCAN_00487	CDS	1344	norM		COG0534	Multidrug resistance protein NorM
+IELKNCAN_00488	CDS	390				hypothetical protein
+IELKNCAN_00489	CDS	1185	tufA		COG0050	Elongation factor Tu
+IELKNCAN_00490	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+IELKNCAN_00491	CDS	630	rplC		COG0087	50S ribosomal protein L3
+IELKNCAN_00492	CDS	630	rplD		COG0088	50S ribosomal protein L4
+IELKNCAN_00493	CDS	297	rplW		COG0089	50S ribosomal protein L23
+IELKNCAN_00494	CDS	834	rplB			50S ribosomal protein L2
+IELKNCAN_00495	CDS	279	rpsS		COG0185	30S ribosomal protein S19
+IELKNCAN_00496	CDS	363	rplV		COG0091	50S ribosomal protein L22
+IELKNCAN_00497	CDS	777	rpsC		COG0092	30S ribosomal protein S3
+IELKNCAN_00498	CDS	417	rplP		COG0197	50S ribosomal protein L16
+IELKNCAN_00499	CDS	201	rpmC			50S ribosomal protein L29
+IELKNCAN_00500	CDS	255	rpsQ		COG0186	30S ribosomal protein S17
+IELKNCAN_00501	CDS	369	rplN		COG0093	50S ribosomal protein L14
+IELKNCAN_00502	CDS	306	rplX			50S ribosomal protein L24
+IELKNCAN_00503	CDS	549	rplE			50S ribosomal protein L5
+IELKNCAN_00504	CDS	186	rpsN1		COG0199	30S ribosomal protein S14
+IELKNCAN_00505	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+IELKNCAN_00506	CDS	543	rplF			50S ribosomal protein L6
+IELKNCAN_00507	CDS	360	rplR		COG0256	50S ribosomal protein L18
+IELKNCAN_00508	CDS	495	rpsE		COG0098	30S ribosomal protein S5
+IELKNCAN_00509	CDS	315				hypothetical protein
+IELKNCAN_00510	CDS	438	rplO		COG0200	50S ribosomal protein L15
+IELKNCAN_00511	CDS	1305	secY		COG0201	Protein translocase subunit SecY
+IELKNCAN_00512	CDS	378	rpsM		COG0099	30S ribosomal protein S13
+IELKNCAN_00513	CDS	390	rpsK		COG0100	30S ribosomal protein S11
+IELKNCAN_00514	CDS	1032	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+IELKNCAN_00515	CDS	363	rplQ		COG0203	50S ribosomal protein L17
+IELKNCAN_00516	CDS	1542	rny	3.1.-.-	COG1418	Ribonuclease Y
+IELKNCAN_00517	CDS	792	ymdB_2	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+IELKNCAN_00518	CDS	762	tlyA		COG1189	Hemolysin A
+IELKNCAN_00519	CDS	759				hypothetical protein
+IELKNCAN_00520	CDS	1299	der		COG1160	GTPase Der
+IELKNCAN_00521	CDS	1254				hypothetical protein
+IELKNCAN_00522	CDS	687	ppaX	3.6.1.1		Pyrophosphatase PpaX
+IELKNCAN_00523	CDS	6987				hypothetical protein
+IELKNCAN_00524	CDS	1557	pheS	6.1.1.20		Phenylalanine--tRNA ligase alpha subunit
+IELKNCAN_00525	CDS	1695	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+IELKNCAN_00526	CDS	978	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+IELKNCAN_00527	CDS	735	rlmB_2	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+IELKNCAN_00528	CDS	1101	dnaJ_1		COG0484	Chaperone protein DnaJ
+IELKNCAN_00529	CDS	1899	dnaK_2		COG0443	Chaperone protein DnaK
+IELKNCAN_00530	CDS	549	grpE		COG0576	Protein GrpE
+IELKNCAN_00531	CDS	483	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+IELKNCAN_00532	CDS	1566	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+IELKNCAN_00533	CDS	456				hypothetical protein
+IELKNCAN_00534	CDS	1812				hypothetical protein
+IELKNCAN_00535	CDS	786	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+IELKNCAN_00536	CDS	807				hypothetical protein
+IELKNCAN_00537	CDS	612				hypothetical protein
+IELKNCAN_00538	CDS	1287				hypothetical protein
+IELKNCAN_00539	CDS	759	phnP	3.1.4.55	COG1235	Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase
+IELKNCAN_00540	CDS	759	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+IELKNCAN_00541	CDS	753				hypothetical protein
+IELKNCAN_00542	CDS	2820				hypothetical protein
+IELKNCAN_00543	CDS	1473				hypothetical protein
+IELKNCAN_00544	tRNA	74				tRNA-Glu(ttc)
+IELKNCAN_00545	tRNA	73				tRNA-Lys(ttt)
+IELKNCAN_00546	tRNA	74				tRNA-Lys(ctt)
+IELKNCAN_00547	CDS	639				hypothetical protein
+IELKNCAN_00548	CDS	378				hypothetical protein
+IELKNCAN_00549	CDS	696	ybhL		COG0670	Inner membrane protein YbhL
+IELKNCAN_00550	CDS	2079	fusA_1		COG0480	Elongation factor G
+IELKNCAN_00551	CDS	228				hypothetical protein
+IELKNCAN_00552	CDS	1119				hypothetical protein
+IELKNCAN_00553	CDS	531	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+IELKNCAN_00554	CDS	603				hypothetical protein
+IELKNCAN_00555	CDS	1221				hypothetical protein
+IELKNCAN_00556	CDS	1365	fucK	2.7.1.51		L-fuculokinase
+IELKNCAN_00557	CDS	714				hypothetical protein
+IELKNCAN_00558	CDS	597	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+IELKNCAN_00559	CDS	2769	polA	2.7.7.7	COG0258	DNA polymerase I
+IELKNCAN_00560	CDS	396				hypothetical protein
+IELKNCAN_00561	CDS	420	fliS			Flagellar secretion chaperone FliS
+IELKNCAN_00562	CDS	381	cheY_1		COG0784	Chemotaxis protein CheY
+IELKNCAN_00563	CDS	2130	ligA	6.5.1.2	COG0272	DNA ligase
+IELKNCAN_00564	CDS	2223	smc_2			Chromosome partition protein Smc
+IELKNCAN_00565	CDS	1860				hypothetical protein
+IELKNCAN_00566	CDS	462				hypothetical protein
+IELKNCAN_00567	CDS	864				hypothetical protein
+IELKNCAN_00568	CDS	261	ptsH_2		COG1925	Phosphocarrier protein HPr
+IELKNCAN_00569	CDS	1722	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+IELKNCAN_00570	CDS	570				hypothetical protein
+IELKNCAN_00571	CDS	1848	htpG		COG0326	Chaperone protein HtpG
+IELKNCAN_00572	CDS	1395	gndA	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+IELKNCAN_00573	CDS	540				hypothetical protein
+IELKNCAN_00574	CDS	519				hypothetical protein
+IELKNCAN_00575	CDS	537	cheW_2		COG0835	Chemotaxis protein CheW
+IELKNCAN_00576	CDS	312				hypothetical protein
+IELKNCAN_00577	CDS	2133	cheA	2.7.13.3	COG0643	Chemotaxis protein CheA
+IELKNCAN_00578	CDS	1152	cheB_3	3.1.1.61		Chemotaxis response regulator protein-glutamate methylesterase
+IELKNCAN_00579	CDS	1773				hypothetical protein
+IELKNCAN_00580	CDS	375	cheY_2		COG0784	Chemotaxis protein CheY
+IELKNCAN_00581	CDS	1233		3.4.13.-	COG0624	Putative dipeptidase
+IELKNCAN_00582	tRNA	86				tRNA-Leu(caa)
+IELKNCAN_00583	CDS	690				hypothetical protein
+IELKNCAN_00584	CDS	117				hypothetical protein
+IELKNCAN_00585	CDS	633				hypothetical protein
+IELKNCAN_00586	CDS	1611	pyrG	6.3.4.2		CTP synthase
+IELKNCAN_00587	CDS	3450	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+IELKNCAN_00588	CDS	573				hypothetical protein
+IELKNCAN_00589	CDS	2064	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+IELKNCAN_00590	CDS	798				hypothetical protein
+IELKNCAN_00591	CDS	1347				hypothetical protein
+IELKNCAN_00592	CDS	1356	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+IELKNCAN_00593	CDS	1050				hypothetical protein
+IELKNCAN_00594	CDS	2181	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+IELKNCAN_00595	CDS	1047	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+IELKNCAN_00596	CDS	837	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+IELKNCAN_00597	CDS	1266				hypothetical protein
+IELKNCAN_00598	CDS	714				hypothetical protein
+IELKNCAN_00599	CDS	1923		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+IELKNCAN_00600	CDS	1761	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+IELKNCAN_00601	CDS	591				hypothetical protein
+IELKNCAN_00602	CDS	2217				hypothetical protein
+IELKNCAN_00603	CDS	2202				hypothetical protein
+IELKNCAN_00604	CDS	918	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+IELKNCAN_00605	CDS	1455	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+IELKNCAN_00606	CDS	1563				hypothetical protein
+IELKNCAN_00607	CDS	1257	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+IELKNCAN_00608	CDS	651	dnaJ_2			Chaperone protein DnaJ
+IELKNCAN_00609	CDS	1809				hypothetical protein
+IELKNCAN_00610	CDS	1506	glcA		COG1620	Glycolate permease GlcA
+IELKNCAN_00611	CDS	1029	dacA	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+IELKNCAN_00612	CDS	492	cheD	3.5.1.44	COG1871	Chemoreceptor glutamine deamidase CheD
+IELKNCAN_00613	CDS	1425	pepD	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+IELKNCAN_00614	tRNA	75				tRNA-His(gtg)
+IELKNCAN_00615	tRNA	76				tRNA-Arg(tcg)
+IELKNCAN_00616	tRNA	83				tRNA-Leu(tag)
+IELKNCAN_00617	tRNA	72				tRNA-Gly(gcc)
+IELKNCAN_00618	CDS	1347	tig	5.2.1.8	COG0544	Trigger factor
+IELKNCAN_00619	CDS	600	clpP_1	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+IELKNCAN_00620	CDS	1293	clpX			ATP-dependent Clp protease ATP-binding subunit ClpX
+IELKNCAN_00621	CDS	2409	lon1_2	3.4.21.53	COG0466	Lon protease 1
+IELKNCAN_00622	CDS	147				hypothetical protein
+IELKNCAN_00623	tRNA	74				tRNA-Met(cat)
+IELKNCAN_00624	CDS	1287	zitB			Zinc transporter ZitB
+IELKNCAN_00625	CDS	456	cdd	3.5.4.5	COG0295	Cytidine deaminase
+IELKNCAN_00626	CDS	960	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+IELKNCAN_00627	CDS	1656	nagZ_2	3.2.1.52		Beta-hexosaminidase
+IELKNCAN_00628	tRNA	74				tRNA-Met(cat)
+IELKNCAN_00629	CDS	546	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+IELKNCAN_00630	CDS	1206	ackA	2.7.2.1	COG0282	Acetate kinase
+IELKNCAN_00631	CDS	3387	mfd	3.6.4.-		Transcription-repair-coupling factor
+IELKNCAN_00632	CDS	960				hypothetical protein
+IELKNCAN_00633	CDS	2067				hypothetical protein
+IELKNCAN_00634	tRNA	73				tRNA-Asn(gtt)
+IELKNCAN_00635	CDS	546	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+IELKNCAN_00636	CDS	1269	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+IELKNCAN_00637	CDS	726				hypothetical protein
+IELKNCAN_00638	CDS	1848	fruA		COG1299	PTS system fructose-specific EIIABC component
+IELKNCAN_00639	CDS	909	lacC	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+IELKNCAN_00640	tRNA	76				tRNA-Asp(gtc)
+IELKNCAN_00641	CDS	1839	recD	3.1.11.5		RecBCD enzyme subunit RecD
+IELKNCAN_00642	CDS	3453	recB	3.1.11.5	COG1074	RecBCD enzyme subunit RecB
+IELKNCAN_00643	CDS	3213	recC	3.1.11.5		RecBCD enzyme subunit RecC
+IELKNCAN_00644	CDS	1446	pncB	6.3.4.21		Nicotinate phosphoribosyltransferase
+IELKNCAN_00645	CDS	1434	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+IELKNCAN_00646	CDS	423				hypothetical protein
+IELKNCAN_00647	CDS	1350				hypothetical protein
+IELKNCAN_00648	CDS	1113				hypothetical protein
+IELKNCAN_00649	CDS	792	ydcV			Inner membrane ABC transporter permease protein YdcV
+IELKNCAN_00650	CDS	813	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+IELKNCAN_00651	CDS	1044	potA	3.6.3.31		Spermidine/putrescine import ATP-binding protein PotA
+IELKNCAN_00652	CDS	852	rbgA		COG1161	Ribosome biogenesis GTPase A
+IELKNCAN_00653	CDS	693	nanE	5.1.3.9		Putative N-acetylmannosamine-6-phosphate 2-epimerase
+IELKNCAN_00654	CDS	1545	ptsG_2	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+IELKNCAN_00655	CDS	984				hypothetical protein
+IELKNCAN_00656	CDS	537				hypothetical protein
+IELKNCAN_00657	CDS	1692				hypothetical protein
+IELKNCAN_00658	CDS	1638	groL		COG0459	60 kDa chaperonin
+IELKNCAN_00659	CDS	297				hypothetical protein
+IELKNCAN_00660	CDS	327				hypothetical protein
+IELKNCAN_00661	CDS	1761				hypothetical protein
+IELKNCAN_00662	CDS	900	secF		COG0341	Protein translocase subunit SecF
+IELKNCAN_00663	CDS	1155				hypothetical protein
+IELKNCAN_00664	CDS	840	cbpA		COG2214	Curved DNA-binding protein
+IELKNCAN_00665	CDS	408				hypothetical protein
+IELKNCAN_00666	CDS	288				hypothetical protein
+IELKNCAN_00667	CDS	243				hypothetical protein
+IELKNCAN_00668	CDS	687	rpiA	5.3.1.6		Ribose-5-phosphate isomerase A
+IELKNCAN_00669	CDS	747	gpmA	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+IELKNCAN_00670	CDS	1566	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+IELKNCAN_00671	CDS	873	era		COG1159	GTPase Era
+IELKNCAN_00672	CDS	357				hypothetical protein
+IELKNCAN_00673	CDS	405				hypothetical protein
+IELKNCAN_00674	CDS	414				hypothetical protein
+IELKNCAN_00675	CDS	627				hypothetical protein
+IELKNCAN_00676	CDS	960				hypothetical protein
+IELKNCAN_00677	CDS	1020				hypothetical protein
+IELKNCAN_00678	CDS	540				hypothetical protein
+IELKNCAN_00679	CDS	1044				hypothetical protein
+IELKNCAN_00680	CDS	2568				hypothetical protein
+IELKNCAN_00681	CDS	1383				hypothetical protein
+IELKNCAN_00682	CDS	486				hypothetical protein
+IELKNCAN_00683	CDS	441	cheY_3		COG0784	Chemotaxis protein CheY
+IELKNCAN_00684	CDS	522				hypothetical protein
+IELKNCAN_00685	CDS	1047				hypothetical protein
+IELKNCAN_00686	CDS	864				hypothetical protein
+IELKNCAN_00687	CDS	663	mupP	3.1.3.-	COG0546	N-acetylmuramic acid 6-phosphate phosphatase
+IELKNCAN_00688	CDS	1587	xylG	3.6.3.17	COG1129	Xylose import ATP-binding protein XylG
+IELKNCAN_00689	CDS	1131				hypothetical protein
+IELKNCAN_00690	CDS	927				hypothetical protein
+IELKNCAN_00691	CDS	2235				hypothetical protein
+IELKNCAN_00692	CDS	1902				hypothetical protein
+IELKNCAN_00693	CDS	1065	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+IELKNCAN_00694	CDS	1224	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+IELKNCAN_00695	CDS	1065	fni	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+IELKNCAN_00696	CDS	1275	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+IELKNCAN_00697	CDS	939				hypothetical protein
+IELKNCAN_00698	CDS	954				hypothetical protein
+IELKNCAN_00699	CDS	894	galK	2.7.1.6		Galactokinase
+IELKNCAN_00700	tRNA	74				tRNA-Val(tac)
+IELKNCAN_00701	CDS	444			COG2340	putative protein
+IELKNCAN_00702	CDS	726				hypothetical protein
+IELKNCAN_00703	CDS	2010	fusA_2		COG0480	Elongation factor G
+IELKNCAN_00704	CDS	1209				hypothetical protein
+IELKNCAN_00705	CDS	1353	ffh		COG0541	Signal recognition particle protein
+IELKNCAN_00706	CDS	246	rpsP		COG0228	30S ribosomal protein S16
+IELKNCAN_00707	CDS	249				hypothetical protein
+IELKNCAN_00708	CDS	501	rimM		COG0806	Ribosome maturation factor RimM
+IELKNCAN_00709	CDS	720	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+IELKNCAN_00710	CDS	363	rplS		COG0335	50S ribosomal protein L19
+IELKNCAN_00711	CDS	834				hypothetical protein
+IELKNCAN_00712	CDS	261				hypothetical protein
+IELKNCAN_00713	CDS	540				hypothetical protein
+IELKNCAN_00714	CDS	498	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+IELKNCAN_00715	CDS	183	rpmF			50S ribosomal protein L32
+IELKNCAN_00716	CDS	243	acpP		COG0236	Acyl carrier protein
+IELKNCAN_00717	CDS	732	rnc	3.1.26.3	COG0571	Ribonuclease 3
+IELKNCAN_00718	CDS	1224	cca	2.7.7.72		CCA-adding enzyme
+IELKNCAN_00719	CDS	1770				hypothetical protein
+IELKNCAN_00720	CDS	324				hypothetical protein
+IELKNCAN_00721	tRNA	76				tRNA-Thr(tgt)
+IELKNCAN_00722	tRNA	81				tRNA-Tyr(gta)
+IELKNCAN_00723	CDS	1035	mltG	4.2.2.-		Endolytic murein transglycosylase
+IELKNCAN_00724	CDS	1773	dnaG	2.7.7.-		DNA primase
+IELKNCAN_00725	CDS	1893	rpoD			RNA polymerase sigma factor RpoD
+IELKNCAN_00726	CDS	759				hypothetical protein
+IELKNCAN_00727	CDS	966				hypothetical protein
+IELKNCAN_00728	CDS	1050	mreB		COG1077	Rod shape-determining protein MreB
+IELKNCAN_00729	CDS	846				hypothetical protein
+IELKNCAN_00730	CDS	483				hypothetical protein
+IELKNCAN_00731	CDS	1803	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+IELKNCAN_00732	CDS	1323	ftsW_2			Putative lipid II flippase FtsW
+IELKNCAN_00733	CDS	1755	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+IELKNCAN_00734	CDS	624				hypothetical protein
+IELKNCAN_00735	CDS	1446				hypothetical protein
+IELKNCAN_00736	CDS	525				hypothetical protein
+IELKNCAN_00737	CDS	1374	ktrB		COG0168	Ktr system potassium uptake protein B
+IELKNCAN_00738	CDS	783				hypothetical protein
+IELKNCAN_00739	CDS	972				Iron-sulfur cluster carrier protein
+IELKNCAN_00740	CDS	1362	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+IELKNCAN_00741	CDS	1332	npr	1.11.1.1	COG0446	NADH peroxidase
+IELKNCAN_00742	CDS	1389	tcyP		COG1823	L-cystine uptake protein TcyP
+IELKNCAN_00743	CDS	1587	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+IELKNCAN_00744	CDS	390				hypothetical protein
+IELKNCAN_00745	CDS	2667	mtgA	2.4.2.-		Monofunctional biosynthetic peptidoglycan transglycosylase
+IELKNCAN_00746	CDS	786				Cyclic di-GMP binding protein
+IELKNCAN_00747	CDS	1089				hypothetical protein
+IELKNCAN_00748	CDS	1002	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+IELKNCAN_00749	CDS	786				hypothetical protein
+IELKNCAN_00750	CDS	2064	dinG	3.6.4.12	COG1199	putative ATP-dependent helicase DinG 
+IELKNCAN_00751	CDS	996	dus	1.3.1.-		putative tRNA-dihydrouridine synthase
+IELKNCAN_00752	CDS	2685	valS	6.1.1.9		Valine--tRNA ligase
+IELKNCAN_00753	CDS	675	mnmC_1		COG0665	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+IELKNCAN_00754	CDS	273	groS		COG0234	10 kDa chaperonin
+IELKNCAN_00755	CDS	1632	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+IELKNCAN_00756	CDS	1704	bamB			Outer membrane protein assembly factor BamB
+IELKNCAN_00757	CDS	2019				hypothetical protein
+IELKNCAN_00758	tRNA	75				tRNA-Pro(tgg)
+IELKNCAN_00759	tRNA	74				tRNA-Arg(tct)
+IELKNCAN_00760	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+IELKNCAN_00761	CDS	864				hypothetical protein
+IELKNCAN_00762	CDS	897				hypothetical protein
+IELKNCAN_00763	CDS	444				hypothetical protein
+IELKNCAN_00764	CDS	1566				hypothetical protein
+IELKNCAN_00765	CDS	498				hypothetical protein
+IELKNCAN_00766	CDS	1002				hypothetical protein
+IELKNCAN_00767	CDS	1500				hypothetical protein
+IELKNCAN_00768	CDS	735				hypothetical protein
+IELKNCAN_00769	CDS	927	btuD	3.6.3.33		Vitamin B12 import ATP-binding protein BtuD
+IELKNCAN_00770	CDS	963	rnz	3.1.26.11	COG1234	Ribonuclease Z
+IELKNCAN_00771	CDS	1062	mnmC_2	1.5.-.-		tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+IELKNCAN_00772	CDS	594	clpP_2	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+IELKNCAN_00773	CDS	753				hypothetical protein
+IELKNCAN_00774	tRNA	86				tRNA-Leu(taa)
+IELKNCAN_00775	CDS	855				hypothetical protein
+IELKNCAN_00776	CDS	330				hypothetical protein
+IELKNCAN_00777	CDS	888				hypothetical protein
+IELKNCAN_00778	CDS	1356	atoC		COG2204	Regulatory protein AtoC
+IELKNCAN_00779	CDS	1161	kinE	2.7.13.3	COG2202	Sporulation kinase E
+IELKNCAN_00780	CDS	1044				hypothetical protein
+IELKNCAN_00781	CDS	489				hypothetical protein
+IELKNCAN_00782	CDS	1089	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+IELKNCAN_00783	CDS	780	pdxY	2.7.1.35		Pyridoxamine kinase
+IELKNCAN_00784	CDS	1017	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+IELKNCAN_00785	CDS	924				hypothetical protein
+IELKNCAN_00786	CDS	804	sigA		COG0568	RNA polymerase sigma factor SigA
+IELKNCAN_00787	CDS	345				hypothetical protein
+IELKNCAN_00788	CDS	996	flgI			Flagellar P-ring protein
+IELKNCAN_00789	CDS	666				hypothetical protein
+IELKNCAN_00790	CDS	795	flgG_1		COG4786	Flagellar basal-body rod protein FlgG
+IELKNCAN_00791	CDS	912	flgG_2		COG4786	Flagellar basal-body rod protein FlgG
+IELKNCAN_00792	CDS	534				hypothetical protein
+IELKNCAN_00793	CDS	531	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+IELKNCAN_00794	CDS	327	rplU		COG0261	50S ribosomal protein L21
+IELKNCAN_00795	CDS	333				hypothetical protein
+IELKNCAN_00796	CDS	246	rpmA		COG0211	50S ribosomal protein L27
+IELKNCAN_00797	CDS	987	obg	3.6.5.-	COG0536	GTPase Obg
+IELKNCAN_00798	CDS	573	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+IELKNCAN_00799	CDS	1185				hypothetical protein
+IELKNCAN_00800	CDS	291	spoVG			Putative septation protein SpoVG
+IELKNCAN_00801	tRNA	74				tRNA-Gln(ttg)
+IELKNCAN_00802	CDS	552	rplY			50S ribosomal protein L25
+IELKNCAN_00803	CDS	567	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+IELKNCAN_00804	CDS	1317	tilS	6.3.4.19		tRNA(Ile)-lysidine synthase
+IELKNCAN_00805	CDS	1908	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+IELKNCAN_00806	CDS	243				hypothetical protein
+IELKNCAN_00807	CDS	90				hypothetical protein
+IELKNCAN_00808	CDS	363				hypothetical protein
+IELKNCAN_00809	CDS	1641				hypothetical protein
+IELKNCAN_00810	CDS	1107	tdk	2.7.1.21		Thymidine kinase
+IELKNCAN_00811	CDS	618				hypothetical protein
+IELKNCAN_00812	CDS	612	tmk	2.7.4.9		Thymidylate kinase
+IELKNCAN_00813	CDS	4389				hypothetical protein
+IELKNCAN_00814	CDS	2460			COG4775	Putative outer membrane protein assembly factor
+IELKNCAN_00815	CDS	519				hypothetical protein
+IELKNCAN_00816	CDS	2583	mutS			DNA mismatch repair protein MutS
+IELKNCAN_00817	CDS	606				hypothetical protein
+IELKNCAN_00818	CDS	126				hypothetical protein
+IELKNCAN_00819	CDS	1443				hypothetical protein
+IELKNCAN_00820	CDS	2460	lepA_2			Elongation factor 4
+IELKNCAN_00821	CDS	363	rbfA			Ribosome-binding factor A
+IELKNCAN_00822	CDS	846	truB	5.4.99.25		tRNA pseudouridine synthase B
+IELKNCAN_00823	CDS	267	rpsO			30S ribosomal protein S15
+IELKNCAN_00824	CDS	2184	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+IELKNCAN_00825	CDS	1446				hypothetical protein
+IELKNCAN_00826	CDS	1290				hypothetical protein
+IELKNCAN_00827	CDS	1068				hypothetical protein
+IELKNCAN_00828	CDS	1128	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+IELKNCAN_00829	CDS	1524				hypothetical protein
+IELKNCAN_00830	CDS	1416				hypothetical protein
+IELKNCAN_00831	CDS	1176	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+IELKNCAN_00832	CDS	1389	panF		COG4145	Sodium/pantothenate symporter
+IELKNCAN_00833	CDS	969	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+IELKNCAN_00834	CDS	948				hypothetical protein
+IELKNCAN_00835	CDS	1407	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+IELKNCAN_00836	CDS	867				hypothetical protein
+IELKNCAN_00837	CDS	546	cmk_2	2.7.4.25		Cytidylate kinase
+IELKNCAN_00838	CDS	198				hypothetical protein
+IELKNCAN_00839	CDS	936	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+IELKNCAN_00840	CDS	237				hypothetical protein
+IELKNCAN_00841	CDS	555				hypothetical protein
+IELKNCAN_00842	CDS	789				hypothetical protein
+IELKNCAN_00843	CDS	513				hypothetical protein
+IELKNCAN_00844	CDS	1428	nagE		COG1263	PTS system N-acetylglucosamine-specific EIICBA component
+IELKNCAN_00845	CDS	2487	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+IELKNCAN_00846	CDS	2538	topA	5.99.1.2	COG0550	DNA topoisomerase 1
+IELKNCAN_00847	CDS	1221				hypothetical protein
+IELKNCAN_00848	CDS	2850				hypothetical protein
+IELKNCAN_00849	CDS	135				hypothetical protein
+IELKNCAN_00850	CDS	633	cutC		COG3142	Copper homeostasis protein CutC
+IELKNCAN_00851	CDS	855				hypothetical protein
+IELKNCAN_00852	CDS	3012	ileS2	6.1.1.5		Isoleucine--tRNA ligase 2
+IELKNCAN_00853	CDS	2157				hypothetical protein
+IELKNCAN_00854	CDS	1710	pgcA	5.4.2.2		Phosphoglucomutase
+IELKNCAN_00855	CDS	1965	uvrB			UvrABC system protein B
+IELKNCAN_00856	CDS	2841	uvrA			UvrABC system protein A
+IELKNCAN_00857	CDS	3417				hypothetical protein
+IELKNCAN_00858	CDS	594				hypothetical protein
+IELKNCAN_00859	CDS	1230	arcA	3.5.3.6	COG2235	Arginine deiminase
+IELKNCAN_00860	CDS	984	argF	2.1.3.3		Ornithine carbamoyltransferase
+IELKNCAN_00861	CDS	1407				hypothetical protein
+IELKNCAN_00862	CDS	930	arcC1	2.7.2.2	COG0549	Carbamate kinase 1
+IELKNCAN_00863	CDS	426				hypothetical protein
+IELKNCAN_00864	CDS	768				hypothetical protein
+IELKNCAN_00865	CDS	1458	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+IELKNCAN_00866	CDS	1524	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+IELKNCAN_00867	CDS	804	mtnN_2	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+IELKNCAN_00868	CDS	1647	ade	3.5.4.2	COG1001	Adenine deaminase
+IELKNCAN_00869	CDS	1356	adeP		COG2252	Adenine permease AdeP
+IELKNCAN_00870	CDS	450				hypothetical protein
+IELKNCAN_00871	CDS	507				hypothetical protein
+IELKNCAN_00872	CDS	693				hypothetical protein
+IELKNCAN_00873	CDS	570				hypothetical protein
+IELKNCAN_00874	CDS	1248				hypothetical protein
+IELKNCAN_00875	CDS	1614	ptsG_3	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+IELKNCAN_00876	CDS	444				hypothetical protein
+IELKNCAN_00877	CDS	1350	resT	3.1.22.-		Telomere resolvase ResT
+IELKNCAN_00878	CDS	726				hypothetical protein
+IELKNCAN_00879	CDS	207				hypothetical protein
+IELKNCAN_00880	CDS	567				hypothetical protein
+IELKNCAN_00881	CDS	762	soj_2	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+IELKNCAN_00882	CDS	555				hypothetical protein
+IELKNCAN_00883	CDS	516				hypothetical protein
+IELKNCAN_00884	CDS	666	ospC_1			Outer surface protein C
+IELKNCAN_00885	CDS	1029				Variable large protein 21
+IELKNCAN_00886	CDS	630	ospC_2			Outer surface protein C
+IELKNCAN_00887	CDS	348				hypothetical protein
+IELKNCAN_00888	CDS	162				hypothetical protein
+IELKNCAN_00889	CDS	243				hypothetical protein
+IELKNCAN_00890	CDS	1038				hypothetical protein

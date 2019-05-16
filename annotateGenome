@@ -1,0 +1,14 @@
+!/bin/bash
+
+#Takes in the name of the folder pertaining to an organism. The folder must contain a .fna file for the organism.
+#This script runs Prokka on the organism, extracts the gene lest and unique gene list form teh annotation, and 
+#moves those files to a mroe convenient location.
+
+cd "$1"
+prokka *.fna --outdir "$1""_prokka"
+cd "$1""_prokka"
+cat PROKKA*.tbl | awk '{if ($1 == "gene") {print $2}}' | awk -F'_' '{print $1}' | sort > "$prefix""$1""_gene_list.txt"
+uniq "$prefix""$1""_gene_list.txt" > "$prefix""$1""_unique_gene_list.txt"
+
+mv "$prefix""$1""_gene_list.txt" ../"$prefix""$1""_gene_list.txt"
+mv "$prefix""$1""_unique_gene_list.txt" ../"$prefix""$1""_unique_gene_list.txt"

@@ -1,0 +1,222 @@
+[04:00:41] This is prokka 1.13.3
+[04:00:41] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[04:00:41] Homepage is https://github.com/tseemann/prokka
+[04:00:41] Local time is Fri Nov 23 04:00:41 2018
+[04:00:41] You are group10
+[04:00:41] Operating system is linux
+[04:00:41] You have BioPerl 1.007002
+[04:00:41] System has 16 cores.
+[04:00:41] Will use maximum of 8 cores.
+[04:00:41] Annotating as >>> Bacteria <<<
+[04:00:41] Generating locus_tag from 'no_miyamotoi_genome.fna' contents.
+[04:00:41] Setting --locustag IELKNCAN from MD5 2e547ca762f1eebe0d543a9a386b14d5
+[04:00:41] Creating new output folder: miyamotoi_prokka
+[04:00:41] Running: mkdir -p miyamotoi_prokka
+[04:00:41] Using filename prefix: PROKKA_11232018.XXX
+[04:00:41] Setting HMMER_NCPU=1
+[04:00:41] Writing log to: miyamotoi_prokka/PROKKA_11232018.log
+[04:00:41] Command: /usr/bin/prokka/bin/prokka no_miyamotoi_genome.fna --outdir miyamotoi_prokka
+[04:00:41] Appending to PATH: /usr/bin/prokka/bin/../binaries/linux
+[04:00:41] Appending to PATH: /usr/bin/prokka/bin/../binaries/linux/../common
+[04:00:41] Appending to PATH: /usr/bin/prokka/bin
+[04:00:41] Looking for 'aragorn' - found /usr/bin/prokka/bin/../binaries/linux/aragorn
+[04:00:41] Determined aragorn version is 1.2
+[04:00:41] Looking for 'barrnap' - found /usr/bin/barrnap
+[04:00:41] Determined barrnap version is 0.8
+[04:00:41] Looking for 'blastp' - found /usr/bin/blastp
+[04:00:41] Determined blastp version is 2.6
+[04:00:41] Looking for 'cmpress' - found /usr/bin/cmpress
+[04:00:41] Determined cmpress version is 1.1
+[04:00:41] Looking for 'cmscan' - found /usr/bin/cmscan
+[04:00:41] Determined cmscan version is 1.1
+[04:00:41] Looking for 'egrep' - found /bin/egrep
+[04:00:41] Looking for 'find' - found /usr/bin/find
+[04:00:41] Looking for 'grep' - found /bin/grep
+[04:00:41] Looking for 'hmmpress' - found /usr/bin/hmmpress
+[04:00:41] Determined hmmpress version is 3.1
+[04:00:41] Looking for 'hmmscan' - found /usr/bin/hmmscan
+[04:00:41] Determined hmmscan version is 3.1
+[04:00:41] Looking for 'java' - found /usr/bin/java
+[04:00:41] Looking for 'less' - found /usr/bin/less
+[04:00:41] Looking for 'makeblastdb' - found /usr/bin/makeblastdb
+[04:00:41] Determined makeblastdb version is 2.6
+[04:00:41] Looking for 'minced' - found /usr/bin/prokka/bin/../binaries/linux/../common/minced
+[04:00:41] Determined minced version is 2.0
+[04:00:41] Looking for 'parallel' - found /usr/bin/prokka/bin/../binaries/linux/../common/parallel
+[04:00:42] Determined parallel version is 20150122
+[04:00:42] Looking for 'prodigal' - found /usr/bin/prodigal
+[04:00:42] Determined prodigal version is 2.6
+[04:00:42] Looking for 'prokka-genbank_to_fasta_db' - found /usr/bin/prokka/bin/prokka-genbank_to_fasta_db
+[04:00:42] Looking for 'sed' - found /bin/sed
+[04:00:42] Looking for 'tbl2asn' - found /usr/bin/prokka/bin/../binaries/linux/tbl2asn
+[04:00:42] Determined tbl2asn version is 25.6
+[04:00:42] Using genetic code table 11.
+[04:00:42] Loading and checking input file: no_miyamotoi_genome.fna
+[04:00:42] Wrote 2 contigs totalling 937966 bp.
+[04:00:42] Predicting tRNAs and tmRNAs
+[04:00:42] Running: aragorn -l -gc11  -w miyamotoi_prokka\/PROKKA_11232018\.fna
+[04:00:42] 1 tRNA-Gly [46160,46232] 35 (tcc)
+[04:00:42] 2 tmRNA c[46270,46628] 81,128 AKNNNFTSSNLVMAA*
+[04:00:42] 3 tRNA-Cys [201293,201365] 34 (gca)
+[04:00:42] 4 tRNA-Phe [205085,205157] 34 (gaa)
+[04:00:42] 5 tRNA-Met [217088,217161] 35 (cat)
+[04:00:42] 6 tRNA-Leu [257256,257339] 35 (gag)
+[04:00:42] 7 tRNA-Trp c[407500,407575] 36 (cca)
+[04:00:42] 8 tRNA-Thr c[407792,407864] 34 (ggt)
+[04:00:42] 9 tRNA-Ile [442807,442880] 35 (gat)
+[04:00:42] 10 tRNA-Ala c[443180,443256] 37 (tgc)
+[04:00:42] 11 tRNA-Ser [481584,481673] 35 (gct)
+[04:00:42] 12 tRNA-Ser [481749,481833] 35 (tga)
+[04:00:42] 13 tRNA-Arg [482662,482737] 36 (gcg)
+[04:00:42] 14 tRNA-Ser [482752,482839] 36 (gga)
+[04:00:42] 15 tRNA-Glu c[549094,549167] 35 (ttc)
+[04:00:42] 16 tRNA-Lys c[549174,549246] 34 (ttt)
+[04:00:42] 17 tRNA-Lys c[549342,549415] 34 (ctt)
+[04:00:42] 18 tRNA-Leu c[588622,588707] 36 (caa)
+[04:00:42] 19 tRNA-His [632822,632896] 35 (gtg)
+[04:00:42] 20 tRNA-Arg [632913,632988] 36 (tcg)
+[04:00:42] 21 tRNA-Leu [633044,633126] 36 (tag)
+[04:00:42] 22 tRNA-Gly [633132,633203] 33 (gcc)
+[04:00:42] 23 tRNA-Met c[639773,639846] 35 (cat)
+[04:00:42] 24 tRNA-Met [645008,645081] 35 (cat)
+[04:00:42] 25 tRNA-Asn [653436,653508] 33 (gtt)
+[04:00:42] 26 tRNA-Asp c[659235,659310] 36 (gtc)
+[04:00:42] 27 tRNA-Val c[726248,726321] 35 (tac)
+[04:00:42] 28 tRNA-Thr [741889,741964] 36 (tgt)
+[04:00:42] 29 tRNA-Tyr [741974,742054] 35 (gta)
+[04:00:42] 30 tRNA-Pro c[788900,788974] 35 (tgg)
+[04:00:42] 31 tRNA-Arg c[788984,789057] 35 (tct)
+[04:00:42] 32 tRNA-Leu [803137,803222] 36 (taa)
+[04:00:42] 33 tRNA-Gln [824527,824600] 34 (ttg)
+[04:00:42] Found 33 tRNAs
+[04:00:42] Predicting Ribosomal RNAs
+[04:00:42] Running Barrnap with 8 threads
+[04:00:42] 1 NC_022079.2 434448 5S ribosomal RNA (partial)
+[04:00:42] 2 NC_022079.2 443325 16S ribosomal RNA
+[04:00:42] Found 2 rRNAs
+[04:00:42] Skipping ncRNA search, enable with --rfam if desired.
+[04:00:42] Total of 34 tRNA + rRNA features
+[04:00:42] Searching for CRISPR repeats
+[04:00:43] Found 0 CRISPRs
+[04:00:43] Predicting coding sequences
+[04:00:43] Contigs total 937966 bp, so using single mode
+[04:00:43] Running: prodigal -i miyamotoi_prokka\/PROKKA_11232018\.fna -c -m -g 11 -p single -f sco -q
+[04:00:44] Excluding CDS which overlaps existing RNA (tRNA) at NC_022079.2:639126..639830 on - strand
+[04:00:44] Found 855 CDS
+[04:00:44] Connecting features back to sequences
+[04:00:44] Not using genus-specific database. Try --usegenus to enable it.
+[04:00:44] Annotating CDS, please be patient.
+[04:00:44] Will use 8 CPUs for similarity searching.
+[04:00:45] There are still 855 unannotated CDS left (started with 855)
+[04:00:45] Will use blast to search against /usr/bin/prokka/db/kingdom/Bacteria/IS with 8 CPUs
+[04:00:45] Running: cat miyamotoi_prokka\/IS\.faa | parallel --gnu --plain -j 8 --block 18159 --recstart '>' --pipe blastp -query - -db /usr/bin/prokka/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > miyamotoi_prokka\/IS\.blast 2> /dev/null
+[04:00:48] Deleting unwanted file: miyamotoi_prokka/IS.faa
+[04:00:48] Deleting unwanted file: miyamotoi_prokka/IS.blast
+[04:00:48] There are still 855 unannotated CDS left (started with 855)
+[04:00:48] Will use blast to search against /usr/bin/prokka/db/kingdom/Bacteria/AMR with 8 CPUs
+[04:00:48] Running: cat miyamotoi_prokka\/AMR\.faa | parallel --gnu --plain -j 8 --block 18159 --recstart '>' --pipe blastp -query - -db /usr/bin/prokka/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > miyamotoi_prokka\/AMR\.blast 2> /dev/null
+[04:00:50] Deleting unwanted file: miyamotoi_prokka/AMR.faa
+[04:00:50] Deleting unwanted file: miyamotoi_prokka/AMR.blast
+[04:00:51] There are still 855 unannotated CDS left (started with 855)
+[04:00:51] Will use blast to search against /usr/bin/prokka/db/kingdom/Bacteria/sprot with 8 CPUs
+[04:00:51] Running: cat miyamotoi_prokka\/sprot\.faa | parallel --gnu --plain -j 8 --block 18159 --recstart '>' --pipe blastp -query - -db /usr/bin/prokka/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > miyamotoi_prokka\/sprot\.blast 2> /dev/null
+[04:01:01] Modify product: Probable transcriptional regulatory protein YebC => putative transcriptional regulatory protein YebC
+[04:01:01] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[04:01:01] Modify product: Phosphate-specific transport system accessory protein PhoU homolog => Phosphate-specific transport system accessory protein PhoU 
+[04:01:01] Modify product: Putative zinc metalloprotease aq_1964 => Putative zinc metalloprotease
+[04:01:01] Modify product: UPF0053 protein Rv2366c => hypothetical protein
+[04:01:01] Modify product: Probable M18 family aminopeptidase 1 => putative M18 family aminopeptidase 1
+[04:01:01] Modify product: Probable peptidoglycan glycosyltransferase FtsW => putative peptidoglycan glycosyltransferase FtsW
+[04:01:01] Modify product: Probable cysteine desulfurase => putative cysteine desulfurase
+[04:01:01] Modify product: Probable acetyl-CoA acyltransferase => putative acetyl-CoA acyltransferase
+[04:01:01] Modify product: UPF0073 inner membrane protein YqfA => hypothetical protein
+[04:01:01] Modify product: Inner membrane protein BB_0250 => Inner membrane protein
+[04:01:01] Modify product: GTP cyclohydrolase 1 type 2 homolog => GTP cyclohydrolase 1 type 2 
+[04:01:01] Modify product: Putative dipeptidase SACOL1801 => Putative dipeptidase
+[04:01:01] Modify product: Probable M18 family aminopeptidase 2 => putative M18 family aminopeptidase 2
+[04:01:01] Modify product: Uncharacterized protein BB_0689 => putative protein
+[04:01:01] Modify product: UPF0109 protein Rv2908c => hypothetical protein
+[04:01:01] Modify product: Putative outer membrane protein assembly factor TP_0326 => Putative outer membrane protein assembly factor
+[04:01:01] Modify product: UPF0701 protein YicC => hypothetical protein
+[04:01:01] Modify product: Cyclic di-GMP binding protein TDE_0214 => Cyclic di-GMP binding protein
+[04:01:01] Modify product: Probable ATP-dependent helicase DinG homolog => putative ATP-dependent helicase DinG 
+[04:01:01] Modify product: Probable tRNA-dihydrouridine synthase => putative tRNA-dihydrouridine synthase
+[04:01:01] Modify product: Uncharacterized ABC transporter ATP-binding protein YbiT => putative ABC transporter ATP-binding protein YbiT
+[04:01:01] Cleaned 22 /product names
+[04:01:01] Deleting unwanted file: miyamotoi_prokka/sprot.faa
+[04:01:01] Deleting unwanted file: miyamotoi_prokka/sprot.blast
+[04:01:01] There are still 447 unannotated CDS left (started with 855)
+[04:01:01] Will use hmmer3 to search against /usr/bin/prokka/db/hmm/HAMAP.hmm with 8 CPUs
+[04:01:01] Running: cat miyamotoi_prokka\/HAMAP\.hmm\.faa | parallel --gnu --plain -j 8 --block 8985 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /usr/bin/prokka/db/hmm/HAMAP.hmm /dev/stdin > miyamotoi_prokka\/HAMAP\.hmm\.hmmer3 2> /dev/null
+[04:01:06] Deleting unwanted file: miyamotoi_prokka/HAMAP.hmm.faa
+[04:01:06] Deleting unwanted file: miyamotoi_prokka/HAMAP.hmm.hmmer3
+[04:01:06] Labelling remaining 379 proteins as 'hypothetical protein'
+[04:01:06] Possible /pseudo 'Membrane lipoprotein TmpC' at NC_022079.2 position 393827
+[04:01:06] Possible /pseudo 'Membrane lipoprotein TmpC' at NC_022079.2 position 394882
+[04:01:06] Possible /pseudo 'Flagellar basal-body rod protein FlgG' at NC_022079.2 position 817737
+[04:01:06] Found 417 unique /gene codes.
+[04:01:06] Fixed 2 duplicate /gene - ospC_1 ospC_2
+[04:01:06] Fixed 2 duplicate /gene - mnmC_1 mnmC_2
+[04:01:06] Fixed 2 duplicate /gene - bepA_1 bepA_2
+[04:01:06] Fixed 2 duplicate /gene - cmk_1 cmk_2
+[04:01:06] Fixed 2 duplicate /gene - mtnN_1 mtnN_2
+[04:01:06] Fixed 3 duplicate /gene - cheB_1 cheB_2 cheB_3
+[04:01:06] Fixed 2 duplicate /gene - cheR1_1 cheR1_2
+[04:01:06] Fixed 2 duplicate /gene - nagZ_1 nagZ_2
+[04:01:06] Fixed 2 duplicate /gene - soj_1 soj_2
+[04:01:06] Fixed 2 duplicate /gene - gyrA_1 gyrA_2
+[04:01:06] Fixed 2 duplicate /gene - smc_1 smc_2
+[04:01:06] Fixed 2 duplicate /gene - cheW_1 cheW_2
+[04:01:06] Fixed 2 duplicate /gene - lapB_1 lapB_2
+[04:01:06] Fixed 2 duplicate /gene - flgG_1 flgG_2
+[04:01:06] Fixed 2 duplicate /gene - dnaK_1 dnaK_2
+[04:01:06] Fixed 3 duplicate /gene - cheY_1 cheY_2 cheY_3
+[04:01:06] Fixed 2 duplicate /gene - clpP_1 clpP_2
+[04:01:06] Fixed 2 duplicate /gene - yigL_1 yigL_2
+[04:01:06] Fixed 3 duplicate /gene - ptsG_1 ptsG_2 ptsG_3
+[04:01:06] Fixed 2 duplicate /gene - ptsH_1 ptsH_2
+[04:01:06] Fixed 2 duplicate /gene - lepA_1 lepA_2
+[04:01:06] Fixed 2 duplicate /gene - rlmB_1 rlmB_2
+[04:01:06] Fixed 2 duplicate /gene - lon1_1 lon1_2
+[04:01:06] Fixed 2 duplicate /gene - ymdB_1 ymdB_2
+[04:01:06] Fixed 2 duplicate /gene - oppA_1 oppA_2
+[04:01:06] Fixed 2 duplicate /gene - dnaJ_1 dnaJ_2
+[04:01:06] Fixed 3 duplicate /gene - tmpC_1 tmpC_2 tmpC_3
+[04:01:06] Fixed 2 duplicate /gene - gyrB_1 gyrB_2
+[04:01:06] Fixed 2 duplicate /gene - ftsW_1 ftsW_2
+[04:01:06] Fixed 2 duplicate /gene - fliG_1 fliG_2
+[04:01:06] Fixed 2 duplicate /gene - fusA_1 fusA_2
+[04:01:06] Fixed 31 colliding /gene names.
+[04:01:06] Adding /locus_tag identifiers
+[04:01:06] Assigned 890 locus_tags to CDS and RNA features.
+[04:01:06] Writing outputs to miyamotoi_prokka/
+[04:01:06] Generating annotation statistics file
+[04:01:06] Generating Genbank and Sequin files
+[04:01:06] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.13.3 from https://github.com/tseemann/prokka' -Z miyamotoi_prokka\/PROKKA_11232018\.err -i miyamotoi_prokka\/PROKKA_11232018\.fsa 2> /dev/null
+[04:01:08] Deleting unwanted file: miyamotoi_prokka/errorsummary.val
+[04:01:08] Deleting unwanted file: miyamotoi_prokka/PROKKA_11232018.dr
+[04:01:08] Deleting unwanted file: miyamotoi_prokka/PROKKA_11232018.fixedproducts
+[04:01:08] Deleting unwanted file: miyamotoi_prokka/PROKKA_11232018.ecn
+[04:01:08] Deleting unwanted file: miyamotoi_prokka/PROKKA_11232018.val
+[04:01:08] Repairing broken .GBK output that tbl2asn produces...
+[04:01:08] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < miyamotoi_prokka\/PROKKA_11232018\.gbf > miyamotoi_prokka\/PROKKA_11232018\.gbk
+[04:01:08] Deleting unwanted file: miyamotoi_prokka/PROKKA_11232018.gbf
+[04:01:08] Output files:
+[04:01:08] miyamotoi_prokka/PROKKA_11232018.fna
+[04:01:08] miyamotoi_prokka/PROKKA_11232018.ffn
+[04:01:08] miyamotoi_prokka/PROKKA_11232018.gbk
+[04:01:08] miyamotoi_prokka/PROKKA_11232018.gff
+[04:01:08] miyamotoi_prokka/PROKKA_11232018.fsa
+[04:01:08] miyamotoi_prokka/PROKKA_11232018.txt
+[04:01:08] miyamotoi_prokka/PROKKA_11232018.log
+[04:01:08] miyamotoi_prokka/PROKKA_11232018.tbl
+[04:01:08] miyamotoi_prokka/PROKKA_11232018.tsv
+[04:01:08] miyamotoi_prokka/PROKKA_11232018.sqn
+[04:01:08] miyamotoi_prokka/PROKKA_11232018.err
+[04:01:08] miyamotoi_prokka/PROKKA_11232018.faa
+[04:01:08] Annotation finished successfully.
+[04:01:08] Walltime used: 0.45 minutes
+[04:01:08] If you use this result please cite the Prokka paper:
+[04:01:08] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[04:01:08] Type 'prokka --citation' for more details.
+[04:01:08] Share and enjoy!

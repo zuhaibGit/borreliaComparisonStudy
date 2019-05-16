@@ -1,0 +1,14 @@
+#!/bin/bash
+
+touch pan.txt
+touch temp.txt
+cat "$1""/""$1""_unique_gene_list.txt" > pan.txt
+for var in "$@"
+do
+	cat "$var""/""$var""_unique_gene_list.txt" >> currFile.txt
+done
+
+sort currFile.txt > temp.txt
+uniq temp.txt > pan.txt
+
+rm currFile.txt temp.txt

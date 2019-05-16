@@ -1,0 +1,31 @@
+#!/bin/bash
+
+#Takes in a txt file of gene names, and goes through the .tsv files of the prokka folders of each organism to get
+#the gene names in the tsv files. Then it goes through the GO annotations folder for that organism to get the 
+#associated GO terms for the gene. Function echos GO IDs associated with each gene in the given file.
+#Example: ./getGOTerms lyme_pan.txt
+#Note: Some genes in the gene list (e.g. lyme_pan.txt) won't have GO annotations.
+
+filename="$1"
+
+touch temp.txt
+while read p; do
+	#What organisms is the gene found in?
+	lookIn=`./findGeneIn "$p" burgdorferi afzelii garinii hermsii miyamotoi parkeri`
+
+	for j in ${lookIn}
+	do
+		#Find the gene in the prokka tsv file for the organism and print out the GO annotations in the .annotations file
+		grep "$p" "$j""/""prokka_""$j""/prokka_tsv.tsv" | awk '{print $1}' > temp.txt
+		while read gene; do
+			grep "$gene" "$j""/""$j""_ann.annotations"
+		done < temp.txt
+
+		#If the gene was found in one of the tsv files of the organism, then no need to look for GO terms in hte remaining organisms, so exit
+		if grep -q "$p" "$j""/""prokka_""$j""/prokka_tsv.tsv"; then
+			break
+		fi
+	done
+done < $filename
+
+rm temp.txt

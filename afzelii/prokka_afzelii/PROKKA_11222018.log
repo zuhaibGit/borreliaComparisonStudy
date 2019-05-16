@@ -1,0 +1,260 @@
+[17:15:35] This is prokka 1.13.3
+[17:15:35] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[17:15:35] Homepage is https://github.com/tseemann/prokka
+[17:15:35] Local time is Thu Nov 22 17:15:35 2018
+[17:15:35] You are group10
+[17:15:35] Operating system is linux
+[17:15:35] You have BioPerl 1.007002
+[17:15:35] System has 16 cores.
+[17:15:35] Will use maximum of 8 cores.
+[17:15:35] Annotating as >>> Bacteria <<<
+[17:15:35] Generating locus_tag from 'lyme_afzelii_genome.fna' contents.
+[17:15:35] Setting --locustag JGCGDLPH from MD5 30c0d5918cc71b9dffddcff25cad20cb
+[17:15:35] Creating new output folder: afzelii_prokka
+[17:15:35] Running: mkdir -p afzelii_prokka
+[17:15:35] Using filename prefix: PROKKA_11222018.XXX
+[17:15:35] Setting HMMER_NCPU=1
+[17:15:35] Writing log to: afzelii_prokka/PROKKA_11222018.log
+[17:15:35] Command: /usr/bin/prokka/bin/prokka lyme_afzelii_genome.fna --outdir afzelii_prokka
+[17:15:35] Appending to PATH: /usr/bin/prokka/bin/../binaries/linux
+[17:15:35] Appending to PATH: /usr/bin/prokka/bin/../binaries/linux/../common
+[17:15:35] Appending to PATH: /usr/bin/prokka/bin
+[17:15:35] Looking for 'aragorn' - found /usr/bin/prokka/bin/../binaries/linux/aragorn
+[17:15:35] Determined aragorn version is 1.2
+[17:15:35] Looking for 'barrnap' - found /usr/bin/barrnap
+[17:15:35] Determined barrnap version is 0.8
+[17:15:35] Looking for 'blastp' - found /usr/bin/blastp
+[17:15:35] Determined blastp version is 2.6
+[17:15:35] Looking for 'cmpress' - found /usr/bin/cmpress
+[17:15:35] Determined cmpress version is 1.1
+[17:15:35] Looking for 'cmscan' - found /usr/bin/cmscan
+[17:15:35] Determined cmscan version is 1.1
+[17:15:35] Looking for 'egrep' - found /bin/egrep
+[17:15:35] Looking for 'find' - found /usr/bin/find
+[17:15:35] Looking for 'grep' - found /bin/grep
+[17:15:35] Looking for 'hmmpress' - found /usr/bin/hmmpress
+[17:15:35] Determined hmmpress version is 3.1
+[17:15:35] Looking for 'hmmscan' - found /usr/bin/hmmscan
+[17:15:36] Determined hmmscan version is 3.1
+[17:15:36] Looking for 'java' - found /usr/bin/java
+[17:15:36] Looking for 'less' - found /usr/bin/less
+[17:15:36] Looking for 'makeblastdb' - found /usr/bin/makeblastdb
+[17:15:36] Determined makeblastdb version is 2.6
+[17:15:36] Looking for 'minced' - found /usr/bin/prokka/bin/../binaries/linux/../common/minced
+[17:15:36] Determined minced version is 2.0
+[17:15:36] Looking for 'parallel' - found /usr/bin/prokka/bin/../binaries/linux/../common/parallel
+[17:15:36] Determined parallel version is 20150122
+[17:15:36] Looking for 'prodigal' - found /usr/bin/prodigal
+[17:15:36] Determined prodigal version is 2.6
+[17:15:36] Looking for 'prokka-genbank_to_fasta_db' - found /usr/bin/prokka/bin/prokka-genbank_to_fasta_db
+[17:15:36] Looking for 'sed' - found /bin/sed
+[17:15:36] Looking for 'tbl2asn' - found /usr/bin/prokka/bin/../binaries/linux/tbl2asn
+[17:15:36] Determined tbl2asn version is 25.6
+[17:15:36] Using genetic code table 11.
+[17:15:36] Loading and checking input file: lyme_afzelii_genome.fna
+[17:15:36] Wrote 1 contigs totalling 905471 bp.
+[17:15:36] Predicting tRNAs and tmRNAs
+[17:15:36] Running: aragorn -l -gc11  -w afzelii_prokka\/PROKKA_11222018\.fna
+[17:15:36] 1 tRNA-Gly [46531,46602] 34 (tcc)
+[17:15:36] 2 tmRNA c[46683,47041] 82,129 AKNNNFTSSNLVMAA*
+[17:15:36] 3 tRNA-Cys [202348,202422] 35 (gca)
+[17:15:36] 4 tRNA-Phe [205973,206045] 34 (gaa)
+[17:15:36] 5 tRNA-Phe [206064,206138] 35 (gaa)
+[17:15:36] 6 tRNA-Met [217182,217255] 35 (cat)
+[17:15:36] 7 tRNA-Leu [254961,255047] 36 (gag)
+[17:15:36] 8 tRNA-Trp c[408380,408454] 35 (cca)
+[17:15:36] 9 tRNA-Thr c[408669,408741] 34 (ggt)
+[17:15:36] 10 tRNA-Ile [444135,444208] 35 (gat)
+[17:15:36] 11 tRNA-Ala c[446242,446317] 36 (tgc)
+[17:15:36] 12 tRNA-Ser [483098,483187] 35 (gct)
+[17:15:36] 13 tRNA-Ser [483243,483331] 36 (tga)
+[17:15:36] 14 tRNA-Arg [484140,484215] 36 (gcg)
+[17:15:36] 15 tRNA-Ser [484229,484317] 36 (gga)
+[17:15:36] 16 tRNA-Glu c[549437,549511] 35 (ttc)
+[17:15:36] 17 tRNA-Lys c[549515,549588] 34 (ttt)
+[17:15:36] 18 tRNA-Lys c[549696,549768] 34 (ctt)
+[17:15:36] 19 tRNA-Leu c[585962,586047] 36 (caa)
+[17:15:36] 20 tRNA-His [638008,638081] 34 (gtg)
+[17:15:36] 21 tRNA-Arg [638103,638178] 36 (tcg)
+[17:15:36] 22 tRNA-Leu [638256,638338] 36 (tag)
+[17:15:36] 23 tRNA-Gly [638343,638414] 33 (gcc)
+[17:15:36] 24 tRNA-Met c[645016,645088] 34 (cat)
+[17:15:36] 25 tRNA-Met [650325,650398] 35 (cat)
+[17:15:36] 26 tRNA-Asn [658800,658873] 34 (gtt)
+[17:15:36] 27 tRNA-Asp c[664906,664981] 36 (gtc)
+[17:15:36] 28 tRNA-Val c[732395,732468] 35 (tac)
+[17:15:36] 29 tRNA-Thr [746811,746884] 35 (tgt)
+[17:15:36] 30 tRNA-Tyr [746889,746970] 35 (gta)
+[17:15:36] 31 tRNA-Pro c[790763,790837] 35 (tgg)
+[17:15:36] 32 tRNA-Arg c[790843,790918] 36 (tct)
+[17:15:36] 33 tRNA-Leu [803418,803503] 36 (taa)
+[17:15:36] 34 tRNA-Gln [824758,824831] 34 (ttg)
+[17:15:36] Found 34 tRNAs
+[17:15:36] Predicting Ribosomal RNAs
+[17:15:36] Running Barrnap with 8 threads
+[17:15:37] 1 NC_018887.1 435462 5S ribosomal RNA
+[17:15:37] 2 NC_018887.1 438698 5S ribosomal RNA
+[17:15:37] 3 NC_018887.1 444587 16S ribosomal RNA
+[17:15:37] 4 NC_018887.1 446494 16S ribosomal RNA
+[17:15:37] Found 4 rRNAs
+[17:15:37] Skipping ncRNA search, enable with --rfam if desired.
+[17:15:37] Total of 37 tRNA + rRNA features
+[17:15:37] Searching for CRISPR repeats
+[17:15:37] Found 0 CRISPRs
+[17:15:37] Predicting coding sequences
+[17:15:37] Contigs total 905471 bp, so using single mode
+[17:15:37] Running: prodigal -i afzelii_prokka\/PROKKA_11222018\.fna -c -m -g 11 -p single -f sco -q
+[17:15:38] Excluding CDS which overlaps existing RNA (tRNA) at NC_018887.1:658854..659399 on - strand
+[17:15:39] Found 874 CDS
+[17:15:39] Connecting features back to sequences
+[17:15:39] Not using genus-specific database. Try --usegenus to enable it.
+[17:15:39] Annotating CDS, please be patient.
+[17:15:39] Will use 8 CPUs for similarity searching.
+[17:15:39] There are still 874 unannotated CDS left (started with 874)
+[17:15:39] Will use blast to search against /usr/bin/prokka/db/kingdom/Bacteria/IS with 8 CPUs
+[17:15:39] Running: cat afzelii_prokka\/IS\.faa | parallel --gnu --plain -j 8 --block 17734 --recstart '>' --pipe blastp -query - -db /usr/bin/prokka/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > afzelii_prokka\/IS\.blast 2> /dev/null
+[17:15:42] Deleting unwanted file: afzelii_prokka/IS.faa
+[17:15:42] Deleting unwanted file: afzelii_prokka/IS.blast
+[17:15:42] There are still 874 unannotated CDS left (started with 874)
+[17:15:42] Will use blast to search against /usr/bin/prokka/db/kingdom/Bacteria/AMR with 8 CPUs
+[17:15:42] Running: cat afzelii_prokka\/AMR\.faa | parallel --gnu --plain -j 8 --block 17734 --recstart '>' --pipe blastp -query - -db /usr/bin/prokka/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > afzelii_prokka\/AMR\.blast 2> /dev/null
+[17:15:45] Deleting unwanted file: afzelii_prokka/AMR.faa
+[17:15:45] Deleting unwanted file: afzelii_prokka/AMR.blast
+[17:15:45] There are still 874 unannotated CDS left (started with 874)
+[17:15:45] Will use blast to search against /usr/bin/prokka/db/kingdom/Bacteria/sprot with 8 CPUs
+[17:15:45] Running: cat afzelii_prokka\/sprot\.faa | parallel --gnu --plain -j 8 --block 17734 --recstart '>' --pipe blastp -query - -db /usr/bin/prokka/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > afzelii_prokka\/sprot\.blast 2> /dev/null
+[17:15:55] Modify product: Probable transcriptional regulatory protein CBU_1566 => putative transcriptional regulatory protein
+[17:15:55] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[17:15:55] Modify product: Phosphate-specific transport system accessory protein PhoU homolog => Phosphate-specific transport system accessory protein PhoU 
+[17:15:55] Modify product: Probable cysteine desulfurase => putative cysteine desulfurase
+[17:15:55] Modify product: Probable parvulin-type peptidyl-prolyl cis-trans isomerase => putative parvulin-type peptidyl-prolyl cis-trans isomerase
+[17:15:55] Modify product: Probable acetyl-CoA acyltransferase => putative acetyl-CoA acyltransferase
+[17:15:55] Modify product: UPF0073 inner membrane protein YqfA => hypothetical protein
+[17:15:55] Modify product: Putative zinc metalloprotease aq_1964 => Putative zinc metalloprotease
+[17:15:55] Modify product: UPF0053 inner membrane protein YfjD => hypothetical protein
+[17:15:55] Modify product: Inner membrane protein BB_0250 => Inner membrane protein
+[17:15:55] Modify product: Probable ATP synthase YscN => putative ATP synthase YscN
+[17:15:55] Modify product: Probable peptidoglycan glycosyltransferase FtsW => putative peptidoglycan glycosyltransferase FtsW
+[17:15:55] Modify product: Probable M18 family aminopeptidase 1 => putative M18 family aminopeptidase 1
+[17:15:55] Modify product: GTP cyclohydrolase 1 type 2 homolog => GTP cyclohydrolase 1 type 2 
+[17:15:55] Modify product: Probable M18 family aminopeptidase 2 => putative M18 family aminopeptidase 2
+[17:15:55] Modify product: Uncharacterized protein BB_0689 => putative protein
+[17:15:55] Modify product: Uncharacterized protein HI_1349 => putative protein
+[17:15:55] Modify product: UPF0109 protein Rv2908c => hypothetical protein
+[17:15:56] Modify product: Cyclic di-GMP binding protein TDE_0214 => Cyclic di-GMP binding protein
+[17:15:56] Modify product: Probable tRNA-dihydrouridine synthase => putative tRNA-dihydrouridine synthase
+[17:15:56] Modify product: Uncharacterized ABC transporter ATP-binding protein YbiT => putative ABC transporter ATP-binding protein YbiT
+[17:15:56] Modify product: Uncharacterized protein HI_0755 => putative protein
+[17:15:56] Modify product: Putative outer membrane protein assembly factor TP_0326 => Putative outer membrane protein assembly factor
+[17:15:56] Modify product: UPF0701 protein HI_0467 => hypothetical protein
+[17:15:56] Cleaned 24 /product names
+[17:15:56] Deleting unwanted file: afzelii_prokka/sprot.faa
+[17:15:56] Deleting unwanted file: afzelii_prokka/sprot.blast
+[17:15:56] There are still 453 unannotated CDS left (started with 874)
+[17:15:56] Will use hmmer3 to search against /usr/bin/prokka/db/hmm/HAMAP.hmm with 8 CPUs
+[17:15:56] Running: cat afzelii_prokka\/HAMAP\.hmm\.faa | parallel --gnu --plain -j 8 --block 8772 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /usr/bin/prokka/db/hmm/HAMAP.hmm /dev/stdin > afzelii_prokka\/HAMAP\.hmm\.hmmer3 2> /dev/null
+[17:16:00] Deleting unwanted file: afzelii_prokka/HAMAP.hmm.faa
+[17:16:00] Deleting unwanted file: afzelii_prokka/HAMAP.hmm.hmmer3
+[17:16:00] Labelling remaining 383 proteins as 'hypothetical protein'
+[17:16:00] Possible /pseudo 'D-alanine--D-alanine ligase' at NC_018887.1 position 199786
+[17:16:00] Possible /pseudo 'Serine--tRNA ligase' at NC_018887.1 position 228997
+[17:16:00] Possible /pseudo 'Ribosomal RNA large subunit methyltransferase E' at NC_018887.1 position 318622
+[17:16:00] Possible /pseudo 'Membrane lipoprotein TpN38(b)' at NC_018887.1 position 324438
+[17:16:00] Possible /pseudo 'Periplasmic oligopeptide-binding protein' at NC_018887.1 position 335251
+[17:16:00] Possible /pseudo 'Periplasmic oligopeptide-binding protein' at NC_018887.1 position 336979
+[17:16:00] Possible /pseudo 'Oligopeptide transport system permease protein OppB' at NC_018887.1 position 339394
+[17:16:00] Possible /pseudo 'Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B' at NC_018887.1 position 347764
+[17:16:00] Possible /pseudo 'Membrane lipoprotein TmpC' at NC_018887.1 position 391619
+[17:16:00] Possible /pseudo 'Membrane lipoprotein TmpC' at NC_018887.1 position 394364
+[17:16:00] Possible /pseudo 'Membrane lipoprotein TmpC' at NC_018887.1 position 395739
+[17:16:00] Possible /pseudo 'DNA gyrase subunit A' at NC_018887.1 position 455916
+[17:16:00] Possible /pseudo 'Chromosomal replication initiator protein DnaA' at NC_018887.1 position 459250
+[17:16:00] Possible /pseudo 'Lipoprotein signal peptidase' at NC_018887.1 position 491321
+[17:16:00] Possible /pseudo 'GTPase Der' at NC_018887.1 position 515981
+[17:16:00] Possible /pseudo 'Phenylalanine--tRNA ligase alpha subunit' at NC_018887.1 position 525440
+[17:16:00] Possible /pseudo 'DNA ligase' at NC_018887.1 position 564921
+[17:16:00] Possible /pseudo 'Transcription-repair-coupling factor' at NC_018887.1 position 653963
+[17:16:00] Possible /pseudo 'RecBCD enzyme subunit RecB' at NC_018887.1 position 667881
+[17:16:00] Possible /pseudo 'putative protein' at NC_018887.1 position 733175
+[17:16:00] Possible /pseudo 'Threonine--tRNA ligase' at NC_018887.1 position 760369
+[17:16:00] Possible /pseudo 'Flagellar basal-body rod protein FlgG' at NC_018887.1 position 817909
+[17:16:00] Possible /pseudo 'UvrABC system protein B' at NC_018887.1 position 891052
+[17:16:00] Found 413 unique /gene codes.
+[17:16:00] Fixed 3 duplicate /gene - cheB_1 cheB_2 cheB_3
+[17:16:00] Fixed 3 duplicate /gene - gyrA_1 gyrA_2 gyrA_3
+[17:16:00] Fixed 2 duplicate /gene - serS_1 serS_2
+[17:16:00] Fixed 2 duplicate /gene - lptB_1 lptB_2
+[17:16:00] Fixed 2 duplicate /gene - yigL_1 yigL_2
+[17:16:00] Fixed 2 duplicate /gene - lon1_1 lon1_2
+[17:16:00] Fixed 2 duplicate /gene - uvrB_1 uvrB_2
+[17:16:00] Fixed 2 duplicate /gene - mfd_1 mfd_2
+[17:16:00] Fixed 2 duplicate /gene - fusA_1 fusA_2
+[17:16:00] Fixed 2 duplicate /gene - recB_1 recB_2
+[17:16:00] Fixed 2 duplicate /gene - dnaK_1 dnaK_2
+[17:16:00] Fixed 2 duplicate /gene - pheS_1 pheS_2
+[17:16:00] Fixed 2 duplicate /gene - gatB_1 gatB_2
+[17:16:00] Fixed 2 duplicate /gene - bepA_1 bepA_2
+[17:16:00] Fixed 2 duplicate /gene - ligA_1 ligA_2
+[17:16:00] Fixed 2 duplicate /gene - priA_1 priA_2
+[17:16:00] Fixed 2 duplicate /gene - der_1 der_2
+[17:16:00] Fixed 2 duplicate /gene - cmk_1 cmk_2
+[17:16:00] Fixed 2 duplicate /gene - nagB_1 nagB_2
+[17:16:00] Fixed 2 duplicate /gene - thrS_1 thrS_2
+[17:16:00] Fixed 2 duplicate /gene - rlmE_1 rlmE_2
+[17:16:00] Fixed 2 duplicate /gene - gyrB_1 gyrB_2
+[17:16:00] Fixed 2 duplicate /gene - mtnN_1 mtnN_2
+[17:16:00] Fixed 2 duplicate /gene - sigA_1 sigA_2
+[17:16:00] Fixed 3 duplicate /gene - oppA_1 oppA_2 oppA_3
+[17:16:00] Fixed 2 duplicate /gene - prfA_1 prfA_2
+[17:16:00] Fixed 2 duplicate /gene - nagZ_1 nagZ_2
+[17:16:00] Fixed 2 duplicate /gene - cheY_1 cheY_2
+[17:16:00] Fixed 2 duplicate /gene - ftsW_1 ftsW_2
+[17:16:00] Fixed 2 duplicate /gene - dnaA_1 dnaA_2
+[17:16:00] Fixed 2 duplicate /gene - flgG_1 flgG_2
+[17:16:00] Fixed 2 duplicate /gene - lspA_1 lspA_2
+[17:16:00] Fixed 2 duplicate /gene - ptsG_1 ptsG_2
+[17:16:00] Fixed 2 duplicate /gene - cheR1_1 cheR1_2
+[17:16:00] Fixed 2 duplicate /gene - ymdB_1 ymdB_2
+[17:16:00] Fixed 5 duplicate /gene - tmpC_1 tmpC_2 tmpC_3 tmpC_4 tmpC_5
+[17:16:00] Fixed 2 duplicate /gene - clpP_1 clpP_2
+[17:16:00] Fixed 2 duplicate /gene - lepA_1 lepA_2
+[17:16:00] Fixed 3 duplicate /gene - fruA_1 fruA_2 fruA_3
+[17:16:00] Fixed 2 duplicate /gene - oppB_1 oppB_2
+[17:16:00] Fixed 2 duplicate /gene - ddl_1 ddl_2
+[17:16:00] Fixed 2 duplicate /gene - cheW_1 cheW_2
+[17:16:00] Fixed 2 duplicate /gene - btuD_1 btuD_2
+[17:16:00] Fixed 2 duplicate /gene - fliG_1 fliG_2
+[17:16:00] Fixed 44 colliding /gene names.
+[17:16:00] Adding /locus_tag identifiers
+[17:16:00] Assigned 912 locus_tags to CDS and RNA features.
+[17:16:00] Writing outputs to afzelii_prokka/
+[17:16:00] Generating annotation statistics file
+[17:16:00] Generating Genbank and Sequin files
+[17:16:00] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.13.3 from https://github.com/tseemann/prokka' -Z afzelii_prokka\/PROKKA_11222018\.err -i afzelii_prokka\/PROKKA_11222018\.fsa 2> /dev/null
+[17:16:02] Deleting unwanted file: afzelii_prokka/errorsummary.val
+[17:16:02] Deleting unwanted file: afzelii_prokka/PROKKA_11222018.dr
+[17:16:02] Deleting unwanted file: afzelii_prokka/PROKKA_11222018.fixedproducts
+[17:16:02] Deleting unwanted file: afzelii_prokka/PROKKA_11222018.ecn
+[17:16:02] Deleting unwanted file: afzelii_prokka/PROKKA_11222018.val
+[17:16:02] Repairing broken .GBK output that tbl2asn produces...
+[17:16:02] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < afzelii_prokka\/PROKKA_11222018\.gbf > afzelii_prokka\/PROKKA_11222018\.gbk
+[17:16:02] Deleting unwanted file: afzelii_prokka/PROKKA_11222018.gbf
+[17:16:02] Output files:
+[17:16:02] afzelii_prokka/PROKKA_11222018.faa
+[17:16:02] afzelii_prokka/PROKKA_11222018.fsa
+[17:16:02] afzelii_prokka/PROKKA_11222018.fna
+[17:16:02] afzelii_prokka/PROKKA_11222018.log
+[17:16:02] afzelii_prokka/PROKKA_11222018.tsv
+[17:16:02] afzelii_prokka/PROKKA_11222018.err
+[17:16:02] afzelii_prokka/PROKKA_11222018.sqn
+[17:16:02] afzelii_prokka/PROKKA_11222018.ffn
+[17:16:02] afzelii_prokka/PROKKA_11222018.tbl
+[17:16:02] afzelii_prokka/PROKKA_11222018.txt
+[17:16:02] afzelii_prokka/PROKKA_11222018.gff
+[17:16:02] afzelii_prokka/PROKKA_11222018.gbk
+[17:16:02] Annotation finished successfully.
+[17:16:02] Walltime used: 0.45 minutes
+[17:16:02] If you use this result please cite the Prokka paper:
+[17:16:02] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[17:16:02] Type 'prokka --citation' for more details.
+[17:16:02] Share and enjoy!
