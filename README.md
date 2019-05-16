@@ -19,24 +19,28 @@ and non-LD bacteria, pan-genome for LD and non-LD bacteria, GO annotations for t
 This script takes in one argument: the name of the the directory which contains the .fna file that needs to be annotated. It the ncreates a list of annotated genes, and a
 unique list of annotated genes for the .fna file.
 It's used as follows
+
 	./annotateGenome garinii
 
 ### getGOTerms
 This script takes one argument: the name of a file that contains prokka_annotated gene names (one gene per line), and goes through the tsv files and the .annotations file
 of the organisms to print out the GO terms associated with the genes. Note that some of the prokka annotated genes may not have GO annotations.
 It's used as follows
+
 	./getGOTerms lyme_pan.txt
 
 ### extractGOTerms
 This script just applies the getGOTerms script to the file name provided, and removes the irrelevant information from the tsv files, leaving only the list of GO terms
 Note, the file will probably have duplicate GO terms. 
 Useage:
+
 	./extractGOTerms lyme_pan.txt
 
 ### findCoreGenome
 Given a list of folder names for organisms (e.g. burdorferi, garinii, etc.) as command line arguments, this script
 finds genes in the intersection of the unique gene lists of those organisms.
 Usage:
+
 	./findCoreGenome burgdorferi garinii afzelii
 
 
@@ -44,10 +48,12 @@ Usage:
 Given a list of folder names for organisms (e.g. burdorferi, garinii, etc.) as command line arguments, this script
 finds genes in the union of the unique gene lists of those organisms.
 Usage:
+
 	./findPanGenome burgdorferi garinii afzelii
 
 
 ### findGeneIn
 Givne a Uniprot gene name, goes through the unique gene list of each organism (in that organism's folder) and looks for it. If found, ouputs the organisms name to the screen
 Usage:
+
 	./findGeneIn "dnaB" burgdorferi garinii hermsii parkeri afzelii miyamotoi
